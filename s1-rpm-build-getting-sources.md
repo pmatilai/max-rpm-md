@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-build.html)
+[Prev](ch-rpm-build.md)
 
 Chapter 11. Building Packages: A Simple Example
 
-[Next](s1-rpm-build-creating-spec-file.html)
+[Next](s1-rpm-build-creating-spec-file.md)
 
 -----
 
@@ -33,7 +33,7 @@ tell RPM what to do with it.
 
 |                                     |                         |                                              |
 | :---------------------------------- | :---------------------: | -------------------------------------------: |
-| [Prev](ch-rpm-build.html)           |   [Home](index.html)    | [Next](s1-rpm-build-creating-spec-file.html) |
-| Building Packages: A Simple Example | [Up](ch-rpm-build.html) |                       Creating the Spec File |
+| [Prev](ch-rpm-build.md)           |   [Home](index.md)    | [Next](s1-rpm-build-creating-spec-file.md) |
+| Building Packages: A Simple Example | [Up](ch-rpm-build.md) |                       Creating the Spec File |
 
 </div>

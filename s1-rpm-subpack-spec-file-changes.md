@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-subpack-example-intro.html)
+[Prev](s1-rpm-subpack-example-intro.md)
 
 Chapter 18. Creating Subpackages
 
-[Next](s1-rpm-subpack-build-time-scripts.html)
+[Next](s1-rpm-subpack-build-time-scripts.md)
 
 -----
 
@@ -29,7 +29,7 @@ definition of a preamble for each subpackage.
 ## <span id="s2-rpm-subpack-subpackage-preamble">The Subpackage's "Preamble"</span>
 
 When we introduced RPM package building in [Chapter
-10](ch-rpm-basics.html), we said that every spec file contains a
+10](ch-rpm-basics.md), we said that every spec file contains a
 preamble. The preamble contains a variety of tags that define all sorts
 of information about the package. In a single package situation, the
 preamble must be at the start of the spec file. The spec file we're
@@ -689,7 +689,7 @@ spec file is missing something. Let's add that part now.
 
 |                                                                                       |                                        |
 | ------------------------------------------------------------------------------------- | -------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-subpack-spec-file-changes.html#AEN11083) | Hey, we said it was a simple example\! |
+| [<span class="footnote">\[1\]</span>](s1-rpm-subpack-spec-file-changes.md#AEN11083) | Hey, we said it was a simple example\! |
 
 <div class="NAVFOOTER">
 
@@ -697,7 +697,7 @@ spec file is missing something. Let's add that part now.
 
 |                                             |                           |                                                |
 | :------------------------------------------ | :-----------------------: | ---------------------------------------------: |
-| [Prev](s1-rpm-subpack-example-intro.html)   |    [Home](index.html)     | [Next](s1-rpm-subpack-build-time-scripts.html) |
-| Our Example Spec File: Subpackages Galore\! | [Up](ch-rpm-subpack.html) |  Build-Time Scripts: Unchanged For Subpackages |
+| [Prev](s1-rpm-subpack-example-intro.md)   |    [Home](index.md)     | [Next](s1-rpm-subpack-build-time-scripts.md) |
+| Our Example Spec File: Subpackages Galore\! | [Up](ch-rpm-subpack.md) |  Build-Time Scripts: Unchanged For Subpackages |
 
 </div>

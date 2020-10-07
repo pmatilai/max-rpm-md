@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-specref-files-list-directives.html)
+[Prev](s1-rpm-specref-files-list-directives.md)
 
 Appendix E. Concise Spec File Reference
 
-[Next](s1-rpm-specref-conditionals.html)
+[Next](s1-rpm-specref-conditionals.md)
 
 -----
 
@@ -52,7 +52,7 @@ and a subpackage is defined with the following **%package** directive:
 the subpackage name will be `foo-bar`.
 
 See also: [the Section called *The Lone Directive: **%package*** in
-Chapter 13](s1-rpm-inside-package-directive.html).
+Chapter 13](s1-rpm-inside-package-directive.md).
 
 <div class="sect2">
 
@@ -80,7 +80,7 @@ the subpackage name will be `bar`.
 
 See also: [the Section called ***-n `<string>`** — Use **`<string>`** As
 the Entire Subpackage Name* in Chapter
-13](s1-rpm-inside-package-directive.html#s2-rpm-inside-package-n-option).
+13](s1-rpm-inside-package-directive.md#s2-rpm-inside-package-n-option).
 
 </div>
 
@@ -92,7 +92,7 @@ the Entire Subpackage Name* in Chapter
 
 |                                                   |                           |                                          |
 | :------------------------------------------------ | :-----------------------: | ---------------------------------------: |
-| [Prev](s1-rpm-specref-files-list-directives.html) |    [Home](index.html)     | [Next](s1-rpm-specref-conditionals.html) |
-| Directives For the **%files** list                | [Up](ch-rpm-specref.html) |                             Conditionals |
+| [Prev](s1-rpm-specref-files-list-directives.md) |    [Home](index.md)     | [Next](s1-rpm-specref-conditionals.md) |
+| Directives For the **%files** list                | [Up](ch-rpm-specref.md) |                             Conditionals |
 
 </div>

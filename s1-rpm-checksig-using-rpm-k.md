@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-checksig-configuring-pgp.html)
+[Prev](s1-rpm-checksig-configuring-pgp.md)
 
 Chapter 7. Using RPM to Verify Package Files
 
-[Next](ch-rpm-miscellania.html)
+[Next](ch-rpm-miscellania.md)
 
 -----
 
@@ -367,7 +367,7 @@ verify packages?
 
 Certainly — in fact, we've already done it, in [the Section called *When
 You Are Missing the Correct Public
-Key*](s1-rpm-checksig-using-rpm-k.html#s2-rpm-checksig-missing-public-key).
+Key*](s1-rpm-checksig-using-rpm-k.md#s2-rpm-checksig-missing-public-key).
 You lose the ability to verify the package's origins, as well as some
 level of confidence in the package's integrity, but the size and MD5
 checksums still give some measure of assurance as to the package's
@@ -475,7 +475,7 @@ directory.
 This option would be used if there was a need to switch between several
 sets of RPM defaults. Software developers and package builders will
 normally be the only people using the **--rcfile** option. For more
-information on `rpmrc` files, see [Appendix B](ch-rpmrc-file.html).
+information on `rpmrc` files, see [Appendix B](ch-rpmrc-file.md).
 
 </div>
 
@@ -485,7 +485,7 @@ information on `rpmrc` files, see [Appendix B](ch-rpmrc-file.html).
 
 |                                                                                 |                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-checksig-using-rpm-k.html#AEN4677) | Red Hat Software's public key is also available from their website, at <http://www.redhat.com/redhat/contact.html> . The RPM sources also contain the key, and are available from their FTP site at <ftp://ftp.redhat.com/pub/redhat/code/rpm>. |
+| [<span class="footnote">\[1\]</span>](s1-rpm-checksig-using-rpm-k.md#AEN4677) | Red Hat Software's public key is also available from their website, at <http://www.redhat.com/redhat/contact.md> . The RPM sources also contain the key, and are available from their FTP site at <ftp://ftp.redhat.com/pub/redhat/code/rpm>. |
 
 <div class="NAVFOOTER">
 
@@ -493,7 +493,7 @@ information on `rpmrc` files, see [Appendix B](ch-rpmrc-file.html).
 
 |                                              |                            |                                 |
 | :------------------------------------------- | :------------------------: | ------------------------------: |
-| [Prev](s1-rpm-checksig-configuring-pgp.html) |     [Home](index.html)     | [Next](ch-rpm-miscellania.html) |
-| Configuring PGP for **rpm -K**               | [Up](ch-rpm-checksig.html) |                     Miscellanea |
+| [Prev](s1-rpm-checksig-configuring-pgp.md) |     [Home](index.md)     | [Next](ch-rpm-miscellania.md) |
+| Configuring PGP for **rpm -K**               | [Up](ch-rpm-checksig.md) |                     Miscellanea |
 
 </div>

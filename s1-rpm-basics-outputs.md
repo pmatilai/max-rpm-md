@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-basics-the-engine.html)
+[Prev](s1-rpm-basics-the-engine.md)
 
 Chapter 10. The Basics of Developing With RPM
 
-[Next](s1-rpm-basics-and-now.html)
+[Next](s1-rpm-basics-and-now.md)
 
 -----
 
@@ -60,7 +60,7 @@ hits the road."
 
 |                                       |                          |                                    |
 | :------------------------------------ | :----------------------: | ---------------------------------: |
-| [Prev](s1-rpm-basics-the-engine.html) |    [Home](index.html)    | [Next](s1-rpm-basics-and-now.html) |
-| The Engine: RPM                       | [Up](ch-rpm-basics.html) |                           And Now… |
+| [Prev](s1-rpm-basics-the-engine.md) |    [Home](index.md)    | [Next](s1-rpm-basics-and-now.md) |
+| The Engine: RPM                       | [Up](ch-rpm-basics.md) |                           And Now… |
 
 </div>

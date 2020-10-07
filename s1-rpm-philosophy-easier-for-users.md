@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-philosophy-multi-architecture.html)
+[Prev](s1-rpm-philosophy-multi-architecture.md)
 
 Chapter 9. The Philosophy Behind RPM
 
-[Next](s1-rpm-philosophy-summary.html)
+[Next](s1-rpm-philosophy-summary.md)
 
 -----
 
@@ -92,7 +92,7 @@ attributes, such as a file's permissions, ownership, and size.
 
 |                                                   |                              |                                        |
 | :------------------------------------------------ | :--------------------------: | -------------------------------------: |
-| [Prev](s1-rpm-philosophy-multi-architecture.html) |      [Home](index.html)      | [Next](s1-rpm-philosophy-summary.html) |
-| Multi-architecture/operating system Support       | [Up](ch-rpm-philosophy.html) |                          To Summarize… |
+| [Prev](s1-rpm-philosophy-multi-architecture.md) |      [Home](index.md)      | [Next](s1-rpm-philosophy-summary.md) |
+| Multi-architecture/operating system Support       | [Up](ch-rpm-philosophy.md) |                          To Summarize… |
 
 </div>

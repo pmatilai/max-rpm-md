@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-commands.html)
+[Prev](ch-rpm-commands.md)
 
 Appendix C. Concise RPM Command Reference
 
-[Next](s1-rpm-commands-query-mode.html)
+[Next](s1-rpm-commands-query-mode.md)
 
 -----
 
@@ -37,7 +37,7 @@ Format: **rpm `<option>`**
 
 |                               |                            |                                         |
 | :---------------------------- | :------------------------: | --------------------------------------: |
-| [Prev](ch-rpm-commands.html)  |     [Home](index.html)     | [Next](s1-rpm-commands-query-mode.html) |
-| Concise RPM Command Reference | [Up](ch-rpm-commands.html) |                              Query Mode |
+| [Prev](ch-rpm-commands.md)  |     [Home](index.md)     | [Next](s1-rpm-commands-query-mode.md) |
+| Concise RPM Command Reference | [Up](ch-rpm-commands.md) |                              Query Mode |
 
 </div>

@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-inside.html)
+[Prev](ch-rpm-inside.md)
 
 Chapter 13. Inside the Spec File
 
-[Next](s1-rpm-inside-scripts.html)
+[Next](s1-rpm-inside-scripts.md)
 
 -----
 
@@ -460,7 +460,7 @@ URLs\! Something like this is all you'll need:
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><pre class="screen"><code>URL: http://www.gnomovision.com/cdplayer.html
+<td><pre class="screen"><code>URL: http://www.gnomovision.com/cdplayer.md
 
             </code></pre></td>
 </tr>
@@ -572,7 +572,7 @@ information into account, the package builder must add the appropriate
 dependency information to the package. This is done by using the
 following tags. Note, however, that adding dependency information to a
 package requires some forethought. For additional information on RPM's
-dependency processing, please review [Chapter 14](ch-rpm-depend.html).
+dependency processing, please review [Chapter 14](ch-rpm-depend.md).
 
 <div class="sect3">
 
@@ -863,7 +863,7 @@ Fortunately, RPM makes it all easier than that. With the following tags,
 it's possible to support package building under multiple environments,
 all from a single set of sources, patches, and a single spec file. For a
 more complete discussion of multi-architecture package building, please
-see [Chapter 19](ch-rpm-multi.html).
+see [Chapter 19](ch-rpm-multi.md).
 
 <div class="sect3">
 
@@ -1080,7 +1080,7 @@ package was installed normally. It would be installed in
 `/usr/local`** option.
 
 For more information about creating relocatable packages, see [Chapter
-15](ch-rpm-reloc.html).
+15](ch-rpm-reloc.md).
 
 </div>
 
@@ -1093,7 +1093,7 @@ name is a bit misleading, as the build root is actually used when the
 software is *installed* during the build process. In order for a build
 root to be defined and actually used, a number of issues must be taken
 into account. These issues are covered in [Chapter
-16](ch-rpm-anywhere.html). This is what a **buildroot** tag would look
+16](ch-rpm-anywhere.md). This is what a **buildroot** tag would look
 like:
 
 <table>
@@ -1427,7 +1427,7 @@ and erase, packages.
 
 |                                                                        |                                                                                                                     |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-inside-tags.html#AEN7791) | There is also an "international" version that may be used in non-US countries. See [Appendix G](ch-pgp-intro.html). |
+| [<span class="footnote">\[1\]</span>](s1-rpm-inside-tags.md#AEN7791) | There is also an "international" version that may be used in non-US countries. See [Appendix G](ch-pgp-intro.md). |
 
 <div class="NAVFOOTER">
 
@@ -1435,7 +1435,7 @@ and erase, packages.
 
 |                            |                          |                                    |
 | :------------------------- | :----------------------: | ---------------------------------: |
-| [Prev](ch-rpm-inside.html) |    [Home](index.html)    | [Next](s1-rpm-inside-scripts.html) |
-| Inside the Spec File       | [Up](ch-rpm-inside.html) |           Scripts: RPM's Workhorse |
+| [Prev](ch-rpm-inside.md) |    [Home](index.md)    | [Next](s1-rpm-inside-scripts.md) |
+| Inside the Spec File       | [Up](ch-rpm-inside.md) |           Scripts: RPM's Workhorse |
 
 </div>

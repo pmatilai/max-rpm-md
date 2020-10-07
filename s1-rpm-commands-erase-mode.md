@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-commands-upgrade-mode.html)
+[Prev](s1-rpm-commands-upgrade-mode.md)
 
 Appendix C. Concise RPM Command Reference
 
-[Next](s1-rpm-commands-build-mode.html)
+[Next](s1-rpm-commands-build-mode.md)
 
 -----
 
@@ -44,7 +44,7 @@ The following options can be used on any erase command:
 
 |                                           |                            |                                         |
 | :---------------------------------------- | :------------------------: | --------------------------------------: |
-| [Prev](s1-rpm-commands-upgrade-mode.html) |     [Home](index.html)     | [Next](s1-rpm-commands-build-mode.html) |
-| Upgrade Mode                              | [Up](ch-rpm-commands.html) |                              Build Mode |
+| [Prev](s1-rpm-commands-upgrade-mode.md) |     [Home](index.md)     | [Next](s1-rpm-commands-build-mode.md) |
+| Upgrade Mode                              | [Up](ch-rpm-commands.md) |                              Build Mode |
 
 </div>

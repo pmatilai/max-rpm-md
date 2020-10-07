@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-build-starting-build.html)
+[Prev](s1-rpm-build-starting-build.md)
 
 Chapter 11. Building Packages: A Simple Example
 
-[Next](ch-rpm-b-command.html)
+[Next](ch-rpm-b-command.md)
 
 -----
 
@@ -109,7 +109,7 @@ command.
 
 |                                                                                       |                                   |
 | ------------------------------------------------------------------------------------- | --------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-build-when-things-go-wrong.html#AEN5947) | Like we said, it's a fairy tale\! |
+| [<span class="footnote">\[1\]</span>](s1-rpm-build-when-things-go-wrong.md#AEN5947) | Like we said, it's a fairy tale\! |
 
 <div class="NAVFOOTER">
 
@@ -117,7 +117,7 @@ command.
 
 |                                          |                         |                                |
 | :--------------------------------------- | :---------------------: | -----------------------------: |
-| [Prev](s1-rpm-build-starting-build.html) |   [Home](index.html)    |  [Next](ch-rpm-b-command.html) |
-| Starting the Build                       | [Up](ch-rpm-build.html) | **rpmbuild** Command Reference |
+| [Prev](s1-rpm-build-starting-build.md) |   [Home](index.md)    |  [Next](ch-rpm-b-command.md) |
+| Starting the Build                       | [Up](ch-rpm-build.md) | **rpmbuild** Command Reference |
 
 </div>

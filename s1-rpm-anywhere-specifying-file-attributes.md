@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-anywhere-different-build-area.html)
+[Prev](s1-rpm-anywhere-different-build-area.md)
 
 Chapter 16. Making a Package That Can Build Anywhere
 
-[Next](ch-rpm-pgp.html)
+[Next](ch-rpm-pgp.md)
 
 -----
 
@@ -207,7 +207,7 @@ easier than you think\!
 
 |                                                   |                            |                                    |
 | :------------------------------------------------ | :------------------------: | ---------------------------------: |
-| [Prev](s1-rpm-anywhere-different-build-area.html) |     [Home](index.html)     |            [Next](ch-rpm-pgp.html) |
-| Having RPM Use a Different Build Area             | [Up](ch-rpm-anywhere.html) | Adding PGP Signatures to a Package |
+| [Prev](s1-rpm-anywhere-different-build-area.md) |     [Home](index.md)     |            [Next](ch-rpm-pgp.md) |
+| Having RPM Use a Different Build Area             | [Up](ch-rpm-anywhere.md) | Adding PGP Signatures to a Package |
 
 </div>

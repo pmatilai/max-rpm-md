@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpmrc-file.html)
+[Prev](ch-rpmrc-file.md)
 
 Appendix B. The `rpmrc` File
 
-[Next](s1-rpmrc-file-rpmrc-file-syntax.html)
+[Next](s1-rpmrc-file-rpmrc-file-syntax.md)
 
 -----
 
@@ -234,7 +234,7 @@ be more comprehensive than either `/etc/rpmrc` or `~/.rmprc`.
 
 |                            |                          |                                              |
 | :------------------------- | :----------------------: | -------------------------------------------: |
-| [Prev](ch-rpmrc-file.html) |    [Home](index.html)    | [Next](s1-rpmrc-file-rpmrc-file-syntax.html) |
-| The `rpmrc` File           | [Up](ch-rpmrc-file.html) |                          `rpmrc` File Syntax |
+| [Prev](ch-rpmrc-file.md) |    [Home](index.md)    | [Next](s1-rpmrc-file-rpmrc-file-syntax.md) |
+| The `rpmrc` File           | [Up](ch-rpmrc-file.md) |                          `rpmrc` File Syntax |
 
 </div>

@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-commands-install-mode.html)
+[Prev](s1-rpm-commands-install-mode.md)
 
 Appendix C. Concise RPM Command Reference
 
-[Next](s1-rpm-commands-erase-mode.html)
+[Next](s1-rpm-commands-erase-mode.md)
 
 -----
 
@@ -73,7 +73,7 @@ The following options can be used on any upgrade command:
 
 |                                           |                            |                                         |
 | :---------------------------------------- | :------------------------: | --------------------------------------: |
-| [Prev](s1-rpm-commands-install-mode.html) |     [Home](index.html)     | [Next](s1-rpm-commands-erase-mode.html) |
-| Install Mode                              | [Up](ch-rpm-commands.html) |                              Erase Mode |
+| [Prev](s1-rpm-commands-install-mode.md) |     [Home](index.md)     | [Next](s1-rpm-commands-erase-mode.md) |
+| Install Mode                              | [Up](ch-rpm-commands.md) |                              Erase Mode |
 
 </div>

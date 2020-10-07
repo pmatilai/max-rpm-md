@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-commands-recompile-mode.html)
+[Prev](s1-rpm-commands-recompile-mode.md)
 
 Appendix C. Concise RPM Command Reference
 
-[Next](s1-rpm-commands-add-signature-mode.html)
+[Next](s1-rpm-commands-add-signature-mode.md)
 
 -----
 
@@ -37,7 +37,7 @@ Only the global options may be used.
 
 |                                             |                            |                                                 |
 | :------------------------------------------ | :------------------------: | ----------------------------------------------: |
-| [Prev](s1-rpm-commands-recompile-mode.html) |     [Home](index.html)     | [Next](s1-rpm-commands-add-signature-mode.html) |
-| Recompile Mode                              | [Up](ch-rpm-commands.html) |                              Add Signature Mode |
+| [Prev](s1-rpm-commands-recompile-mode.md) |     [Home](index.md)     | [Next](s1-rpm-commands-add-signature-mode.md) |
+| Recompile Mode                              | [Up](ch-rpm-commands.md) |                              Add Signature Mode |
 
 </div>

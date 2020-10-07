@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-specref-package.html)
+[Prev](s1-rpm-specref-package.md)
 
 Appendix E. Concise Spec File Reference
 
-[Next](ch-rpm-resources.html)
+[Next](ch-rpm-resources.md)
 
 -----
 
@@ -46,7 +46,7 @@ will be used during the build.
 </table>
 
 See also: [the Section called *The **%ifarch** Conditional* in Chapter
-13](s1-rpm-inside-conditionals.html#s2-rpm-inside-ifarch-conditional).
+13](s1-rpm-inside-conditionals.md#s2-rpm-inside-ifarch-conditional).
 
 </div>
 
@@ -72,7 +72,7 @@ file following the **%ifarch** but before a **%else** or **%endif** will
 </table>
 
 See also: [the Section called *The **%ifnarch** Conditional* in Chapter
-13](s1-rpm-inside-conditionals.html#s2-rpm-inside-ifnarch-conditional).
+13](s1-rpm-inside-conditionals.md#s2-rpm-inside-ifnarch-conditional).
 
 </div>
 
@@ -98,7 +98,7 @@ or **%endif** will be used during the build.
 </table>
 
 See also: [the Section called *The **%ifos** Conditional* in Chapter
-13](s1-rpm-inside-conditionals.html#s2-rpm-inside-ifos-conditional).
+13](s1-rpm-inside-conditionals.md#s2-rpm-inside-ifos-conditional).
 
 </div>
 
@@ -124,7 +124,7 @@ the part of the spec file following the **%ifnos** but before a
 </table>
 
 See also: [the Section called *The **%ifnos** Conditional* in Chapter
-13](s1-rpm-inside-conditionals.html#s2-rpm-inside-ifnos-conditional).
+13](s1-rpm-inside-conditionals.md#s2-rpm-inside-ifnos-conditional).
 
 </div>
 
@@ -154,7 +154,7 @@ make RPM_OPT_FLAGS=&quot;$RPM_OPT_FLAGS&quot;
 </table>
 
 See also: [the Section called *The **%else** Conditional* in Chapter
-13](s1-rpm-inside-conditionals.html#s2-rpm-inside-else-conditional).
+13](s1-rpm-inside-conditionals.md#s2-rpm-inside-else-conditional).
 
 </div>
 
@@ -182,7 +182,7 @@ make INTELFLAG=-DINTEL
 </table>
 
 See also: [the Section called *The **%endif** Conditional* in Chapter
-13](s1-rpm-inside-conditionals.html#s2-rpm-inside-endif-conditional).
+13](s1-rpm-inside-conditionals.md#s2-rpm-inside-endif-conditional).
 
 </div>
 
@@ -194,7 +194,7 @@ See also: [the Section called *The **%endif** Conditional* in Chapter
 
 |                                     |                           |                               |
 | :---------------------------------- | :-----------------------: | ----------------------------: |
-| [Prev](s1-rpm-specref-package.html) |    [Home](index.html)     | [Next](ch-rpm-resources.html) |
-| **%package** Directive              | [Up](ch-rpm-specref.html) |         RPM-related Resources |
+| [Prev](s1-rpm-specref-package.md) |    [Home](index.md)     | [Next](ch-rpm-resources.md) |
+| **%package** Directive              | [Up](ch-rpm-specref.md) |         RPM-related Resources |
 
 </div>

@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-inside-conditionals.html)
+[Prev](s1-rpm-inside-conditionals.md)
 
-[Next](s1-rpm-depend-auto-depend.html)
+[Next](s1-rpm-depend-auto-depend.md)
 
 -----
 
@@ -73,7 +73,7 @@ automatic\!
 
 |                                         |                    |                                        |
 | :-------------------------------------- | :----------------: | -------------------------------------: |
-| [Prev](s1-rpm-inside-conditionals.html) | [Home](index.html) | [Next](s1-rpm-depend-auto-depend.html) |
-| Conditionals                            |  [Up](p5206.html)  |                 Automatic Dependencies |
+| [Prev](s1-rpm-inside-conditionals.md) | [Home](index.md) | [Next](s1-rpm-depend-auto-depend.md) |
+| Conditionals                            |  [Up](p5206.md)  |                 Automatic Dependencies |
 
 </div>

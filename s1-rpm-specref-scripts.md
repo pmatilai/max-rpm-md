@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-specref-preamble.html)
+[Prev](s1-rpm-specref-preamble.md)
 
 Appendix E. Concise Spec File Reference
 
-[Next](s1-rpm-specref-macros.html)
+[Next](s1-rpm-specref-macros.md)
 
 -----
 
@@ -49,7 +49,7 @@ Every build scriptlet has the following environment variables defined:
 For more information on these environment variables, and build
 scriptlets in general, please see [the Section called *Build-time
 Scripts* in Chapter
-13](s1-rpm-inside-scripts.html#s2-rpm-inside-build-time-scripts).
+13](s1-rpm-inside-scripts.md#s2-rpm-inside-build-time-scripts).
 
 <div class="sect3">
 
@@ -74,7 +74,7 @@ any valid **sh** commands.
 </table>
 
 See also: [the Section called *The **%prep** Script* in Chapter
-13](s1-rpm-inside-scripts.html#s3-rpm-inside-prep-script).
+13](s1-rpm-inside-scripts.md#s3-rpm-inside-prep-script).
 
 </div>
 
@@ -102,7 +102,7 @@ archives. The scriptlet can contain any valid **sh** commands.
 </table>
 
 See also: [the Section called *The **%build** Script* in Chapter
-13](s1-rpm-inside-scripts.html#s3-rpm-inside-build-script).
+13](s1-rpm-inside-scripts.md#s3-rpm-inside-build-script).
 
 </div>
 
@@ -130,7 +130,7 @@ scriptlet can contain any valid **sh** commands.
 </table>
 
 See also: [the Section called *The **%install** Script* in Chapter
-13](s1-rpm-inside-scripts.html#s3-rpm-inside-install-script).
+13](s1-rpm-inside-scripts.md#s3-rpm-inside-install-script).
 
 </div>
 
@@ -157,7 +157,7 @@ can contain any valid **sh** commands.
 </table>
 
 See also: [the Section called *The **%check** Script* in Chapter
-13](s1-rpm-inside-scripts.html#s3-rpm-inside-check-script).
+13](s1-rpm-inside-scripts.md#s3-rpm-inside-check-script).
 
 </div>
 
@@ -184,7 +184,7 @@ commands.
 </table>
 
 See also: [the Section called *The **%clean** Script* in Chapter
-13](s1-rpm-inside-scripts.html#s3-rpm-inside-clean-script).
+13](s1-rpm-inside-scripts.md#s3-rpm-inside-clean-script).
 
 </div>
 
@@ -225,7 +225,7 @@ Each scriptlet has the following environment variable defined:
 
 For more information on this environment variable please see [the
 Section called *Install/Erase-time Scripts* in Chapter
-13](s1-rpm-inside-scripts.html#s2-rpm-inside-erase-time-scripts).
+13](s1-rpm-inside-scripts.md#s2-rpm-inside-erase-time-scripts).
 
 <div class="sect3">
 
@@ -248,7 +248,7 @@ installed.
 </table>
 
 See also: [the Section called *The **%pre** Script* in Chapter
-13](s1-rpm-inside-scripts.html#s3-rpm-inside-pre-script).
+13](s1-rpm-inside-scripts.md#s3-rpm-inside-pre-script).
 
 </div>
 
@@ -273,7 +273,7 @@ installed.
 </table>
 
 See also: [the Section called *The **%post** Script* in Chapter
-13](s1-rpm-inside-scripts.html#s4-rpm-inside-post-script).
+13](s1-rpm-inside-scripts.md#s4-rpm-inside-post-script).
 
 </div>
 
@@ -298,7 +298,7 @@ erased.
 </table>
 
 See also: [the Section called *The **%preun** Script* in Chapter
-13](s1-rpm-inside-scripts.html#s3-rpm-inside-preun-script).
+13](s1-rpm-inside-scripts.md#s3-rpm-inside-preun-script).
 
 </div>
 
@@ -323,7 +323,7 @@ erased.
 </table>
 
 See also: [the Section called *The **%postun** Script* in Chapter
-13](s1-rpm-inside-scripts.html#s3-rpm-inside-postun-script).
+13](s1-rpm-inside-scripts.md#s3-rpm-inside-postun-script).
 
 </div>
 
@@ -345,7 +345,7 @@ verified using RPM's `-V` option. The scriptlet can contain any valid
 
 See also: [the Section called *Verification-Time Script — The
 **%verifyscript** Script* in Chapter
-13](s1-rpm-inside-scripts.html#s2-rpm-inside-verifyscript-script).
+13](s1-rpm-inside-scripts.md#s2-rpm-inside-verifyscript-script).
 
 </div>
 
@@ -359,7 +359,7 @@ See also: [the Section called *Verification-Time Script — The
 
 |                                      |                           |                                    |
 | :----------------------------------- | :-----------------------: | ---------------------------------: |
-| [Prev](s1-rpm-specref-preamble.html) |    [Home](index.html)     | [Next](s1-rpm-specref-macros.html) |
-| The Preamble                         | [Up](ch-rpm-specref.html) |                             Macros |
+| [Prev](s1-rpm-specref-preamble.md) |    [Home](index.md)     | [Next](s1-rpm-specref-macros.md) |
+| The Preamble                         | [Up](ch-rpm-specref.md) |                             Macros |
 
 </div>

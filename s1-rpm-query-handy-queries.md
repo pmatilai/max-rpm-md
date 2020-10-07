@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-query-parts.html)
+[Prev](s1-rpm-query-parts.md)
 
 Chapter 5. Getting Information About Packages
 
-[Next](ch-rpm-verify.html)
+[Next](ch-rpm-verify.md)
 
 -----
 
@@ -273,7 +273,7 @@ space could be reclaimed by removing those packages.
 
 |                                                                                |                                                                                                                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [<span class="footnote">\[1\]</span>](s1-rpm-query-handy-queries.html#AEN3711) | Did you see this example and say to yourself, "Hey, they could've used the -g option to query for that group directly"? If you did, you've been paying attention. This is a more general way of searching the RPM database for information: we just happened to search by group in this example. |
+| [<span class="footnote">\[1\]</span>](s1-rpm-query-handy-queries.md#AEN3711) | Did you see this example and say to yourself, "Hey, they could've used the -g option to query for that group directly"? If you did, you've been paying attention. This is a more general way of searching the RPM database for information: we just happened to search by group in this example. |
 
 <div class="NAVFOOTER">
 
@@ -281,7 +281,7 @@ space could be reclaimed by removing those packages.
 
 |                                 |                         |                                        |
 | :------------------------------ | :---------------------: | -------------------------------------: |
-| [Prev](s1-rpm-query-parts.html) |   [Home](index.html)    |             [Next](ch-rpm-verify.html) |
-| The Parts of an RPM Query       | [Up](ch-rpm-query.html) | Using RPM to Verify Installed Packages |
+| [Prev](s1-rpm-query-parts.md) |   [Home](index.md)    |             [Next](ch-rpm-verify.md) |
+| The Parts of an RPM Query       | [Up](ch-rpm-query.md) | Using RPM to Verify Installed Packages |
 
 </div>

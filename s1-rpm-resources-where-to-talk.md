@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-resources.html)
+[Prev](ch-rpm-resources.md)
 
 Appendix F. RPM-related Resources
 
-[Next](s1-rpm-resources-www-resources.html)
+[Next](s1-rpm-resources-www-resources.md)
 
 -----
 
@@ -177,7 +177,7 @@ As always, observe proper "netiquette" — lurk before you leap\!
 
 |                               |                             |                                             |
 | :---------------------------- | :-------------------------: | ------------------------------------------: |
-| [Prev](ch-rpm-resources.html) |     [Home](index.html)      | [Next](s1-rpm-resources-www-resources.html) |
-| RPM-related Resources         | [Up](ch-rpm-resources.html) |                   RPM On the World Wide Web |
+| [Prev](ch-rpm-resources.md) |     [Home](index.md)      | [Next](s1-rpm-resources-www-resources.md) |
+| RPM-related Resources         | [Up](ch-rpm-resources.md) |                   RPM On the World Wide Web |
 
 </div>

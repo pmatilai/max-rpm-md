@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-basics-and-now.html)
+[Prev](s1-rpm-basics-and-now.md)
 
-[Next](s1-rpm-build-getting-sources.html)
+[Next](s1-rpm-build-getting-sources.md)
 
 -----
 
@@ -88,7 +88,7 @@ fictional piece of software known as `cdplayer`.
 
 |                                                                  |                                                                                                                                                                                                                                         |
 | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](ch-rpm-build.html#AEN5544) | In reality, this software is a mercilessly hacked version of `cdp`, which was written by Sariel Har-Peled. The software was hacked to provide a simple example package, and in no way represents the fine work done by Sariel on `cdp`. |
+| [<span class="footnote">\[1\]</span>](ch-rpm-build.md#AEN5544) | In reality, this software is a mercilessly hacked version of `cdp`, which was written by Sariel Har-Peled. The software was hacked to provide a simple example package, and in no way represents the fine work done by Sariel on `cdp`. |
 
 <div class="NAVFOOTER">
 
@@ -96,7 +96,7 @@ fictional piece of software known as `cdplayer`.
 
 |                                    |                    |                                           |
 | :--------------------------------- | :----------------: | ----------------------------------------: |
-| [Prev](s1-rpm-basics-and-now.html) | [Home](index.html) | [Next](s1-rpm-build-getting-sources.html) |
-| And Now…                           |  [Up](p5206.html)  |                       Getting the Sources |
+| [Prev](s1-rpm-basics-and-now.md) | [Home](index.md) | [Next](s1-rpm-build-getting-sources.md) |
+| And Now…                           |  [Up](p5206.md)  |                       Getting the Sources |
 
 </div>

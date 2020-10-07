@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-intro-to-rpm-lets-get-started.html)
+[Prev](s1-intro-to-rpm-lets-get-started.md)
 
-[Next](s1-rpm-install-performing-install.html)
+[Next](s1-rpm-install-performing-install.md)
 
 -----
 
@@ -41,21 +41,21 @@ Page
 Print hash marks ("\#") during install
 
 [the Section called ***-h**: Perfect for the
-Impatient*](s1-rpm-install-handy-options.html#s2-rpm-install-install-h)
+Impatient*](s1-rpm-install-handy-options.md#s2-rpm-install-install-h)
 
 **--test**
 
 Perform installation tests only
 
 [the Section called ***--test**: Perform Installation Tests
-Only*](s1-rpm-install-additional-options.html#s2-rpm-install-test-option)
+Only*](s1-rpm-install-additional-options.md#s2-rpm-install-test-option)
 
 **--percent**
 
 Print percentages during install
 
 [the Section called ***--percent**: Not Meant for Human
-Consumption*](s1-rpm-install-additional-options.html#s2-rpm-install-percent)
+Consumption*](s1-rpm-install-additional-options.md#s2-rpm-install-percent)
 
 **--excludedocs**
 
@@ -63,14 +63,14 @@ Do not install documentation
 
 [the Section called ***--excludedocs**: Do Not Install Documentation For
 This
-Package*](s1-rpm-install-additional-options.html#s2-rpm-install-excludedocs-option)
+Package*](s1-rpm-install-additional-options.md#s2-rpm-install-excludedocs-option)
 
 **--includedocs**
 
 Install documentation
 
 [the Section called ***--includedocs**: Install Documentation For This
-Package*](s1-rpm-install-additional-options.html#s2-rpm-install-includedocs)
+Package*](s1-rpm-install-additional-options.md#s2-rpm-install-includedocs)
 
 **--replacepkgs**
 
@@ -78,7 +78,7 @@ Replace a package with a new copy of itself
 
 [the Section called ***--replacepkgs**: Install the Package Even If
 Already
-Installed*](s1-rpm-install-additional-options.html#s2-rpm-install-replacepkgs)
+Installed*](s1-rpm-install-additional-options.md#s2-rpm-install-replacepkgs)
 
 **--replacefiles**
 
@@ -86,14 +86,14 @@ Replace files owned by another package
 
 [the Section called ***--replacefiles**: Install the Package Even If It
 Replaces Another Package's
-Files*](s1-rpm-install-additional-options.html#s2-rpm-install-replacefiles-option)
+Files*](s1-rpm-install-additional-options.md#s2-rpm-install-replacefiles-option)
 
 **--force**
 
 Ignore package and file conflicts
 
 [the Section called ***--force**: The Big
-Hammer*](s1-rpm-install-additional-options.html#s2-rpm-install-force-option)
+Hammer*](s1-rpm-install-additional-options.md#s2-rpm-install-force-option)
 
 **--noscripts**
 
@@ -101,7 +101,7 @@ Do not execute pre- and post-install scripts
 
 [the Section called ***--noscripts**: Do Not Execute Pre- and
 Post-install
-Scripts*](s1-rpm-install-additional-options.html#s2-rpm-install-noscripts)
+Scripts*](s1-rpm-install-additional-options.md#s2-rpm-install-noscripts)
 
 **--prefix `<path>`**
 
@@ -109,21 +109,21 @@ Relocate package to **`<path>`** if possible
 
 [the Section called ***--prefix `<path>`**: Relocate the package to
 **`<path>`**, if
-possible*](s1-rpm-install-additional-options.html#s2-rpm-install-prefix)
+possible*](s1-rpm-install-additional-options.md#s2-rpm-install-prefix)
 
 **--ignorearch**
 
 Do not verify package architecture
 
 [the Section called ***--ignorearch**: Do Not Verify Package
-Architecture*](s1-rpm-install-additional-options.html#s2-rpm-install-ignorearch)
+Architecture*](s1-rpm-install-additional-options.md#s2-rpm-install-ignorearch)
 
 **--ignoreos**
 
 Do not verify package operating system
 
 [the Section called ***--ignoreos**: Do Not Verify Package Operating
-System*](s1-rpm-install-additional-options.html#s2-rpm-install-ignoreos)
+System*](s1-rpm-install-additional-options.md#s2-rpm-install-ignoreos)
 
 **--nodeps**
 
@@ -131,7 +131,7 @@ Do not check dependencies
 
 [the Section called ***--nodeps**: Do Not Check Dependencies Before
 Installing
-Package*](s1-rpm-install-additional-options.html#s2-rpm-install-nodeps)
+Package*](s1-rpm-install-additional-options.md#s2-rpm-install-nodeps)
 
 **--ftpproxy `<host>`**
 
@@ -139,7 +139,7 @@ Use **`<host>`** as the FTP proxy
 
 [the Section called ***--ftpproxy `<host>`**: Use **`<host>`** As Proxy
 In FTP-based
-Installs*](s1-rpm-install-additional-options.html#s2-rpm-install-ftpproxy)
+Installs*](s1-rpm-install-additional-options.md#s2-rpm-install-ftpproxy)
 
 **--ftpport `<port>`**
 
@@ -147,7 +147,7 @@ Use **`<port>`** as the FTP port
 
 [the Section called ***--ftpport `<port>`**: Use **`<port>`** In
 FTP-based
-Installs*](s1-rpm-install-additional-options.html#s2-rpm-install-ftpport)
+Installs*](s1-rpm-install-additional-options.md#s2-rpm-install-ftpport)
 
 General Options
 
@@ -158,14 +158,14 @@ Page
 Display additional information
 
 [the Section called *Getting a bit more feedback with
-**-v***](s1-rpm-install-handy-options.html#s2-rpm-install-more-feedback)
+**-v***](s1-rpm-install-handy-options.md#s2-rpm-install-more-feedback)
 
 **-vv**
 
 Display debugging information
 
 [the Section called *Getting a *lot* more information with
-**-vv***](s1-rpm-install-additional-options.html#s2-rpm-install-vv-option)
+**-vv***](s1-rpm-install-additional-options.md#s2-rpm-install-vv-option)
 
 **--root `<path>`**
 
@@ -173,7 +173,7 @@ Set alternate root to **`<path>`**
 
 [the Section called ***--root `<path>`**: Use **`<path>`** As An
 Alternate
-Root*](s1-rpm-install-additional-options.html#s2-rpm-install-root)
+Root*](s1-rpm-install-additional-options.md#s2-rpm-install-root)
 
 **--rcfile `<rcfile>`**
 
@@ -181,14 +181,14 @@ Set alternate rpmrc file to **`<rcfile>`**
 
 [the Section called ***--rcfile `<rcfile>`**: Use **`<rcfile>`** As An
 Alternate `rpmrc`
-File*](s1-rpm-install-additional-options.html#s2-rpm-install-rcfile)
+File*](s1-rpm-install-additional-options.md#s2-rpm-install-rcfile)
 
 **--dbpath `<path>`**
 
 Use **`<path>`** to find the RPM database
 
 [the Section called ***--dbpath `<path>`**: Use **`<path>`** To Find RPM
-Database*](s1-rpm-install-additional-options.html#s2-rpm-install-dbpath)
+Database*](s1-rpm-install-additional-options.md#s2-rpm-install-dbpath)
 
 <div class="sect1">
 
@@ -307,7 +307,7 @@ database when it checks for possible conflicts during an install.
 
 |                                                                   |                                                                                                                                                                                              |
 | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](ch-rpm-install.html#AEN691) | Are you interested in what exactly "the right thing" means? [the Section called *Config file magic* in Chapter 4](ch-rpm-upgrade.html#s2-rpm-upgrade-config-file-magic) has all the details. |
+| [<span class="footnote">\[1\]</span>](ch-rpm-install.md#AEN691) | Are you interested in what exactly "the right thing" means? [the Section called *Config file magic* in Chapter 4](ch-rpm-upgrade.md#s2-rpm-upgrade-config-file-magic) has all the details. |
 
 <div class="NAVFOOTER">
 
@@ -315,7 +315,7 @@ database when it checks for possible conflicts during an install.
 
 |                                               |                    |                                                |
 | :-------------------------------------------- | :----------------: | ---------------------------------------------: |
-| [Prev](s1-intro-to-rpm-lets-get-started.html) | [Home](index.html) | [Next](s1-rpm-install-performing-install.html) |
-| Let's Get Started                             |  [Up](p108.html)   |                          Performing an Install |
+| [Prev](s1-intro-to-rpm-lets-get-started.md) | [Home](index.md) | [Next](s1-rpm-install-performing-install.md) |
+| Let's Get Started                             |  [Up](p108.md)   |                          Performing an Install |
 
 </div>

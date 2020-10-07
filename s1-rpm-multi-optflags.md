@@ -4,12 +4,12 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-multi-build-install-detection.html)
+[Prev](s1-rpm-multi-build-install-detection.md)
 
 Chapter 19. Building Packages for Multiple Architectures and Operating
 Systems
 
-[Next](s1-rpm-multi-platform-dependent-tags.html)
+[Next](s1-rpm-multi-platform-dependent-tags.md)
 
 -----
 
@@ -70,7 +70,7 @@ used in the **%prep**, **%build**, and **%install** scripts.
 
 |                                                   |                         |                                                   |
 | :------------------------------------------------ | :---------------------: | ------------------------------------------------: |
-| [Prev](s1-rpm-multi-build-install-detection.html) |   [Home](index.html)    | [Next](s1-rpm-multi-platform-dependent-tags.html) |
-| Build and Install Platform Detection              | [Up](ch-rpm-multi.html) |                           Platform-Dependent Tags |
+| [Prev](s1-rpm-multi-build-install-detection.md) |   [Home](index.md)    | [Next](s1-rpm-multi-platform-dependent-tags.md) |
+| Build and Install Platform Detection              | [Up](ch-rpm-multi.md) |                           Platform-Dependent Tags |
 
 </div>

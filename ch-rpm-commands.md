@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpmrc-file-rpmrc-file-entries.html)
+[Prev](s1-rpmrc-file-rpmrc-file-entries.md)
 
-[Next](s1-rpm-commands-information-options.html)
+[Next](s1-rpm-commands-information-options.md)
 
 -----
 
@@ -44,7 +44,7 @@ The following options can be used in any of RPM's modes:
 
 |                                               |                    |                                                  |
 | :-------------------------------------------- | :----------------: | -----------------------------------------------: |
-| [Prev](s1-rpmrc-file-rpmrc-file-entries.html) | [Home](index.html) | [Next](s1-rpm-commands-information-options.html) |
-| `rpmrc` File Entries                          | [Up](p14028.html)  |                            Informational Options |
+| [Prev](s1-rpmrc-file-rpmrc-file-entries.md) | [Home](index.md) | [Next](s1-rpm-commands-information-options.md) |
+| `rpmrc` File Entries                          | [Up](p14028.md)  |                            Informational Options |
 
 </div>

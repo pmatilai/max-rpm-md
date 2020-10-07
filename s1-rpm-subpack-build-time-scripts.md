@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-subpack-spec-file-changes.html)
+[Prev](s1-rpm-subpack-spec-file-changes.md)
 
 Chapter 18. Creating Subpackages
 
-[Next](s1-rpm-subpack-building-subpackages.html)
+[Next](s1-rpm-subpack-building-subpackages.md)
 
 -----
 
@@ -121,7 +121,7 @@ be. [<span class="footnote">\[1\]</span>](#FTN.AEN11138)
 
 |                                                                                        |                                                                                                                             |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-subpack-build-time-scripts.html#AEN11138) | This is the advantage to making up an example. A more real-world spec file would undoubtedly have more interesting scripts. |
+| [<span class="footnote">\[1\]</span>](s1-rpm-subpack-build-time-scripts.md#AEN11138) | This is the advantage to making up an example. A more real-world spec file would undoubtedly have more interesting scripts. |
 
 <div class="NAVFOOTER">
 
@@ -129,7 +129,7 @@ be. [<span class="footnote">\[1\]</span>](#FTN.AEN11138)
 
 |                                               |                           |                                                  |
 | :-------------------------------------------- | :-----------------------: | -----------------------------------------------: |
-| [Prev](s1-rpm-subpack-spec-file-changes.html) |    [Home](index.html)     | [Next](s1-rpm-subpack-building-subpackages.html) |
-| Spec File Changes For Subpackages             | [Up](ch-rpm-subpack.html) |                             Building Subpackages |
+| [Prev](s1-rpm-subpack-spec-file-changes.md) |    [Home](index.md)     | [Next](s1-rpm-subpack-building-subpackages.md) |
+| Spec File Changes For Subpackages             | [Up](ch-rpm-subpack.md) |                             Building Subpackages |
 
 </div>

@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-intro-to-rpm-package-management-how.html)
+[Prev](s1-intro-to-rpm-package-management-how.md)
 
 Chapter 1. An Introduction to Package Management
 
-[Next](s1-intro-to-rpm-whats-in-package.html)
+[Next](s1-intro-to-rpm-whats-in-package.md)
 
 -----
 
@@ -115,7 +115,7 @@ handy.
 
 |                                                     |                            |                                               |
 | :-------------------------------------------------- | :------------------------: | --------------------------------------------: |
-| [Prev](s1-intro-to-rpm-package-management-how.html) |     [Home](index.html)     | [Next](s1-intro-to-rpm-whats-in-package.html) |
-| Package Management: How to Do It?                   | [Up](ch-intro-to-rpm.html) |                          What's in a package? |
+| [Prev](s1-intro-to-rpm-package-management-how.md) |     [Home](index.md)     | [Next](s1-intro-to-rpm-whats-in-package.md) |
+| Package Management: How to Do It?                   | [Up](ch-intro-to-rpm.md) |                          What's in a package? |
 
 </div>

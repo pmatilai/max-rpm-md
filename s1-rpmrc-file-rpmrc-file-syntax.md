@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpmrc-file-rpmrc-file-locations.html)
+[Prev](s1-rpmrc-file-rpmrc-file-locations.md)
 
 Appendix B. The `rpmrc` File
 
-[Next](s1-rpmrc-file-rpmrc-file-entries.html)
+[Next](s1-rpmrc-file-rpmrc-file-entries.md)
 
 -----
 
@@ -46,7 +46,7 @@ vary from value to value and will be discussed along with each entry.
 
 |                                                 |                          |                                               |
 | :---------------------------------------------- | :----------------------: | --------------------------------------------: |
-| [Prev](s1-rpmrc-file-rpmrc-file-locations.html) |    [Home](index.html)    | [Next](s1-rpmrc-file-rpmrc-file-entries.html) |
-| Different Places an `rpmrc` File Resides        | [Up](ch-rpmrc-file.html) |                          `rpmrc` File Entries |
+| [Prev](s1-rpmrc-file-rpmrc-file-locations.md) |    [Home](index.md)    | [Next](s1-rpmrc-file-rpmrc-file-entries.md) |
+| Different Places an `rpmrc` File Resides        | [Up](ch-rpmrc-file.md) |                          `rpmrc` File Entries |
 
 </div>

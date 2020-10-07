@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-rw-build-package-building.html)
+[Prev](s1-rpm-rw-build-package-building.md)
 
-[Next](s1-rpm-rpmlib-functions.html)
+[Next](s1-rpm-rpmlib-functions.md)
 
 -----
 
@@ -54,7 +54,7 @@ well as the **\#include** statements the function requires.
 
 |                                               |                    |                                      |
 | :-------------------------------------------- | :----------------: | -----------------------------------: |
-| [Prev](s1-rpm-rw-build-package-building.html) | [Home](index.html) | [Next](s1-rpm-rpmlib-functions.html) |
-| Package Building                              |  [Up](p5206.html)  |                     rpmlib Functions |
+| [Prev](s1-rpm-rw-build-package-building.md) | [Home](index.md) | [Next](s1-rpm-rpmlib-functions.md) |
+| Package Building                              |  [Up](p5206.md)  |                     rpmlib Functions |
 
 </div>

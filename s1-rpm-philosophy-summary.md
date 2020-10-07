@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-philosophy-easier-for-users.html)
+[Prev](s1-rpm-philosophy-easier-for-users.md)
 
 Chapter 9. The Philosophy Behind RPM
 
-[Next](ch-rpm-basics.html)
+[Next](ch-rpm-basics.md)
 
 -----
 
@@ -32,7 +32,7 @@ building with RPM.
 
 |                                                 |                              |                                   |
 | :---------------------------------------------- | :--------------------------: | --------------------------------: |
-| [Prev](s1-rpm-philosophy-easier-for-users.html) |      [Home](index.html)      |        [Next](ch-rpm-basics.html) |
-| Easier For Your Users                           | [Up](ch-rpm-philosophy.html) | The Basics of Developing With RPM |
+| [Prev](s1-rpm-philosophy-easier-for-users.md) |      [Home](index.md)      |        [Next](ch-rpm-basics.md) |
+| Easier For Your Users                           | [Up](ch-rpm-philosophy.md) | The Basics of Developing With RPM |
 
 </div>

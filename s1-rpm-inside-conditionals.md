@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-inside-package-directive.html)
+[Prev](s1-rpm-inside-package-directive.md)
 
 Chapter 13. Inside the Spec File
 
-[Next](ch-rpm-depend.html)
+[Next](ch-rpm-depend.md)
 
 -----
 
@@ -48,7 +48,7 @@ Fortunately, the RPM designers chose this approach, and it makes
 multi-platform package building easier and less prone to mistakes.
 
 We discuss multi-platform package building in depth in [Chapter
-19](ch-rpm-multi.html). For now, let's take a quick look at RPM's
+19](ch-rpm-multi.md). For now, let's take a quick look at RPM's
 conditionals.
 
 <div class="sect2">
@@ -230,7 +230,7 @@ we'll explore how to add dependency information to a package.
 
 |                                              |                          |                                            |
 | :------------------------------------------- | :----------------------: | -----------------------------------------: |
-| [Prev](s1-rpm-inside-package-directive.html) |    [Home](index.html)    |                 [Next](ch-rpm-depend.html) |
-| The Lone Directive: **%package**             | [Up](ch-rpm-inside.html) | Adding Dependency Information to a Package |
+| [Prev](s1-rpm-inside-package-directive.md) |    [Home](index.md)    |                 [Next](ch-rpm-depend.md) |
+| The Lone Directive: **%package**             | [Up](ch-rpm-inside.md) | Adding Dependency Information to a Package |
 
 </div>

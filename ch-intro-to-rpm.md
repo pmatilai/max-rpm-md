@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](p108.html)
+[Prev](p108.md)
 
-[Next](s1-intro-to-rpm-package-management-how.html)
+[Next](s1-intro-to-rpm-package-management-how.md)
 
 -----
 
@@ -233,7 +233,7 @@ make sense of the packages installed on your system:
 
 |                                                                             |                    |                                                     |
 | :-------------------------------------------------------------------------- | :----------------: | --------------------------------------------------: |
-| [Prev](p108.html)                                                           | [Home](index.html) | [Next](s1-intro-to-rpm-package-management-how.html) |
-| RPM and Computer Users — How to Use RPM to Effectively Manage Your Computer |  [Up](p108.html)   |                   Package Management: How to Do It? |
+| [Prev](p108.md)                                                           | [Home](index.md) | [Next](s1-intro-to-rpm-package-management-how.md) |
+| RPM and Computer Users — How to Use RPM to Effectively Manage Your Computer |  [Up](p108.md)   |                   Package Management: How to Do It? |
 
 </div>

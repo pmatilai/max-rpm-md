@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-preface.html)
+[Prev](ch-preface.md)
 
 Preface
 
-[Next](s1-preface-acknowledgements.html)
+[Next](s1-preface-acknowledgements.md)
 
 -----
 
@@ -53,7 +53,7 @@ sources of information if you find the going a bit tough.
 
 |                         |                       |                                          |
 | :---------------------- | :-------------------: | ---------------------------------------: |
-| [Prev](ch-preface.html) |  [Home](index.html)   | [Next](s1-preface-acknowledgements.html) |
-| Preface                 | [Up](ch-preface.html) |                         Acknowledgements |
+| [Prev](ch-preface.md) |  [Home](index.md)   | [Next](s1-preface-acknowledgements.md) |
+| Preface                 | [Up](ch-preface.md) |                         Acknowledgements |
 
 </div>

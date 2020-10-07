@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-depend-summary.html)
+[Prev](s1-rpm-depend-summary.md)
 
-[Next](s1-rpm-reloc-prefix-tag.html)
+[Next](s1-rpm-reloc-prefix-tag.md)
 
 -----
 
@@ -88,8 +88,8 @@ relocation is the **prefix** tag.
 
 |                                                                  |                                                                                                                                                                                                                                                |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](ch-rpm-reloc.html#AEN9725) | Hey, we said it was hypothetical\!                                                                                                                                                                                                             |
-| [<span class="footnote">\[2\]</span>](ch-rpm-reloc.html#AEN9737) | Of course, it would be possible to get around this lack of space by symlinking `/opt` to, for instance, `/usr/opt`. However, since the point of this chapter is to explore RPM's relocatability features, we won't explore this approach here. |
+| [<span class="footnote">\[1\]</span>](ch-rpm-reloc.md#AEN9725) | Hey, we said it was hypothetical\!                                                                                                                                                                                                             |
+| [<span class="footnote">\[2\]</span>](ch-rpm-reloc.md#AEN9737) | Of course, it would be possible to get around this lack of space by symlinking `/opt` to, for instance, `/usr/opt`. However, since the point of this chapter is to explore RPM's relocatability features, we won't explore this approach here. |
 
 <div class="NAVFOOTER">
 
@@ -97,7 +97,7 @@ relocation is the **prefix** tag.
 
 |                                    |                    |                                        |
 | :--------------------------------- | :----------------: | -------------------------------------: |
-| [Prev](s1-rpm-depend-summary.html) | [Home](index.html) |   [Next](s1-rpm-reloc-prefix-tag.html) |
-| To Summarize…                      |  [Up](p5206.html)  | The **prefix** tag: Relocation Central |
+| [Prev](s1-rpm-depend-summary.md) | [Home](index.md) |   [Next](s1-rpm-reloc-prefix-tag.md) |
+| To Summarize…                      |  [Up](p5206.md)  | The **prefix** tag: Relocation Central |
 
 </div>

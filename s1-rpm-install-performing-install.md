@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-install.html)
+[Prev](ch-rpm-install.md)
 
 Chapter 2. Using RPM to Install Packages
 
-[Next](s1-rpm-install-handy-options.html)
+[Next](s1-rpm-install-handy-options.md)
 
 -----
 
@@ -73,7 +73,7 @@ pages are identified:
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><pre class="screen"><code>http://www.redhat.com/support/docs/rpm/RPM-HOWTO/RPM-HOWTO.html
+<td><pre class="screen"><code>http://www.redhat.com/support/docs/rpm/RPM-HOWTO/RPM-HOWTO.md
           </code></pre></td>
 </tr>
 </tbody>
@@ -189,7 +189,7 @@ This URL will direct the FTP request to port 1024. The **--ftpport**
 option is another way to specify the port. This option is discussed
 later, in [the Section called ***--ftpport `<port>`**: Use **`<port>`**
 In FTP-based
-Installs*](s1-rpm-install-additional-options.html#s2-rpm-install-ftpport).
+Installs*](s1-rpm-install-additional-options.md#s2-rpm-install-ftpport).
 
 </div>
 
@@ -263,7 +263,7 @@ put back into service or not.
 
 |                               |                           |                                           |
 | :---------------------------- | :-----------------------: | ----------------------------------------: |
-| [Prev](ch-rpm-install.html)   |    [Home](index.html)     | [Next](s1-rpm-install-handy-options.html) |
-| Using RPM to Install Packages | [Up](ch-rpm-install.html) |                         Two handy options |
+| [Prev](ch-rpm-install.md)   |    [Home](index.md)     | [Next](s1-rpm-install-handy-options.md) |
+| Using RPM to Install Packages | [Up](ch-rpm-install.md) |                         Two handy options |
 
 </div>

@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-commands-add-signature-mode.html)
+[Prev](s1-rpm-commands-add-signature-mode.md)
 
 Appendix C. Concise RPM Command Reference
 
-[Next](s1-rpm-commands-initialize-database-mode.html)
+[Next](s1-rpm-commands-initialize-database-mode.md)
 
 -----
 
@@ -42,7 +42,7 @@ The following option can be used on any check signature command:
 
 |                                                 |                            |                                                       |
 | :---------------------------------------------- | :------------------------: | ----------------------------------------------------: |
-| [Prev](s1-rpm-commands-add-signature-mode.html) |     [Home](index.html)     | [Next](s1-rpm-commands-initialize-database-mode.html) |
-| Add Signature Mode                              | [Up](ch-rpm-commands.html) |                              Initialize Database Mode |
+| [Prev](s1-rpm-commands-add-signature-mode.md) |     [Home](index.md)     | [Next](s1-rpm-commands-initialize-database-mode.md) |
+| Add Signature Mode                              | [Up](ch-rpm-commands.md) |                              Initialize Database Mode |
 
 </div>

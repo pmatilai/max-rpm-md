@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-resources-gpl.html)
+[Prev](s1-rpm-resources-gpl.md)
 
-[Next](s1-pgp-intro-installing-pgp.html)
+[Next](s1-pgp-intro-installing-pgp.md)
 
 -----
 
@@ -195,8 +195,8 @@ hunt for "crypto" or "PGP", and you'll be in business.
 
 |                                                                   |                                                                                                                                                                                                           |
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](ch-pgp-intro.html#AEN18469) | When we say that keys are *numbers*, we aren't lying even though the example key doesn't look like a number. It has been processed so that it can be concisely displayed using only printable characters. |
-| [<span class="footnote">\[2\]</span>](ch-pgp-intro.html#AEN18491) | Or at least that it didn't make it to you unchanged.                                                                                                                                                      |
+| [<span class="footnote">\[1\]</span>](ch-pgp-intro.md#AEN18469) | When we say that keys are *numbers*, we aren't lying even though the example key doesn't look like a number. It has been processed so that it can be concisely displayed using only printable characters. |
+| [<span class="footnote">\[2\]</span>](ch-pgp-intro.md#AEN18491) | Or at least that it didn't make it to you unchanged.                                                                                                                                                      |
 
 <div class="NAVFOOTER">
 
@@ -204,7 +204,7 @@ hunt for "crypto" or "PGP", and you'll be in business.
 
 |                                   |                    |                                          |
 | :-------------------------------- | :----------------: | ---------------------------------------: |
-| [Prev](s1-rpm-resources-gpl.html) | [Home](index.html) | [Next](s1-pgp-intro-installing-pgp.html) |
-| GNU GENERAL PUBLIC LICENSE        | [Up](p14028.html)  |             Installing PGP for RPM's Use |
+| [Prev](s1-rpm-resources-gpl.md) | [Home](index.md) | [Next](s1-pgp-intro-installing-pgp.md) |
+| GNU GENERAL PUBLIC LICENSE        | [Up](p14028.md)  |             Installing PGP for RPM's Use |
 
 </div>

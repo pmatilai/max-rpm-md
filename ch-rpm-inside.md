@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-b-command-other-build-commands.html)
+[Prev](s1-rpm-b-command-other-build-commands.md)
 
-[Next](s1-rpm-inside-tags.html)
+[Next](s1-rpm-inside-tags.md)
 
 -----
 
@@ -88,7 +88,7 @@ the first line commented also escape the percent (**%**) character:
 
 |                                                    |                    |                                 |
 | :------------------------------------------------- | :----------------: | ------------------------------: |
-| [Prev](s1-rpm-b-command-other-build-commands.html) | [Home](index.html) | [Next](s1-rpm-inside-tags.html) |
-| Other Build-related Commands                       |  [Up](p5206.html)  |          Tags: Data Definitions |
+| [Prev](s1-rpm-b-command-other-build-commands.md) | [Home](index.md) | [Next](s1-rpm-inside-tags.md) |
+| Other Build-related Commands                       |  [Up](p5206.md)  |          Tags: Data Definitions |
 
 </div>

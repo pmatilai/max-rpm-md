@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-pgp-getting-ready.html)
+[Prev](s1-rpm-pgp-getting-ready.md)
 
 Chapter 17. Adding PGP Signatures to a Package
 
-[Next](ch-rpm-subpack.html)
+[Next](ch-rpm-subpack.md)
 
 -----
 
@@ -415,7 +415,7 @@ down extra hard while writing your name…
 
 |                                                                                  |                                                                                                                               |
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-pgp-signing-packages.html#AEN10608) | The list of possible signature types can be found in the RPM sources, specifically `signature.h` in RPM's `lib` subdirectory. |
+| [<span class="footnote">\[1\]</span>](s1-rpm-pgp-signing-packages.md#AEN10608) | The list of possible signature types can be found in the RPM sources, specifically `signature.h` in RPM's `lib` subdirectory. |
 
 <div class="NAVFOOTER">
 
@@ -423,7 +423,7 @@ down extra hard while writing your name…
 
 |                                       |                       |                             |
 | :------------------------------------ | :-------------------: | --------------------------: |
-| [Prev](s1-rpm-pgp-getting-ready.html) |  [Home](index.html)   | [Next](ch-rpm-subpack.html) |
-| Getting Ready to Sign                 | [Up](ch-rpm-pgp.html) |        Creating Subpackages |
+| [Prev](s1-rpm-pgp-getting-ready.md) |  [Home](index.md)   | [Next](ch-rpm-subpack.md) |
+| Getting Ready to Sign                 | [Up](ch-rpm-pgp.md) |        Creating Subpackages |
 
 </div>

@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-subpack-build-time-scripts.html)
+[Prev](s1-rpm-subpack-build-time-scripts.md)
 
 Chapter 18. Creating Subpackages
 
-[Next](ch-rpm-multi.html)
+[Next](ch-rpm-multi.md)
 
 -----
 
@@ -312,8 +312,8 @@ built package would disrupt operations on your build system.
 
 |                                                                                          |                                                 |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-subpack-building-subpackages.html#AEN11163) | Five, if you count the source package.          |
-| [<span class="footnote">\[2\]</span>](s1-rpm-subpack-building-subpackages.html#AEN11210) | Yes, the author found out about this hard way\! |
+| [<span class="footnote">\[1\]</span>](s1-rpm-subpack-building-subpackages.md#AEN11163) | Five, if you count the source package.          |
+| [<span class="footnote">\[2\]</span>](s1-rpm-subpack-building-subpackages.md#AEN11210) | Yes, the author found out about this hard way\! |
 
 <div class="NAVFOOTER">
 
@@ -321,7 +321,7 @@ built package would disrupt operations on your build system.
 
 |                                                |                           |                                                                    |
 | :--------------------------------------------- | :-----------------------: | -----------------------------------------------------------------: |
-| [Prev](s1-rpm-subpack-build-time-scripts.html) |    [Home](index.html)     |                                          [Next](ch-rpm-multi.html) |
-| Build-Time Scripts: Unchanged For Subpackages  | [Up](ch-rpm-subpack.html) | Building Packages for Multiple Architectures and Operating Systems |
+| [Prev](s1-rpm-subpack-build-time-scripts.md) |    [Home](index.md)     |                                          [Next](ch-rpm-multi.md) |
+| Build-Time Scripts: Unchanged For Subpackages  | [Up](ch-rpm-subpack.md) | Building Packages for Multiple Architectures and Operating Systems |
 
 </div>

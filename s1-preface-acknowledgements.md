@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-preface-parts.html)
+[Prev](s1-preface-parts.md)
 
 Preface
 
-[Next](p108.html)
+[Next](p108.md)
 
 -----
 
@@ -53,7 +53,7 @@ February, 1997 Cary, North Carolina
 
 |                                        |                       |                                                                             |
 | :------------------------------------- | :-------------------: | --------------------------------------------------------------------------: |
-| [Prev](s1-preface-parts.html)          |  [Home](index.html)   |                                                           [Next](p108.html) |
-| Parts of the book, and who they're for | [Up](ch-preface.html) | RPM and Computer Users — How to Use RPM to Effectively Manage Your Computer |
+| [Prev](s1-preface-parts.md)          |  [Home](index.md)   |                                                           [Next](p108.md) |
+| Parts of the book, and who they're for | [Up](ch-preface.md) | RPM and Computer Users — How to Use RPM to Effectively Manage Your Computer |
 
 </div>

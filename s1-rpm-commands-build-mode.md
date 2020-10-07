@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-commands-erase-mode.html)
+[Prev](s1-rpm-commands-erase-mode.md)
 
 Appendix C. Concise RPM Command Reference
 
-[Next](s1-rpm-commands-rebuild-mode.html)
+[Next](s1-rpm-commands-rebuild-mode.md)
 
 -----
 
@@ -76,7 +76,7 @@ The following options can be used on any build command:
 
 |                                         |                            |                                           |
 | :-------------------------------------- | :------------------------: | ----------------------------------------: |
-| [Prev](s1-rpm-commands-erase-mode.html) |     [Home](index.html)     | [Next](s1-rpm-commands-rebuild-mode.html) |
-| Erase Mode                              | [Up](ch-rpm-commands.html) |                              Rebuild Mode |
+| [Prev](s1-rpm-commands-erase-mode.md) |     [Home](index.md)     | [Next](s1-rpm-commands-rebuild-mode.md) |
+| Erase Mode                              | [Up](ch-rpm-commands.md) |                              Rebuild Mode |
 
 </div>

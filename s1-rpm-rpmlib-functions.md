@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-rpmlib.html)
+[Prev](ch-rpm-rpmlib.md)
 
 Chapter 21. A Guide to the RPM Library API
 
-[Next](s1-rpm-rpmlib-example-code.html)
+[Next](s1-rpm-rpmlib-example-code.md)
 
 -----
 
@@ -119,9 +119,9 @@ It should be noted that most information is returned in the form of a
 `Header` structure. This data structure is widely used throughout
 rpmlib. We will discuss more header-related functions in [the Section
 called *Header
-Manipulation*](s1-rpm-rpmlib-functions.html#s2-rpm-rpmlib-header-manipulation)
+Manipulation*](s1-rpm-rpmlib-functions.md#s2-rpm-rpmlib-header-manipulation)
 and [the Section called *Header Entry
-Manipulation*](s1-rpm-rpmlib-functions.html#s2-rpm-rpmlib-header-entry-manipulation).
+Manipulation*](s1-rpm-rpmlib-functions.md#s2-rpm-rpmlib-header-entry-manipulation).
 
 <div class="sect3">
 
@@ -637,9 +637,9 @@ It should be noted that database records are returned in the form of a
 `Header` structure. This data structure is widely used throughout
 rpmlib. We will discuss more header-related functions in [the Section
 called *Header
-Manipulation*](s1-rpm-rpmlib-functions.html#s2-rpm-rpmlib-header-manipulation)
+Manipulation*](s1-rpm-rpmlib-functions.md#s2-rpm-rpmlib-header-manipulation)
 and [the Section called *Header Entry
-Manipulation*](s1-rpm-rpmlib-functions.html#s2-rpm-rpmlib-header-entry-manipulation).
+Manipulation*](s1-rpm-rpmlib-functions.md#s2-rpm-rpmlib-header-entry-manipulation).
 
 <div class="sect3">
 
@@ -1063,7 +1063,7 @@ complete path and filename of the just-installed spec file is returned.
 The `notify` parameter is used to specify a progress-tracking function
 that will be called during the installation. Please refer to [the
 Section called *Track Package Installation Progress —
-`rpmNotifyFunction()`*](s1-rpm-rpmlib-functions.html#s3-rpm-rpmlib-rpmnotifyfunction)
+`rpmNotifyFunction()`*](s1-rpm-rpmlib-functions.md#s3-rpm-rpmlib-rpmnotifyfunction)
 for more information on this parameter.
 
 The `labelFormat` parameter can be used to specify how the package label
@@ -1154,7 +1154,7 @@ The following flags are currently defined:
 The `notify` parameter is used to specify a progress tracking function
 that will be called during the installation. Please refer to [the
 Section called *Track Package Installation Progress —
-`rpmNotifyFunction()`*](s1-rpm-rpmlib-functions.html#s3-rpm-rpmlib-rpmnotifyfunction)
+`rpmNotifyFunction()`*](s1-rpm-rpmlib-functions.md#s3-rpm-rpmlib-rpmnotifyfunction)
 for more information on this parameter.
 
 The `labelFormat` parameter can be used to specify how the package label
@@ -2303,7 +2303,7 @@ This function frees the resources used by the iterator `iter`.
 
 |                                |                          |                                         |
 | :----------------------------- | :----------------------: | --------------------------------------: |
-| [Prev](ch-rpm-rpmlib.html)     |    [Home](index.html)    | [Next](s1-rpm-rpmlib-example-code.html) |
-| A Guide to the RPM Library API | [Up](ch-rpm-rpmlib.html) |                            Example Code |
+| [Prev](ch-rpm-rpmlib.md)     |    [Home](index.md)    | [Next](s1-rpm-rpmlib-example-code.md) |
+| A Guide to the RPM Library API | [Up](ch-rpm-rpmlib.md) |                            Example Code |
 
 </div>

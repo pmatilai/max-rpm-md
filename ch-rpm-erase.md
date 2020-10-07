@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-install-additional-options.html)
+[Prev](s1-rpm-install-additional-options.md)
 
-[Next](s1-rpm-erase-erasing-package.html)
+[Next](s1-rpm-erase-erasing-package.md)
 
 -----
 
@@ -42,7 +42,7 @@ Perform erase tests only
 
 [the Section called ***--test** — Go Through the Process of Erasing the
 Package, But Do Not Erase
-It*](s1-rpm-erase-additional-options.html#s2-rpm-erase-test-option)
+It*](s1-rpm-erase-additional-options.md#s2-rpm-erase-test-option)
 
 **--noscripts**
 
@@ -50,7 +50,7 @@ Do not execute pre- and post-uninstall scripts
 
 [the Section called ***--noscripts** — Do *Not* Execute Pre- and
 Post-uninstall
-Scripts*](s1-rpm-erase-additional-options.html#s2-rpm-erase-noscripts-option)
+Scripts*](s1-rpm-erase-additional-options.md#s2-rpm-erase-noscripts-option)
 
 **--nodeps**
 
@@ -58,7 +58,7 @@ Do not check dependencies
 
 [the Section called ***--nodeps**: Do Not Check Dependencies Before
 Erasing
-Package*](s1-rpm-erase-additional-options.html#s2-rpm-erase-nodeps-option)
+Package*](s1-rpm-erase-additional-options.md#s2-rpm-erase-nodeps-option)
 
 General Options
 
@@ -69,14 +69,14 @@ Page
 Display debugging information
 
 [the Section called *Getting More Information With
-**-vv***](s1-rpm-erase-erasing-package.html#s2-rpm-erase-vv-option)
+**-vv***](s1-rpm-erase-erasing-package.md#s2-rpm-erase-vv-option)
 
 **--root `<path>`**
 
 Set alternate root to **`<path>`**
 
 [the Section called ***--root `<path>`** — Use **`<path>`** As the
-Root*](s1-rpm-erase-additional-options.html#s2-rpm-erase-root-option)
+Root*](s1-rpm-erase-additional-options.md#s2-rpm-erase-root-option)
 
 **--rcfile `<rcfile>`**
 
@@ -84,14 +84,14 @@ Set alternate rpmrc file to **`<rcfile>`**
 
 [the Section called ***--rcfile `<rcfile>`** — Read **`<rcfile>`** For
 RPM
-Defaults*](s1-rpm-erase-additional-options.html#s2-rpm-erase-rcfile-option)
+Defaults*](s1-rpm-erase-additional-options.md#s2-rpm-erase-rcfile-option)
 
 **--dbpath `<path>`**
 
 Use **`<path>`** to find the RPM database
 
 [the Section called ***--dbpath `<path>`**: Use **`<path>`** To Find RPM
-Database*](s1-rpm-erase-additional-options.html#s2-rpm-erase-dbpath-option)
+Database*](s1-rpm-erase-additional-options.md#s2-rpm-erase-dbpath-option)
 
 <div class="sect1">
 
@@ -129,7 +129,7 @@ be such a time-saver\!
 
 |                                                |                    |                                           |
 | :--------------------------------------------- | :----------------: | ----------------------------------------: |
-| [Prev](s1-rpm-install-additional-options.html) | [Home](index.html) | [Next](s1-rpm-erase-erasing-package.html) |
-| Additional options to **rpm -i**               |  [Up](p108.html)   |                         Erasing a Package |
+| [Prev](s1-rpm-install-additional-options.md) | [Home](index.md) | [Next](s1-rpm-erase-erasing-package.md) |
+| Additional options to **rpm -i**               |  [Up](p108.md)   |                         Erasing a Package |
 
 </div>

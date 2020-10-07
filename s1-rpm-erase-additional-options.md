@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-erase-erasing-package.html)
+[Prev](s1-rpm-erase-erasing-package.md)
 
 Chapter 3. Using RPM to Erase Packages
 
-[Next](s1-rpm-erase-and-config-files.html)
+[Next](s1-rpm-erase-and-config-files.md)
 
 -----
 
@@ -176,7 +176,7 @@ best not to second-guess them.
 ## <span id="s2-rpm-erase-noscripts-option">**--noscripts** — Do *Not* Execute Pre- and Post-uninstall Scripts</span>
 
 In [the Section called *Getting More Information With
-**-vv***](s1-rpm-erase-erasing-package.html#s2-rpm-erase-vv-option), we
+**-vv***](s1-rpm-erase-erasing-package.md#s2-rpm-erase-vv-option), we
 used the **-vv** option to see what RPM was actually doing when it
 erased a package. We noted that there were two scripts, a pre-uninstall
 and a post-uninstall, that were used to execute commands required during
@@ -205,7 +205,7 @@ directory.
 This option would be used if there was a need to switch between several
 sets of RPM defaults. Software developers and package builders will
 normally be the only people using the **--rcfile** option. For more
-information on `rpmrc` files, see [Appendix B](ch-rpmrc-file.html).
+information on `rpmrc` files, see [Appendix B](ch-rpmrc-file.md).
 
 </div>
 
@@ -252,7 +252,7 @@ common occurrence, but it's difficult to handle any other way.
 
 |                                                                                     |                                                                                     |
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-erase-additional-options.html#AEN1831) | For more information on `rpmrc` file entries, see [Appendix B](ch-rpmrc-file.html). |
+| [<span class="footnote">\[1\]</span>](s1-rpm-erase-additional-options.md#AEN1831) | For more information on `rpmrc` file entries, see [Appendix B](ch-rpmrc-file.md). |
 
 <div class="NAVFOOTER">
 
@@ -260,7 +260,7 @@ common occurrence, but it's difficult to handle any other way.
 
 |                                           |                         |                                            |
 | :---------------------------------------- | :---------------------: | -----------------------------------------: |
-| [Prev](s1-rpm-erase-erasing-package.html) |   [Home](index.html)    | [Next](s1-rpm-erase-and-config-files.html) |
-| Erasing a Package                         | [Up](ch-rpm-erase.html) |                **rpm -e** and Config files |
+| [Prev](s1-rpm-erase-erasing-package.md) |   [Home](index.md)    | [Next](s1-rpm-erase-and-config-files.md) |
+| Erasing a Package                         | [Up](ch-rpm-erase.md) |                **rpm -e** and Config files |
 
 </div>

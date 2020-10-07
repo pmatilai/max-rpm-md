@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-erase.html)
+[Prev](ch-rpm-erase.md)
 
 Chapter 3. Using RPM to Erase Packages
 
-[Next](s1-rpm-erase-additional-options.html)
+[Next](s1-rpm-erase-additional-options.md)
 
 -----
 
@@ -99,7 +99,7 @@ package. If the number had been non-zero, RPM would only be performing a
 test of the package erasure. This happens when the **--test** option is
 used. Refer to [the Section called ***--test** — Go Through the Process
 of Erasing the Package, But Do Not Erase
-It*](s1-rpm-erase-additional-options.html#s2-rpm-erase-test-option) for
+It*](s1-rpm-erase-additional-options.md#s2-rpm-erase-test-option) for
 more information on the use of the **--test** option with **rpm -e**.
 
 The next two lines log the actual removal of the files comprising the
@@ -127,7 +127,7 @@ information on every file installed by the package.
 
 |                             |                         |                                              |
 | :-------------------------- | :---------------------: | -------------------------------------------: |
-| [Prev](ch-rpm-erase.html)   |   [Home](index.html)    | [Next](s1-rpm-erase-additional-options.html) |
-| Using RPM to Erase Packages | [Up](ch-rpm-erase.html) |                           Additional Options |
+| [Prev](ch-rpm-erase.md)   |   [Home](index.md)    | [Next](s1-rpm-erase-additional-options.md) |
+| Using RPM to Erase Packages | [Up](ch-rpm-erase.md) |                           Additional Options |
 
 </div>

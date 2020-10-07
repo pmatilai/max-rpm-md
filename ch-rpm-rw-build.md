@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-multi-hints-and-kinks.html)
+[Prev](s1-rpm-multi-hints-and-kinks.md)
 
-[Next](s1-rpm-rw-build-build-without-rpm.html)
+[Next](s1-rpm-rw-build-build-without-rpm.md)
 
 -----
 
@@ -14,7 +14,7 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 # <span id="ch-rpm-rw-build"></span>Chapter 20. Real-World Package Building
 
-In [Chapter 11](ch-rpm-build.html), we packaged a fairly simple
+In [Chapter 11](ch-rpm-build.md), we packaged a fairly simple
 application. Since our goal was to introduce package building, we kept
 things as simple as possible. However, things aren't always that simple
 in the real world.
@@ -69,7 +69,7 @@ chapter, we'll build and package amanda for Red Hat Linux Linux version
 
 |                                           |                    |                                                |
 | :---------------------------------------- | :----------------: | ---------------------------------------------: |
-| [Prev](s1-rpm-multi-hints-and-kinks.html) | [Home](index.html) | [Next](s1-rpm-rw-build-build-without-rpm.html) |
-| Hints and Kinks                           |  [Up](p5206.html)  |                   Initial Building Without RPM |
+| [Prev](s1-rpm-multi-hints-and-kinks.md) | [Home](index.md) | [Next](s1-rpm-rw-build-build-without-rpm.md) |
+| Hints and Kinks                           |  [Up](p5206.md)  |                   Initial Building Without RPM |
 
 </div>

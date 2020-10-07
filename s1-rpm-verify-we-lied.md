@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-verify-what-to-verify.html)
+[Prev](s1-rpm-verify-what-to-verify.md)
 
 Chapter 6. Using RPM to Verify Installed Packages
 
-[Next](ch-rpm-checksig.html)
+[Next](ch-rpm-checksig.md)
 
 -----
 
@@ -73,7 +73,7 @@ failures.
 
 |                                                                           |                                                                                                                                                                              |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-verify-we-lied.html#AEN4495) | See [the Section called *The **%verify** Directive* in Chapter 13](s1-rpm-inside-files-list-directives.html#s3-rpm-inside-flist-verify-directive) for details on **%verify** |
+| [<span class="footnote">\[1\]</span>](s1-rpm-verify-we-lied.md#AEN4495) | See [the Section called *The **%verify** Directive* in Chapter 13](s1-rpm-inside-files-list-directives.md#s3-rpm-inside-flist-verify-directive) for details on **%verify** |
 
 <div class="NAVFOOTER">
 
@@ -81,7 +81,7 @@ failures.
 
 |                                           |                          |                                   |
 | :---------------------------------------- | :----------------------: | --------------------------------: |
-| [Prev](s1-rpm-verify-what-to-verify.html) |    [Home](index.html)    |      [Next](ch-rpm-checksig.html) |
-| Selecting What to Verify, and How         | [Up](ch-rpm-verify.html) | Using RPM to Verify Package Files |
+| [Prev](s1-rpm-verify-what-to-verify.md) |    [Home](index.md)    |      [Next](ch-rpm-checksig.md) |
+| Selecting What to Verify, and How         | [Up](ch-rpm-verify.md) | Using RPM to Verify Package Files |
 
 </div>

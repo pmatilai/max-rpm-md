@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-philosophy.html)
+[Prev](ch-rpm-philosophy.md)
 
 Chapter 9. The Philosophy Behind RPM
 
-[Next](s1-rpm-philosophy-multi-architecture.html)
+[Next](s1-rpm-philosophy-multi-architecture.md)
 
 -----
 
@@ -65,7 +65,7 @@ using RPM.
 
 |                                |                              |                                                   |
 | :----------------------------- | :--------------------------: | ------------------------------------------------: |
-| [Prev](ch-rpm-philosophy.html) |      [Home](index.html)      | [Next](s1-rpm-philosophy-multi-architecture.html) |
-| The Philosophy Behind RPM      | [Up](ch-rpm-philosophy.html) |       Multi-architecture/operating system Support |
+| [Prev](ch-rpm-philosophy.md) |      [Home](index.md)      | [Next](s1-rpm-philosophy-multi-architecture.md) |
+| The Philosophy Behind RPM      | [Up](ch-rpm-philosophy.md) |       Multi-architecture/operating system Support |
 
 </div>

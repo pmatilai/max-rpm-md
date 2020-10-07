@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-erase-and-config-files.html)
+[Prev](s1-rpm-erase-and-config-files.md)
 
 Chapter 3. Using RPM to Erase Packages
 
-[Next](ch-rpm-upgrade.html)
+[Next](ch-rpm-upgrade.md)
 
 -----
 
@@ -42,7 +42,7 @@ erase. [<span class="footnote">\[1\]</span>](#FTN.AEN1905)
 
 |                                                                            |                                                                        |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-erase-watch-out.html#AEN1905) | See [Chapter 5](ch-rpm-query.html) for more information on **rpm -q**. |
+| [<span class="footnote">\[1\]</span>](s1-rpm-erase-watch-out.md#AEN1905) | See [Chapter 5](ch-rpm-query.md) for more information on **rpm -q**. |
 
 <div class="NAVFOOTER">
 
@@ -50,7 +50,7 @@ erase. [<span class="footnote">\[1\]</span>](#FTN.AEN1905)
 
 |                                            |                         |                               |
 | :----------------------------------------- | :---------------------: | ----------------------------: |
-| [Prev](s1-rpm-erase-and-config-files.html) |   [Home](index.html)    |   [Next](ch-rpm-upgrade.html) |
-| **rpm -e** and Config files                | [Up](ch-rpm-erase.html) | Using RPM to Upgrade Packages |
+| [Prev](s1-rpm-erase-and-config-files.md) |   [Home](index.md)    |   [Next](ch-rpm-upgrade.md) |
+| **rpm -e** and Config files                | [Up](ch-rpm-erase.md) | Using RPM to Upgrade Packages |
 
 </div>

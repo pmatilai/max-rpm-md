@@ -4,12 +4,12 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-multi-multi-platform-easier.html)
+[Prev](s1-rpm-multi-multi-platform-easier.md)
 
 Chapter 19. Building Packages for Multiple Architectures and Operating
 Systems
 
-[Next](s1-rpm-multi-optflags.html)
+[Next](s1-rpm-multi-optflags.md)
 
 -----
 
@@ -35,7 +35,7 @@ support for the new build platform.
 Normally, the file `/usr/lib/rpmrc` contains the following `rpmrc` file
 entries. They can be overridden by entries in `/etc/rpmrc` or
 `~/.rpmrc`. This is discussed more completely in [Appendix
-B](ch-rpmrc-file.html).
+B](ch-rpmrc-file.md).
 
 Because each entry type is available in both architecture and operating
 system flavors, we'll just use **`xxx`** in place of **arch** and **os**
@@ -268,7 +268,7 @@ probably don't need to use them.
 
 |                                                           |                         |                                             |
 | :-------------------------------------------------------- | :---------------------: | ------------------------------------------: |
-| [Prev](s1-rpm-multi-multi-platform-easier.html)           |   [Home](index.html)    |          [Next](s1-rpm-multi-optflags.html) |
-| What Does RPM Do To Make Multi-Platform Packaging Easier? | [Up](ch-rpm-multi.html) | **optflags** — The Other `rpmrc` File Entry |
+| [Prev](s1-rpm-multi-multi-platform-easier.md)           |   [Home](index.md)    |          [Next](s1-rpm-multi-optflags.md) |
+| What Does RPM Do To Make Multi-Platform Packaging Easier? | [Up](ch-rpm-multi.md) | **optflags** — The Other `rpmrc` File Entry |
 
 </div>

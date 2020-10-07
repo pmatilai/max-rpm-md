@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-install-performing-install.html)
+[Prev](s1-rpm-install-performing-install.md)
 
 Chapter 2. Using RPM to Install Packages
 
-[Next](s1-rpm-install-additional-options.html)
+[Next](s1-rpm-install-additional-options.md)
 
 -----
 
@@ -125,7 +125,7 @@ logrotate      ##################################################
 
 |                                                |                           |                                                |
 | :--------------------------------------------- | :-----------------------: | ---------------------------------------------: |
-| [Prev](s1-rpm-install-performing-install.html) |    [Home](index.html)     | [Next](s1-rpm-install-additional-options.html) |
-| Performing an Install                          | [Up](ch-rpm-install.html) |               Additional options to **rpm -i** |
+| [Prev](s1-rpm-install-performing-install.md) |    [Home](index.md)     | [Next](s1-rpm-install-additional-options.md) |
+| Performing an Install                          | [Up](ch-rpm-install.md) |               Additional options to **rpm -i** |
 
 </div>

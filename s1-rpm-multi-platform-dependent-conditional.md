@@ -4,12 +4,12 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-multi-platform-dependent-tags.html)
+[Prev](s1-rpm-multi-platform-dependent-tags.md)
 
 Chapter 19. Building Packages for Multiple Architectures and Operating
 Systems
 
-[Next](s1-rpm-multi-hints-and-kinks.html)
+[Next](s1-rpm-multi-hints-and-kinks.md)
 
 -----
 
@@ -247,7 +247,7 @@ the operating system was *not* **Linux**.
 
 |                                                   |                         |                                           |
 | :------------------------------------------------ | :---------------------: | ----------------------------------------: |
-| [Prev](s1-rpm-multi-platform-dependent-tags.html) |   [Home](index.html)    | [Next](s1-rpm-multi-hints-and-kinks.html) |
-| Platform-Dependent Tags                           | [Up](ch-rpm-multi.html) |                           Hints and Kinks |
+| [Prev](s1-rpm-multi-platform-dependent-tags.md) |   [Home](index.md)    | [Next](s1-rpm-multi-hints-and-kinks.md) |
+| Platform-Dependent Tags                           | [Up](ch-rpm-multi.md) |                           Hints and Kinks |
 
 </div>

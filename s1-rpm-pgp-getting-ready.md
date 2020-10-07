@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-pgp.html)
+[Prev](ch-rpm-pgp.md)
 
 Chapter 17. Adding PGP Signatures to a Package
 
-[Next](s1-rpm-pgp-signing-packages.html)
+[Next](s1-rpm-pgp-signing-packages.md)
 
 -----
 
@@ -167,7 +167,7 @@ key.
 RPM's configuration process is quite straightforward. It consists of
 adding a few `rpmrc` entries in a file of your choice. For more
 information on rpmrc files in general, please see [Appendix
-B](ch-rpmrc-file.html).
+B](ch-rpmrc-file.md).
 
 The entries that need to be added to an rpmrc file are:
 
@@ -264,7 +264,7 @@ And that's it. Now it's time to sign some packages.
 
 |                                    |                       |                                          |
 | :--------------------------------- | :-------------------: | ---------------------------------------: |
-| [Prev](ch-rpm-pgp.html)            |  [Home](index.html)   | [Next](s1-rpm-pgp-signing-packages.html) |
-| Adding PGP Signatures to a Package | [Up](ch-rpm-pgp.html) |                         Signing Packages |
+| [Prev](ch-rpm-pgp.md)            |  [Home](index.md)   | [Next](s1-rpm-pgp-signing-packages.md) |
+| Adding PGP Signatures to a Package | [Up](ch-rpm-pgp.md) |                         Signing Packages |
 
 </div>

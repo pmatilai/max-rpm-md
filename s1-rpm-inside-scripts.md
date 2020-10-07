@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-inside-tags.html)
+[Prev](s1-rpm-inside-tags.md)
 
 Chapter 13. Inside the Spec File
 
-[Next](s1-rpm-inside-macros.html)
+[Next](s1-rpm-inside-macros.md)
 
 -----
 
@@ -106,7 +106,7 @@ description of each one:
     **%doc** directive can be installed in a subdirectory of
     **defaultdocdir**. For more information on the **%doc** directive,
     refer to [the Section called *The **%doc**
-    Directive*](s1-rpm-inside-files-list-directives.html#s3-rpm-inside-flist-doc-directive).
+    Directive*](s1-rpm-inside-files-list-directives.md#s3-rpm-inside-flist-doc-directive).
 
   - `RPM_OPT_FLAGS` — This environment variable gets its value from the
     **optflags** `rpmrc` file entry. It contains options that can be
@@ -175,7 +175,7 @@ all software being packaged. Because of this, RPM has two macros that
 greatly simplify these routine functions. More information on RPM's
 **%setup** and **%patch** macros can be found in [the Section called
 *Macros: Helpful Shorthand for Package
-Builders*](s1-rpm-inside-macros.html).
+Builders*](s1-rpm-inside-macros.md).
 
 The last item on the list can include creating directories or anything
 else required to get the sources in a ready-to-build state. As a result,
@@ -460,11 +460,11 @@ stdout is only displayed when the verification is run in verbose mode.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><a href="s1-rpm-inside-scripts.html#AEN7910" id="FTN.AEN7910"><span class="footnote">[1]</span></a></td>
-<td><p>Described in <a href="ch-rpm-b-command.html#s2-rpm-b-command-test-option">the Section called <em><strong>--test</strong> — Create, Save Build Scripts For Review</em> in Chapter 12</a>.</p></td>
+<td><a href="s1-rpm-inside-scripts.md#AEN7910" id="FTN.AEN7910"><span class="footnote">[1]</span></a></td>
+<td><p>Described in <a href="ch-rpm-b-command.md#s2-rpm-b-command-test-option">the Section called <em><strong>--test</strong> — Create, Save Build Scripts For Review</em> in Chapter 12</a>.</p></td>
 </tr>
 <tr class="even">
-<td><a href="s1-rpm-inside-scripts.html#AEN8053" id="FTN.AEN8053"><span class="footnote">[2]</span></a></td>
+<td><a href="s1-rpm-inside-scripts.md#AEN8053" id="FTN.AEN8053"><span class="footnote">[2]</span></a></td>
 <td><p>One popular hack to make spec files containing the <strong>%check</strong> script "work" with RPM versions older than 4.2 roughly similarly as in newer versions is to include it immediately after the <strong>%install</strong> script in the spec file and append "|| :" to it, like:</p>
 <table>
 <colgroup>
@@ -480,11 +480,11 @@ stdout is only displayed when the verification is run in verbose mode.
 </table></td>
 </tr>
 <tr class="odd">
-<td><a href="s1-rpm-inside-scripts.html#AEN8074" id="FTN.AEN8074"><span class="footnote">[3]</span></a></td>
-<td><p>Keep in mind that this command in a <strong>%clean</strong> script can wreak havoc if used with a build root of, say, <code class="filename">/</code>. <a href="ch-rpm-b-command.html#s3-rpm-b-command-buildroot-warning">the Section called <em>Using <strong>--buildroot</strong> Can Bite You!</em> in Chapter 12</a> discusses this in more detail.</p></td>
+<td><a href="s1-rpm-inside-scripts.md#AEN8074" id="FTN.AEN8074"><span class="footnote">[3]</span></a></td>
+<td><p>Keep in mind that this command in a <strong>%clean</strong> script can wreak havoc if used with a build root of, say, <code class="filename">/</code>. <a href="ch-rpm-b-command.md#s3-rpm-b-command-buildroot-warning">the Section called <em>Using <strong>--buildroot</strong> Can Bite You!</em> in Chapter 12</a> discusses this in more detail.</p></td>
 </tr>
 <tr class="even">
-<td><a href="s1-rpm-inside-scripts.html#AEN8113" id="FTN.AEN8113"><span class="footnote">[4]</span></a></td>
+<td><a href="s1-rpm-inside-scripts.md#AEN8113" id="FTN.AEN8113"><span class="footnote">[4]</span></a></td>
 <td><p>Or it will be 1, once the package is completely installed. Remember, the number is based on the number of packages installed <em>after</em> the current package's install or erase has completed.</p></td>
 </tr>
 </tbody>
@@ -496,7 +496,7 @@ stdout is only displayed when the verification is run in verbose mode.
 
 |                                 |                          |                                                |
 | :------------------------------ | :----------------------: | ---------------------------------------------: |
-| [Prev](s1-rpm-inside-tags.html) |    [Home](index.html)    |              [Next](s1-rpm-inside-macros.html) |
-| Tags: Data Definitions          | [Up](ch-rpm-inside.html) | Macros: Helpful Shorthand for Package Builders |
+| [Prev](s1-rpm-inside-tags.md) |    [Home](index.md)    |              [Next](s1-rpm-inside-macros.md) |
+| Tags: Data Definitions          | [Up](ch-rpm-inside.md) | Macros: Helpful Shorthand for Package Builders |
 
 </div>

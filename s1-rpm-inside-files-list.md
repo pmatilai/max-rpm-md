@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-inside-macros.html)
+[Prev](s1-rpm-inside-macros.md)
 
 Chapter 13. Inside the Spec File
 
-[Next](s1-rpm-inside-files-list-directives.html)
+[Next](s1-rpm-inside-files-list-directives.md)
 
 -----
 
@@ -40,7 +40,7 @@ globbing can also be used in the **%files** list.
 
 |                                                                              |                                                                                                                                                             |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-inside-files-list.html#AEN8695) | This is not entirely the case when a relocatable package is being built. For more information on relocatable packages, see [Chapter 15](ch-rpm-reloc.html). |
+| [<span class="footnote">\[1\]</span>](s1-rpm-inside-files-list.md#AEN8695) | This is not entirely the case when a relocatable package is being built. For more information on relocatable packages, see [Chapter 15](ch-rpm-reloc.md). |
 
 <div class="NAVFOOTER">
 
@@ -48,7 +48,7 @@ globbing can also be used in the **%files** list.
 
 |                                                |                          |                                                  |
 | :--------------------------------------------- | :----------------------: | -----------------------------------------------: |
-| [Prev](s1-rpm-inside-macros.html)              |    [Home](index.html)    | [Next](s1-rpm-inside-files-list-directives.html) |
-| Macros: Helpful Shorthand for Package Builders | [Up](ch-rpm-inside.html) |               Directives For the **%files** list |
+| [Prev](s1-rpm-inside-macros.md)              |    [Home](index.md)    | [Next](s1-rpm-inside-files-list-directives.md) |
+| Macros: Helpful Shorthand for Package Builders | [Up](ch-rpm-inside.md) |               Directives For the **%files** list |
 
 </div>

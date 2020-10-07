@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-specref-scripts.html)
+[Prev](s1-rpm-specref-scripts.md)
 
 Appendix E. Concise Spec File Reference
 
-[Next](s1-rpm-specref-files-list.html)
+[Next](s1-rpm-specref-files-list.md)
 
 -----
 
@@ -40,7 +40,7 @@ preparation for the build. It is used in the **%prep** script:
 </table>
 
 See also: [the Section called *The **%setup** Macro* in Chapter
-13](s1-rpm-inside-macros.html#s2-rpm-inside-setup-macro).
+13](s1-rpm-inside-macros.md#s2-rpm-inside-setup-macro).
 
 <div class="sect3">
 
@@ -65,7 +65,7 @@ directory named other than **`<name>`- `<version>`**.
 
 See also: [the Section called ***-n `<name>`** — Set Name of Build
 Directory* in Chapter
-13](s1-rpm-inside-macros.html#s3-rpm-inside-setup-n-option).
+13](s1-rpm-inside-macros.md#s3-rpm-inside-setup-n-option).
 
 </div>
 
@@ -92,7 +92,7 @@ this option.
 
 See also: [the Section called ***-c** — Create Directory (and change to
 it) Before Unpacking* in Chapter
-13](s1-rpm-inside-macros.html#s3-rpm-inside-setup-c-option).
+13](s1-rpm-inside-macros.md#s3-rpm-inside-setup-c-option).
 
 </div>
 
@@ -118,7 +118,7 @@ build directory before unpacking the sources.
 
 See also: [the Section called ***-c** — Create Directory (and change to
 it) Before Unpacking* in Chapter
-13](s1-rpm-inside-macros.html#s3-rpm-inside-setup-c-option).
+13](s1-rpm-inside-macros.md#s3-rpm-inside-setup-c-option).
 
 </div>
 
@@ -146,7 +146,7 @@ normally with the `-b` or `-a` options.
 
 See also: [the Section called ***-D** — Do Not Delete Directory Before
 Unpacking Sources* in Chapter
-13](s1-rpm-inside-macros.html#s3-rpm-inside-setup-d-option).
+13](s1-rpm-inside-macros.md#s3-rpm-inside-setup-d-option).
 
 </div>
 
@@ -173,7 +173,7 @@ It is used with the `-a` or `-b` options.
 
 See also: [the Section called ***-T** — Do Not Perform Default Archive
 Unpacking* in Chapter
-13](s1-rpm-inside-macros.html#s3-rpm-inside-setup-t-option).
+13](s1-rpm-inside-macros.md#s3-rpm-inside-setup-t-option).
 
 </div>
 
@@ -200,7 +200,7 @@ directory into the build directory.
 
 See also: [the Section called ***-b `<n>`** — Unpack The *n*th Sources
 Before Changing Directory* in Chapter
-13](s1-rpm-inside-macros.html#s3-rpm-inside-setup-b-option).
+13](s1-rpm-inside-macros.md#s3-rpm-inside-setup-b-option).
 
 </div>
 
@@ -227,7 +227,7 @@ directory into the build directory.
 
 See also: [the Section called ***-a `<n>`** — Unpack The *n*th Sources
 After Changing Directory* in Chapter
-13](s1-rpm-inside-macros.html#s3-rpm-inside-setup-a-option).
+13](s1-rpm-inside-macros.md#s3-rpm-inside-setup-a-option).
 
 </div>
 
@@ -272,7 +272,7 @@ be specified by appending the number of the **Patch:** tag to the
 </table>
 
 See also: [the Section called *The **%patch** Macro* in Chapter
-13](s1-rpm-inside-macros.html#s2-rpm-inside-patch-macro).
+13](s1-rpm-inside-macros.md#s2-rpm-inside-patch-macro).
 
 <div class="sect3">
 
@@ -299,7 +299,7 @@ line:
 </table>
 
 See also: [the Section called *Specifying Which **patch** Tag to Use* in
-Chapter 13](s1-rpm-inside-macros.html#s3-rpm-inside-which-patch-tag).
+Chapter 13](s1-rpm-inside-macros.md#s3-rpm-inside-which-patch-tag).
 
 </div>
 
@@ -327,7 +327,7 @@ patch file.
 
 See also: [the Section called ***-p `<#>`** — Strip **`<#>`** leading
 slashes and directories from patch filenames* in Chapter
-13](s1-rpm-inside-macros.html#s3-rpm-inside-patch-p-option).
+13](s1-rpm-inside-macros.md#s3-rpm-inside-patch-p-option).
 
 </div>
 
@@ -354,7 +354,7 @@ of the files patched are renamed to end with the extension `.orig`. The
 
 See also: [the Section called ***-b `<name>`** — Set the backup file
 extension to **`<name>`*** in Chapter
-13](s1-rpm-inside-macros.html#s3-rpm-inside-b-option).
+13](s1-rpm-inside-macros.md#s3-rpm-inside-b-option).
 
 </div>
 
@@ -367,7 +367,7 @@ direct **patch** to remove any empty files after the patches have been
 applied.
 
 See also: [the Section called ***-E** — Remove Empty Output Files* in
-Chapter 13](s1-rpm-inside-macros.html#s3-rpm-inside-e-option).
+Chapter 13](s1-rpm-inside-macros.md#s3-rpm-inside-e-option).
 
 </div>
 
@@ -381,7 +381,7 @@ Chapter 13](s1-rpm-inside-macros.html#s3-rpm-inside-e-option).
 
 |                                     |                           |                                        |
 | :---------------------------------- | :-----------------------: | -------------------------------------: |
-| [Prev](s1-rpm-specref-scripts.html) |    [Home](index.html)     | [Next](s1-rpm-specref-files-list.html) |
-| Scriptlets                          | [Up](ch-rpm-specref.html) |                    The **%files** List |
+| [Prev](s1-rpm-specref-scripts.md) |    [Home](index.md)     | [Next](s1-rpm-specref-files-list.md) |
+| Scriptlets                          | [Up](ch-rpm-specref.md) |                    The **%files** List |
 
 </div>

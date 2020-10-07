@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-build-creating-spec-file.html)
+[Prev](s1-rpm-build-creating-spec-file.md)
 
 Chapter 11. Building Packages: A Simple Example
 
-[Next](s1-rpm-build-when-things-go-wrong.html)
+[Next](s1-rpm-build-when-things-go-wrong.md)
 
 -----
 
@@ -364,7 +364,7 @@ ready to use. But sometimes things don't go so well.
 
 |                                              |                         |                                                |
 | :------------------------------------------- | :---------------------: | ---------------------------------------------: |
-| [Prev](s1-rpm-build-creating-spec-file.html) |   [Home](index.html)    | [Next](s1-rpm-build-when-things-go-wrong.html) |
-| Creating the Spec File                       | [Up](ch-rpm-build.html) |                           When Things Go Wrong |
+| [Prev](s1-rpm-build-creating-spec-file.md) |   [Home](index.md)    | [Next](s1-rpm-build-when-things-go-wrong.md) |
+| Creating the Spec File                       | [Up](ch-rpm-build.md) |                           When Things Go Wrong |
 
 </div>

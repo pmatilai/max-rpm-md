@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-commands-initialize-database-mode.html)
+[Prev](s1-rpm-commands-initialize-database-mode.md)
 
 Appendix C. Concise RPM Command Reference
 
-[Next](ch-queryformat-tags.html)
+[Next](ch-queryformat-tags.md)
 
 -----
 
@@ -36,7 +36,7 @@ Only the global options may be used.
 
 |                                                       |                            |                                      |
 | :---------------------------------------------------- | :------------------------: | -----------------------------------: |
-| [Prev](s1-rpm-commands-initialize-database-mode.html) |     [Home](index.html)     |     [Next](ch-queryformat-tags.html) |
-| Initialize Database Mode                              | [Up](ch-rpm-commands.html) | Available Tags For **--queryformat** |
+| [Prev](s1-rpm-commands-initialize-database-mode.md) |     [Home](index.md)     |     [Next](ch-queryformat-tags.md) |
+| Initialize Database Mode                              | [Up](ch-rpm-commands.md) | Available Tags For **--queryformat** |
 
 </div>

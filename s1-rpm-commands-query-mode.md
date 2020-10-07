@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-commands-information-options.html)
+[Prev](s1-rpm-commands-information-options.md)
 
 Appendix C. Concise RPM Command Reference
 
-[Next](s1-rpm-commands-verify-mode.html)
+[Next](s1-rpm-commands-verify-mode.md)
 
 -----
 
@@ -96,7 +96,7 @@ simply display the applicable package label(s):
 
 |                                                  |                            |                                          |
 | :----------------------------------------------- | :------------------------: | ---------------------------------------: |
-| [Prev](s1-rpm-commands-information-options.html) |     [Home](index.html)     | [Next](s1-rpm-commands-verify-mode.html) |
-| Informational Options                            | [Up](ch-rpm-commands.html) |                              Verify Mode |
+| [Prev](s1-rpm-commands-information-options.md) |     [Home](index.md)     | [Next](s1-rpm-commands-verify-mode.md) |
+| Informational Options                            | [Up](ch-rpm-commands.md) |                              Verify Mode |
 
 </div>

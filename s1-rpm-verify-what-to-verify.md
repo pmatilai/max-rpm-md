@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-verify-output.html)
+[Prev](s1-rpm-verify-output.md)
 
 Chapter 6. Using RPM to Verify Installed Packages
 
-[Next](s1-rpm-verify-we-lied.html)
+[Next](s1-rpm-verify-we-lied.md)
 
 -----
 
@@ -154,7 +154,7 @@ well:
 
 (Note that the issue surrounding RPM and symbolic links mentioned in
 [the Section called *A Tricky Detail* in Chapter
-5](s1-rpm-query-parts.html#s4-rpm-query-tricky-detail) also applies to
+5](s1-rpm-query-parts.md#s4-rpm-query-tricky-detail) also applies to
 **rpm -Vf**. Watch those symlinks\!)
 
 </div>
@@ -578,7 +578,7 @@ directory.
 This option would be used if there was a need to switch between several
 sets of RPM options. Software developer and package builders will be the
 people using **--rcfile**. For more information on `rpmrc` files, see
-[Appendix B](ch-rpmrc-file.html).
+[Appendix B](ch-rpmrc-file.md).
 
 </div>
 
@@ -588,8 +588,8 @@ people using **--rcfile**. For more information on `rpmrc` files, see
 
 |                                                                                  |                                                                                     |
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-verify-what-to-verify.html#AEN4311) | Failure messages will always be displayed.                                          |
-| [<span class="footnote">\[2\]</span>](s1-rpm-verify-what-to-verify.html#AEN4384) | For more information on `rpmrc` file entries, see [Appendix B](ch-rpmrc-file.html). |
+| [<span class="footnote">\[1\]</span>](s1-rpm-verify-what-to-verify.md#AEN4311) | Failure messages will always be displayed.                                          |
+| [<span class="footnote">\[2\]</span>](s1-rpm-verify-what-to-verify.md#AEN4384) | For more information on `rpmrc` file entries, see [Appendix B](ch-rpmrc-file.md). |
 
 <div class="NAVFOOTER">
 
@@ -597,7 +597,7 @@ people using **--rcfile**. For more information on `rpmrc` files, see
 
 |                                             |                          |                                    |
 | :------------------------------------------ | :----------------------: | ---------------------------------: |
-| [Prev](s1-rpm-verify-output.html)           |    [Home](index.html)    | [Next](s1-rpm-verify-we-lied.html) |
-| When Verification Fails — **rpm -V** Output | [Up](ch-rpm-verify.html) |                 We've Lied to You… |
+| [Prev](s1-rpm-verify-output.md)           |    [Home](index.md)    | [Next](s1-rpm-verify-we-lied.md) |
+| When Verification Fails — **rpm -V** Output | [Up](ch-rpm-verify.md) |                 We've Lied to You… |
 
 </div>

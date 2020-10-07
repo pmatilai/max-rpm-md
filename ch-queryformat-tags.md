@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-commands-rebuild-database-mode.html)
+[Prev](s1-rpm-commands-rebuild-database-mode.md)
 
-[Next](ch-rpm-specref.html)
+[Next](ch-rpm-specref.md)
 
 -----
 
@@ -910,8 +910,8 @@ Used with modifiers: N/A
 
 |                                                                          |                                                                                                                                                                                                                                                                                                                         |
 | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](ch-queryformat-tags.html#AEN16282) | Since there is no modifier to display the file states in human-readable form, it will be necessary to manually interpret the flag values, based on the **RPMFILE\_STATE\_`xxx`** **\#define**s contained in `rpmlib.h`. This file is part of the **rpm-devel** package and is also present in the RPM source package.   |
-| [<span class="footnote">\[2\]</span>](ch-queryformat-tags.html#AEN16504) | Since there is no modifier to display the verification flags in human-readable form, it will be necessary to manually interpret the flag values, based on the **RPMVERIFY\_`xxx`** **\#define**s contained in `rpmlib.h`. This file is part of the **rpm-devel** package and is also present in the RPM source package. |
+| [<span class="footnote">\[1\]</span>](ch-queryformat-tags.md#AEN16282) | Since there is no modifier to display the file states in human-readable form, it will be necessary to manually interpret the flag values, based on the **RPMFILE\_STATE\_`xxx`** **\#define**s contained in `rpmlib.h`. This file is part of the **rpm-devel** package and is also present in the RPM source package.   |
+| [<span class="footnote">\[2\]</span>](ch-queryformat-tags.md#AEN16504) | Since there is no modifier to display the verification flags in human-readable form, it will be necessary to manually interpret the flag values, based on the **RPMVERIFY\_`xxx`** **\#define**s contained in `rpmlib.h`. This file is part of the **rpm-devel** package and is also present in the RPM source package. |
 
 <div class="NAVFOOTER">
 
@@ -919,7 +919,7 @@ Used with modifiers: N/A
 
 |                                                    |                    |                             |
 | :------------------------------------------------- | :----------------: | --------------------------: |
-| [Prev](s1-rpm-commands-rebuild-database-mode.html) | [Home](index.html) | [Next](ch-rpm-specref.html) |
-| Rebuild Database Mode                              | [Up](p14028.html)  | Concise Spec File Reference |
+| [Prev](s1-rpm-commands-rebuild-database-mode.md) | [Home](index.md) | [Next](ch-rpm-specref.md) |
+| Rebuild Database Mode                              | [Up](p14028.md)  | Concise Spec File Reference |
 
 </div>

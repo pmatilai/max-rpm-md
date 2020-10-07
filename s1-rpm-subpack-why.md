@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-subpack.html)
+[Prev](ch-rpm-subpack.md)
 
 Chapter 18. Creating Subpackages
 
-[Next](s1-rpm-subpack-example-intro.html)
+[Next](s1-rpm-subpack-example-intro.md)
 
 -----
 
@@ -53,7 +53,7 @@ created.
 
 |                             |                           |                                             |
 | :-------------------------- | :-----------------------: | ------------------------------------------: |
-| [Prev](ch-rpm-subpack.html) |    [Home](index.html)     |   [Next](s1-rpm-subpack-example-intro.html) |
-| Creating Subpackages        | [Up](ch-rpm-subpack.html) | Our Example Spec File: Subpackages Galore\! |
+| [Prev](ch-rpm-subpack.md) |    [Home](index.md)     |   [Next](s1-rpm-subpack-example-intro.md) |
+| Creating Subpackages        | [Up](ch-rpm-subpack.md) | Our Example Spec File: Subpackages Galore\! |
 
 </div>

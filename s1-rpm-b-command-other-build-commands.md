@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-b-command.html)
+[Prev](ch-rpm-b-command.md)
 
 Chapter 12. **rpmbuild** Command Reference
 
-[Next](ch-rpm-inside.html)
+[Next](ch-rpm-inside.md)
 
 -----
 
@@ -203,7 +203,7 @@ available and how they can make life easier for the package builder.
 
 |                                |                             |                            |
 | :----------------------------- | :-------------------------: | -------------------------: |
-| [Prev](ch-rpm-b-command.html)  |     [Home](index.html)      | [Next](ch-rpm-inside.html) |
-| **rpmbuild** Command Reference | [Up](ch-rpm-b-command.html) |       Inside the Spec File |
+| [Prev](ch-rpm-b-command.md)  |     [Home](index.md)      | [Next](ch-rpm-inside.md) |
+| **rpmbuild** Command Reference | [Up](ch-rpm-b-command.md) |       Inside the Spec File |
 
 </div>

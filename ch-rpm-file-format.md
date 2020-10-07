@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](p14028.html)
+[Prev](p14028.md)
 
-[Next](s1-rpm-file-format-rpm-file-format.html)
+[Next](s1-rpm-file-format-rpm-file-format.md)
 
 -----
 
@@ -106,7 +106,7 @@ numbers.
 
 |                     |                    |                                                 |
 | :------------------ | :----------------: | ----------------------------------------------: |
-| [Prev](p14028.html) | [Home](index.html) | [Next](s1-rpm-file-format-rpm-file-format.html) |
-| Appendixes          | [Up](p14028.html)  |                                 RPM File Format |
+| [Prev](p14028.md) | [Home](index.md) | [Next](s1-rpm-file-format-rpm-file-format.md) |
+| Appendixes          | [Up](p14028.md)  |                                 RPM File Format |
 
 </div>

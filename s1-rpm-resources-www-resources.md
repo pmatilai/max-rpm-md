@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-resources-where-to-talk.html)
+[Prev](s1-rpm-resources-where-to-talk.md)
 
 Appendix F. RPM-related Resources
 
-[Next](s1-rpm-resources-license.html)
+[Next](s1-rpm-resources-license.md)
 
 -----
 
@@ -44,7 +44,7 @@ Either should make finding information on RPM easy.
 
 |                                             |                             |                                       |
 | :------------------------------------------ | :-------------------------: | ------------------------------------: |
-| [Prev](s1-rpm-resources-where-to-talk.html) |     [Home](index.html)      | [Next](s1-rpm-resources-license.html) |
-| Where to Talk About RPM                     | [Up](ch-rpm-resources.html) |                         RPM's License |
+| [Prev](s1-rpm-resources-where-to-talk.md) |     [Home](index.md)      | [Next](s1-rpm-resources-license.md) |
+| Where to Talk About RPM                     | [Up](ch-rpm-resources.md) |                         RPM's License |
 
 </div>

@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-checksig-using-rpm-k.html)
+[Prev](s1-rpm-checksig-using-rpm-k.md)
 
-[Next](s1-rpm-miscellania-rpm2cpio.html)
+[Next](s1-rpm-miscellania-rpm2cpio.md)
 
 -----
 
@@ -351,7 +351,7 @@ system, the easiest way to find out is to ask RPM itself using the
 
 |                                          |                    |                                          |
 | :--------------------------------------- | :----------------: | ---------------------------------------: |
-| [Prev](s1-rpm-checksig-using-rpm-k.html) | [Home](index.html) | [Next](s1-rpm-miscellania-rpm2cpio.html) |
-| Using **rpm -K**                         |  [Up](p108.html)   |                       Using **rpm2cpio** |
+| [Prev](s1-rpm-checksig-using-rpm-k.md) | [Home](index.md) | [Next](s1-rpm-miscellania-rpm2cpio.md) |
+| Using **rpm -K**                         |  [Up](p108.md)   |                       Using **rpm2cpio** |
 
 </div>

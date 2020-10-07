@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-erase-additional-options.html)
+[Prev](s1-rpm-erase-additional-options.md)
 
 Chapter 3. Using RPM to Erase Packages
 
-[Next](s1-rpm-erase-watch-out.html)
+[Next](s1-rpm-erase-watch-out.md)
 
 -----
 
@@ -59,7 +59,7 @@ drwxr-xr-x   2 root     root         1024 May 13 13:18 .xfm
 Sure enough: `.bashrc.rpmsave` is a copy of your modified `.bashrc`
 file\! Remember, however, that this feature only works with config
 files. Not sure how to determine which files RPM thinks are config
-files? [Chapter 5](ch-rpm-query.html) will show you how.
+files? [Chapter 5](ch-rpm-query.md) will show you how.
 
 </div>
 
@@ -69,7 +69,7 @@ files? [Chapter 5](ch-rpm-query.html) will show you how.
 
 |                                              |                         |                                     |
 | :------------------------------------------- | :---------------------: | ----------------------------------: |
-| [Prev](s1-rpm-erase-additional-options.html) |   [Home](index.html)    | [Next](s1-rpm-erase-watch-out.html) |
-| Additional Options                           | [Up](ch-rpm-erase.html) |                         Watch Out\! |
+| [Prev](s1-rpm-erase-additional-options.md) |   [Home](index.md)    | [Next](s1-rpm-erase-watch-out.md) |
+| Additional Options                           | [Up](ch-rpm-erase.md) |                         Watch Out\! |
 
 </div>

@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-verify.html)
+[Prev](ch-rpm-verify.md)
 
 Chapter 6. Using RPM to Verify Installed Packages
 
-[Next](s1-rpm-verify-what-to-verify.html)
+[Next](s1-rpm-verify-what-to-verify.md)
 
 -----
 
@@ -152,7 +152,7 @@ entirely up to the package builder.
 
 |                                        |                          |                                           |
 | :------------------------------------- | :----------------------: | ----------------------------------------: |
-| [Prev](ch-rpm-verify.html)             |    [Home](index.html)    | [Next](s1-rpm-verify-what-to-verify.html) |
-| Using RPM to Verify Installed Packages | [Up](ch-rpm-verify.html) |         Selecting What to Verify, and How |
+| [Prev](ch-rpm-verify.md)             |    [Home](index.md)    | [Next](s1-rpm-verify-what-to-verify.md) |
+| Using RPM to Verify Installed Packages | [Up](ch-rpm-verify.md) |         Selecting What to Verify, and How |
 
 </div>

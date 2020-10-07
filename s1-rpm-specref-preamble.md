@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-specref.html)
+[Prev](ch-rpm-specref.md)
 
 Appendix E. Concise Spec File Reference
 
-[Next](s1-rpm-specref-scripts.html)
+[Next](s1-rpm-specref-scripts.md)
 
 -----
 
@@ -45,7 +45,7 @@ packaged.
 </table>
 
 See also: [the Section called *The **name** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-name-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-name-tag).
 
 </div>
 
@@ -69,7 +69,7 @@ The **Version:** tag defines the version of the software being packaged.
 </table>
 
 See also: [the Section called *The **version** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-version-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-version-tag).
 
 </div>
 
@@ -93,7 +93,7 @@ The **Release:** tag can be thought of as the *package's* version.
 </table>
 
 See also: [the Section called *The **release** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-release-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-release-tag).
 
 </div>
 
@@ -155,7 +155,7 @@ The subpackage name and usage of the `-n` option must match those
 defined with the **%package** directive.
 
 See also: [the Section called *The **%description** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-description-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-description-tag).
 
 </div>
 
@@ -180,7 +180,7 @@ packaged software.
 </table>
 
 See also: [the Section called *The **summary** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-summary-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-summary-tag).
 
 </div>
 
@@ -206,7 +206,7 @@ the software being packaged. This tag is also known as the
 </table>
 
 See also: [the Section called *The **license** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-license-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-license-tag).
 
 </div>
 
@@ -231,7 +231,7 @@ which this package is a part.
 </table>
 
 See also: [the Section called *The **distribution** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-distribution-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-distribution-tag).
 
 </div>
 
@@ -258,7 +258,7 @@ should be transparent.
 </table>
 
 See also: [the Section called *The **icon** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-icon-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-icon-tag).
 
 </div>
 
@@ -283,7 +283,7 @@ responsible for packaging the software.
 </table>
 
 See also: [the Section called *The **vendor** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-vendor-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-vendor-tag).
 
 </div>
 
@@ -300,7 +300,7 @@ be used to obtain additional information about the packaged software.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><pre class="screen"><code>URL: http://www.gnomovision.com/cdplayer.html
+<td><pre class="screen"><code>URL: http://www.gnomovision.com/cdplayer.md
 
           </code></pre></td>
 </tr>
@@ -308,7 +308,7 @@ be used to obtain additional information about the packaged software.
 </table>
 
 See also: [the Section called *The **url** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-url-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-url-tag).
 
 </div>
 
@@ -333,7 +333,7 @@ functionality they provide.
 </table>
 
 See also: [the Section called *The **group** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-group-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-group-tag).
 
 </div>
 
@@ -358,7 +358,7 @@ for the person or persons who built the package.
 </table>
 
 See also: [the Section called *The **packager** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-packager-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-packager-tag).
 
 </div>
 
@@ -389,7 +389,7 @@ packaged software makes available when it is installed.
 </table>
 
 See also: [the Section called *The **provides** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-provides-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-provides-tag).
 
 </div>
 
@@ -462,7 +462,7 @@ be:
 </table>
 
 See also: [the Section called *The **requires** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-requires-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-requires-tag).
 
 </div>
 
@@ -488,7 +488,7 @@ RPM is unable to determine the ordering of a package's version numbers.
 </table>
 
 See also: [the Section called *The **epoch** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-epoch-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-epoch-tag).
 
 </div>
 
@@ -560,7 +560,7 @@ be:
 </table>
 
 See also: [the Section called *The **conflicts** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-conflicts-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-conflicts-tag).
 
 </div>
 
@@ -595,7 +595,7 @@ processing of requirements or "provides" only, respectively.
 
 See also: [the Section called *The **autoreqprov**, **autoreq**, and
 **autoprov** Tags* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-autoreqprov-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-autoreqprov-tag).
 
 </div>
 
@@ -626,7 +626,7 @@ package does *not* attempt to build on the excluded architecture(s).
 </table>
 
 See also: [the Section called *The **excludearch** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-excludearch-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-excludearch-tag).
 
 </div>
 
@@ -651,7 +651,7 @@ is *only* built on the specified architecture(s).
 </table>
 
 See also: [the Section called *The **exclusivearch** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-exclusivearch-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-exclusivearch-tag).
 
 </div>
 
@@ -676,7 +676,7 @@ does *not* attempt to build on the excluded operating system(s).
 </table>
 
 See also: [the Section called *The **excludeos** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-excludeos).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-excludeos).
 
 </div>
 
@@ -701,7 +701,7 @@ should *only* be be permitted to build the package.
 </table>
 
 See also: [the Section called *The **exclusiveos** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-exclusiveos-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-exclusiveos-tag).
 
 </div>
 
@@ -734,7 +734,7 @@ installed.
 </table>
 
 See also: [the Section called *The **prefix** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-prefix-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-prefix-tag).
 
 </div>
 
@@ -759,7 +759,7 @@ the software will be installed during the build process.
 </table>
 
 See also: [the Section called *The **buildroot** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-buildroot-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-buildroot-tag).
 
 </div>
 
@@ -796,7 +796,7 @@ Source1: foo.tgz
 </table>
 
 See also: [the Section called *The **source** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-source-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-source-tag).
 
 </div>
 
@@ -823,7 +823,7 @@ following the **Source:** tags that are to be excluded from packaging.
 </table>
 
 See also: [the Section called *The **nosource** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-nosource-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-nosource-tag).
 
 </div>
 
@@ -851,7 +851,7 @@ need to be numbered.
 </table>
 
 See also: [the Section called *The **patch** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-patch-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-patch-tag).
 
 </div>
 
@@ -878,7 +878,7 @@ following the **Patch:** tags that are to be excluded from packaging.
 </table>
 
 See also: [the Section called *The **nopatch** Tag* in Chapter
-13](s1-rpm-inside-tags.html#s3-rpm-inside-nopatch-tag).
+13](s1-rpm-inside-tags.md#s3-rpm-inside-nopatch-tag).
 
 </div>
 
@@ -892,7 +892,7 @@ See also: [the Section called *The **nopatch** Tag* in Chapter
 
 |                             |                           |                                     |
 | :-------------------------- | :-----------------------: | ----------------------------------: |
-| [Prev](ch-rpm-specref.html) |    [Home](index.html)     | [Next](s1-rpm-specref-scripts.html) |
-| Concise Spec File Reference | [Up](ch-rpm-specref.html) |                          Scriptlets |
+| [Prev](ch-rpm-specref.md) |    [Home](index.md)     | [Next](s1-rpm-specref-scripts.md) |
+| Concise Spec File Reference | [Up](ch-rpm-specref.md) |                          Scriptlets |
 
 </div>

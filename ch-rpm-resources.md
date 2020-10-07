@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-specref-conditionals.html)
+[Prev](s1-rpm-specref-conditionals.md)
 
-[Next](s1-rpm-resources-where-to-talk.html)
+[Next](s1-rpm-resources-where-to-talk.md)
 
 -----
 
@@ -230,7 +230,7 @@ command prior to using RPM:
 The last file, `rpm-2.2.2.tar.gz`, contains the sources for RPM. Using
 it, you can build RPM from scratch. This is the most involved option,
 but it is the only choice for people interested in porting RPM to a new
-architecture. See [Chapter 8](ch-rpm-miscellania.html) for an example of
+architecture. See [Chapter 8](ch-rpm-miscellania.md) for an example of
 RPM being built from the sources.
 
 </div>
@@ -243,7 +243,7 @@ RPM being built from the sources.
 
 |                                                                       |                                                                                                                                                                                                                                                                        |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](ch-rpm-resources.html#AEN18238) | If your goal is to install RPM on one of these systems, it might be a good idea to copy the appropriate binary package. That way, once you have RPM running, you can reinstall it with the **--force** option to ensure that RPM is properly installed and configured. |
+| [<span class="footnote">\[1\]</span>](ch-rpm-resources.md#AEN18238) | If your goal is to install RPM on one of these systems, it might be a good idea to copy the appropriate binary package. That way, once you have RPM running, you can reinstall it with the **--force** option to ensure that RPM is properly installed and configured. |
 
 <div class="NAVFOOTER">
 
@@ -251,7 +251,7 @@ RPM being built from the sources.
 
 |                                          |                    |                                             |
 | :--------------------------------------- | :----------------: | ------------------------------------------: |
-| [Prev](s1-rpm-specref-conditionals.html) | [Home](index.html) | [Next](s1-rpm-resources-where-to-talk.html) |
-| Conditionals                             | [Up](p14028.html)  |                     Where to Talk About RPM |
+| [Prev](s1-rpm-specref-conditionals.md) | [Home](index.md) | [Next](s1-rpm-resources-where-to-talk.md) |
+| Conditionals                             | [Up](p14028.md)  |                     Where to Talk About RPM |
 
 </div>

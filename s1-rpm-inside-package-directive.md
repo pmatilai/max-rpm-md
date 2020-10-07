@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-inside-files-list-directives.html)
+[Prev](s1-rpm-inside-files-list-directives.md)
 
 Chapter 13. Inside the Spec File
 
-[Next](s1-rpm-inside-conditionals.html)
+[Next](s1-rpm-inside-conditionals.md)
 
 -----
 
@@ -115,7 +115,7 @@ subpackage `bar`'s name on the **%post** line, the post-install script
 will be part of the `bar` subpackage only.
 
 For more information on building subpackages, please see [Chapter
-18](ch-rpm-subpack.html).
+18](ch-rpm-subpack.md).
 
 </div>
 
@@ -127,7 +127,7 @@ For more information on building subpackages, please see [Chapter
 
 |                                                  |                          |                                         |
 | :----------------------------------------------- | :----------------------: | --------------------------------------: |
-| [Prev](s1-rpm-inside-files-list-directives.html) |    [Home](index.html)    | [Next](s1-rpm-inside-conditionals.html) |
-| Directives For the **%files** list               | [Up](ch-rpm-inside.html) |                            Conditionals |
+| [Prev](s1-rpm-inside-files-list-directives.md) |    [Home](index.md)    | [Next](s1-rpm-inside-conditionals.md) |
+| Directives For the **%files** list               | [Up](ch-rpm-inside.md) |                            Conditionals |
 
 </div>

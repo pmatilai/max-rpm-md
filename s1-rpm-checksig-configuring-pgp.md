@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-checksig.html)
+[Prev](ch-rpm-checksig.md)
 
 Chapter 7. Using RPM to Verify Package Files
 
-[Next](s1-rpm-checksig-using-rpm-k.html)
+[Next](s1-rpm-checksig-using-rpm-k.md)
 
 -----
 
@@ -42,7 +42,7 @@ Now we're ready.
 
 |                                                                                     |                                                                                                                                |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| [<span class="footnote">\[1\]</span>](s1-rpm-checksig-configuring-pgp.html#AEN4609) | For more information on `rpmrc` files, `rpmrc` file entries, and how to use them, please see [Appendix B](ch-rpmrc-file.html). |
+| [<span class="footnote">\[1\]</span>](s1-rpm-checksig-configuring-pgp.md#AEN4609) | For more information on `rpmrc` files, `rpmrc` file entries, and how to use them, please see [Appendix B](ch-rpmrc-file.md). |
 
 <div class="NAVFOOTER">
 
@@ -50,7 +50,7 @@ Now we're ready.
 
 |                                   |                            |                                          |
 | :-------------------------------- | :------------------------: | ---------------------------------------: |
-| [Prev](ch-rpm-checksig.html)      |     [Home](index.html)     | [Next](s1-rpm-checksig-using-rpm-k.html) |
-| Using RPM to Verify Package Files | [Up](ch-rpm-checksig.html) |                         Using **rpm -K** |
+| [Prev](ch-rpm-checksig.md)      |     [Home](index.md)     | [Next](s1-rpm-checksig-using-rpm-k.md) |
+| Using RPM to Verify Package Files | [Up](ch-rpm-checksig.md) |                         Using **rpm -K** |
 
 </div>

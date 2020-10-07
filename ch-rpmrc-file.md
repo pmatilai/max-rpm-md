@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-file-format-file-command.html)
+[Prev](s1-rpm-file-format-file-command.md)
 
-[Next](s1-rpmrc-file-rpmrc-file-locations.html)
+[Next](s1-rpmrc-file-rpmrc-file-locations.md)
 
 -----
 
@@ -112,7 +112,7 @@ file.
 
 |                                                    |                    |                                                 |
 | :------------------------------------------------- | :----------------: | ----------------------------------------------: |
-| [Prev](s1-rpm-file-format-file-command.html)       | [Home](index.html) | [Next](s1-rpmrc-file-rpmrc-file-locations.html) |
-| Identifying RPM files with the **file(1)** command | [Up](p14028.html)  |        Different Places an `rpmrc` File Resides |
+| [Prev](s1-rpm-file-format-file-command.md)       | [Home](index.md) | [Next](s1-rpmrc-file-rpmrc-file-locations.md) |
+| Identifying RPM files with the **file(1)** command | [Up](p14028.md)  |        Different Places an `rpmrc` File Resides |
 
 </div>

@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-depend-auto-depend.html)
+[Prev](s1-rpm-depend-auto-depend.md)
 
 Chapter 14. Adding Dependency Information to a Package
 
-[Next](s1-rpm-depend-summary.html)
+[Next](s1-rpm-depend-summary.md)
 
 -----
 
@@ -429,7 +429,7 @@ provides the `lda` virtual package, there will be no problem.
 
 |                                                                                       |                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-depend-manual-dependencies.html#AEN9473) | As long as the requiring *and* the providing packages are installed using the same invocation of RPM, the dependency checking will succeed. For example, the command **rpm -ivh \*.rpm** will properly check for dependencies, even if the requiring package ends up being installed *before* the providing package. |
+| [<span class="footnote">\[1\]</span>](s1-rpm-depend-manual-dependencies.md#AEN9473) | As long as the requiring *and* the providing packages are installed using the same invocation of RPM, the dependency checking will succeed. For example, the command **rpm -ivh \*.rpm** will properly check for dependencies, even if the requiring package ends up being installed *before* the providing package. |
 
 <div class="NAVFOOTER">
 
@@ -437,7 +437,7 @@ provides the `lda` virtual package, there will be no problem.
 
 |                                        |                          |                                    |
 | :------------------------------------- | :----------------------: | ---------------------------------: |
-| [Prev](s1-rpm-depend-auto-depend.html) |    [Home](index.html)    | [Next](s1-rpm-depend-summary.html) |
-| Automatic Dependencies                 | [Up](ch-rpm-depend.html) |                      To Summarize… |
+| [Prev](s1-rpm-depend-auto-depend.md) |    [Home](index.md)    | [Next](s1-rpm-depend-summary.md) |
+| Automatic Dependencies                 | [Up](ch-rpm-depend.md) |                      To Summarize… |
 
 </div>

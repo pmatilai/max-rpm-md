@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-reloc-wrinkles.html)
+[Prev](s1-rpm-reloc-wrinkles.md)
 
 Chapter 15. Making a Relocatable Package
 
-[Next](ch-rpm-anywhere.html)
+[Next](ch-rpm-anywhere.md)
 
 -----
 
@@ -90,7 +90,7 @@ called `/usr/doc/cdplayer-1.0-1`. But that file isn't even in the
 Take a closer look at the **%files** list. See the line that reads
 **%doc README**? In [the Section called *The **%doc** Directive* in
 Chapter
-13](s1-rpm-inside-files-list-directives.html#s3-rpm-inside-flist-doc-directive),
+13](s1-rpm-inside-files-list-directives.md#s3-rpm-inside-flist-doc-directive),
 we discussed how the **%doc** directive creates a directory under
 `/usr/doc`. That's the file that killed the build — the directory
 created by the **%doc** directive.
@@ -151,7 +151,7 @@ the file was specified. Since the file was specified using an absolute
 path, and that path started with the prefix `/usr/local`, there was no
 problem. A more complete discussion of the **%doc** directive can be
 found in [the Section called *The **%doc** Directive* in Chapter
-13](s1-rpm-inside-files-list-directives.html#s3-rpm-inside-flist-doc-directive).
+13](s1-rpm-inside-files-list-directives.md#s3-rpm-inside-flist-doc-directive).
 
 <div class="sect2">
 
@@ -228,7 +228,7 @@ The **DEFAULTPREFIX** tag directs RPM to display the prefix used during
 the build. As we can see, it's `/usr/local`, just as we intended. The
 **--queryformat** option is discussed in [the Section called
 ***--queryformat** — Construct a Custom Query Response* in Chapter
-5](s1-rpm-query-parts.html#s3-rpm-query-queryformat-option).
+5](s1-rpm-query-parts.md#s3-rpm-query-queryformat-option).
 
 So it looks like we have a relocatable package. Let's try a couple of
 installs and see if we really *can* install it in different locations.
@@ -496,8 +496,8 @@ packages.
 
 |                                                                                       |                                                                                                                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-reloc-building-relocatable.html#AEN9954) | For more information on the **%docdir** directive, please see [the Section called *The **%docdir** Directive* in Chapter 13](s1-rpm-inside-files-list-directives.html#s3-rpm-inside-docdir-directive).                                                                                                                                      |
-| [<span class="footnote">\[2\]</span>](s1-rpm-reloc-building-relocatable.html#AEN9968) | Install and erase-time scripts have an environment variable, `RPM_INSTALL_PREFIX`, that can be used to write scripts that are able to act appropriately if the package is relocated. See [the Section called *Install/Erase-time Scripts* in Chapter 13](s1-rpm-inside-scripts.html#s2-rpm-inside-erase-time-scripts) for more information. |
+| [<span class="footnote">\[1\]</span>](s1-rpm-reloc-building-relocatable.md#AEN9954) | For more information on the **%docdir** directive, please see [the Section called *The **%docdir** Directive* in Chapter 13](s1-rpm-inside-files-list-directives.md#s3-rpm-inside-docdir-directive).                                                                                                                                      |
+| [<span class="footnote">\[2\]</span>](s1-rpm-reloc-building-relocatable.md#AEN9968) | Install and erase-time scripts have an environment variable, `RPM_INSTALL_PREFIX`, that can be used to write scripts that are able to act appropriately if the package is relocated. See [the Section called *Install/Erase-time Scripts* in Chapter 13](s1-rpm-inside-scripts.md#s2-rpm-inside-erase-time-scripts) for more information. |
 
 <div class="NAVFOOTER">
 
@@ -505,7 +505,7 @@ packages.
 
 |                                          |                         |                                          |
 | :--------------------------------------- | :---------------------: | ---------------------------------------: |
-| [Prev](s1-rpm-reloc-wrinkles.html)       |   [Home](index.html)    |             [Next](ch-rpm-anywhere.html) |
-| Relocatable Wrinkles: Things to Consider | [Up](ch-rpm-reloc.html) | Making a Package That Can Build Anywhere |
+| [Prev](s1-rpm-reloc-wrinkles.md)       |   [Home](index.md)    |             [Next](ch-rpm-anywhere.md) |
+| Relocatable Wrinkles: Things to Consider | [Up](ch-rpm-reloc.md) | Making a Package That Can Build Anywhere |
 
 </div>

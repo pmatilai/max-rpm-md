@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-reloc-prefix-tag.html)
+[Prev](s1-rpm-reloc-prefix-tag.md)
 
 Chapter 15. Making a Relocatable Package
 
-[Next](s1-rpm-reloc-building-relocatable.html)
+[Next](s1-rpm-reloc-building-relocatable.md)
 
 -----
 
@@ -161,7 +161,7 @@ straightforward. Let's give it a try.
 
 |                                        |                         |                                                |
 | :------------------------------------- | :---------------------: | ---------------------------------------------: |
-| [Prev](s1-rpm-reloc-prefix-tag.html)   |   [Home](index.html)    | [Next](s1-rpm-reloc-building-relocatable.html) |
-| The **prefix** tag: Relocation Central | [Up](ch-rpm-reloc.html) |                 Building a Relocatable Package |
+| [Prev](s1-rpm-reloc-prefix-tag.md)   |   [Home](index.md)    | [Next](s1-rpm-reloc-building-relocatable.md) |
+| The **prefix** tag: Relocation Central | [Up](ch-rpm-reloc.md) |                 Building a Relocatable Package |
 
 </div>

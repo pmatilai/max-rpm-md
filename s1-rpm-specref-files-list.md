@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-specref-macros.html)
+[Prev](s1-rpm-specref-macros.md)
 
 Appendix E. Concise Spec File Reference
 
-[Next](s1-rpm-specref-files-list-directives.html)
+[Next](s1-rpm-specref-files-list-directives.md)
 
 -----
 
@@ -75,7 +75,7 @@ then followed by a filename:
 </table>
 
 See also: [the Section called *The **%files** List* in Chapter
-13](s1-rpm-inside-files-list.html).
+13](s1-rpm-inside-files-list.md).
 
 </div>
 
@@ -85,7 +85,7 @@ See also: [the Section called *The **%files** List* in Chapter
 
 |                                    |                           |                                                   |
 | :--------------------------------- | :-----------------------: | ------------------------------------------------: |
-| [Prev](s1-rpm-specref-macros.html) |    [Home](index.html)     | [Next](s1-rpm-specref-files-list-directives.html) |
-| Macros                             | [Up](ch-rpm-specref.html) |                Directives For the **%files** list |
+| [Prev](s1-rpm-specref-macros.md) |    [Home](index.md)     | [Next](s1-rpm-specref-files-list-directives.md) |
+| Macros                             | [Up](ch-rpm-specref.md) |                Directives For the **%files** list |
 
 </div>

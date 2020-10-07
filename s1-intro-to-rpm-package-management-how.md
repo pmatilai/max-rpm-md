@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-intro-to-rpm.html)
+[Prev](ch-intro-to-rpm.md)
 
 Chapter 1. An Introduction to Package Management
 
-[Next](s1-intro-to-rpm-rpm-design-goals.html)
+[Next](s1-intro-to-rpm-rpm-design-goals.md)
 
 -----
 
@@ -265,7 +265,7 @@ RPM.
 
 |                                       |                            |                                               |
 | :------------------------------------ | :------------------------: | --------------------------------------------: |
-| [Prev](ch-intro-to-rpm.html)          |     [Home](index.html)     | [Next](s1-intro-to-rpm-rpm-design-goals.html) |
-| An Introduction to Package Management | [Up](ch-intro-to-rpm.html) |                              RPM Design Goals |
+| [Prev](ch-intro-to-rpm.md)          |     [Home](index.md)     | [Next](s1-intro-to-rpm-rpm-design-goals.md) |
+| An Introduction to Package Management | [Up](ch-intro-to-rpm.md) |                              RPM Design Goals |
 
 </div>

@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-resources-license.html)
+[Prev](s1-rpm-resources-license.md)
 
 Appendix F. RPM-related Resources
 
-[Next](ch-pgp-intro.html)
+[Next](ch-pgp-intro.md)
 
 -----
 
@@ -415,7 +415,7 @@ General Public License instead of this License.
 
 |                                       |                             |                           |
 | :------------------------------------ | :-------------------------: | ------------------------: |
-| [Prev](s1-rpm-resources-license.html) |     [Home](index.html)      | [Next](ch-pgp-intro.html) |
-| RPM's License                         | [Up](ch-rpm-resources.html) |    An Introduction to PGP |
+| [Prev](s1-rpm-resources-license.md) |     [Home](index.md)      | [Next](ch-pgp-intro.md) |
+| RPM's License                         | [Up](ch-rpm-resources.md) |    An Introduction to PGP |
 
 </div>

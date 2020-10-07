@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-resources-www-resources.html)
+[Prev](s1-rpm-resources-www-resources.md)
 
 Appendix F. RPM-related Resources
 
-[Next](s1-rpm-resources-gpl.html)
+[Next](s1-rpm-resources-gpl.md)
 
 -----
 
@@ -35,7 +35,7 @@ GPL is to read it:
 
 |                                             |                             |                                   |
 | :------------------------------------------ | :-------------------------: | --------------------------------: |
-| [Prev](s1-rpm-resources-www-resources.html) |     [Home](index.html)      | [Next](s1-rpm-resources-gpl.html) |
-| RPM On the World Wide Web                   | [Up](ch-rpm-resources.html) |        GNU GENERAL PUBLIC LICENSE |
+| [Prev](s1-rpm-resources-www-resources.md) |     [Home](index.md)      | [Next](s1-rpm-resources-gpl.md) |
+| RPM On the World Wide Web                   | [Up](ch-rpm-resources.md) |        GNU GENERAL PUBLIC LICENSE |
 
 </div>

@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-upgrade-upgrading-a-package.html)
+[Prev](s1-rpm-upgrade-upgrading-a-package.md)
 
 Chapter 4. Using RPM to Upgrade Packages
 
-[Next](ch-rpm-query.html)
+[Next](ch-rpm-query.md)
 
 -----
 
@@ -22,7 +22,7 @@ identical to those used with **rpm -i**. Therefore, to keep the
 duplication to a minimum, we'll discuss only those options that are
 unique to **rpm -U**, or that behave differently from the same option
 when used with **rpm -i**. The table on [Table
-4-1](ch-rpm-upgrade.html#tb-rpm-upgrade-syntax) at the start of this
+4-1](ch-rpm-upgrade.md#tb-rpm-upgrade-syntax) at the start of this
 chapter shows all valid options to RPM's upgrade command, and indicates
 which are identical to those used with **rpm -i**.
 
@@ -216,7 +216,7 @@ erased were still executed.
 
 |                                                                                     |               |
 | ----------------------------------------------------------------------------------- | ------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-upgrade-nearly-identical.html#AEN2340) | Pun intended. |
+| [<span class="footnote">\[1\]</span>](s1-rpm-upgrade-nearly-identical.md#AEN2340) | Pun intended. |
 
 <div class="NAVFOOTER">
 
@@ -224,7 +224,7 @@ erased were still executed.
 
 |                                                 |                           |                                    |
 | :---------------------------------------------- | :-----------------------: | ---------------------------------: |
-| [Prev](s1-rpm-upgrade-upgrading-a-package.html) |    [Home](index.html)     |          [Next](ch-rpm-query.html) |
-| Upgrading a Package                             | [Up](ch-rpm-upgrade.html) | Getting Information About Packages |
+| [Prev](s1-rpm-upgrade-upgrading-a-package.md) |    [Home](index.md)     |          [Next](ch-rpm-query.md) |
+| Upgrading a Package                             | [Up](ch-rpm-upgrade.md) | Getting Information About Packages |
 
 </div>

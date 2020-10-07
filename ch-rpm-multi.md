@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-subpack-building-subpackages.html)
+[Prev](s1-rpm-subpack-building-subpackages.md)
 
-[Next](s1-rpm-multi-multi-platform-easier.html)
+[Next](s1-rpm-multi-multi-platform-easier.md)
 
 -----
 
@@ -86,7 +86,7 @@ multi-platform capabilities.
 
 |                                                                   |                                                                                                                                                                                                  |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [<span class="footnote">\[1\]</span>](ch-rpm-multi.html#AEN11266) | This is a somewhat simplistic view of the matter, as it's common for incompatibilities to crop up between two different implementations of the same operating system on different architectures. |
+| [<span class="footnote">\[1\]</span>](ch-rpm-multi.md#AEN11266) | This is a somewhat simplistic view of the matter, as it's common for incompatibilities to crop up between two different implementations of the same operating system on different architectures. |
 
 <div class="NAVFOOTER">
 
@@ -94,7 +94,7 @@ multi-platform capabilities.
 
 |                                                  |                    |                                                           |
 | :----------------------------------------------- | :----------------: | --------------------------------------------------------: |
-| [Prev](s1-rpm-subpack-building-subpackages.html) | [Home](index.html) |           [Next](s1-rpm-multi-multi-platform-easier.html) |
-| Building Subpackages                             |  [Up](p5206.html)  | What Does RPM Do To Make Multi-Platform Packaging Easier? |
+| [Prev](s1-rpm-subpack-building-subpackages.md) | [Home](index.md) |           [Next](s1-rpm-multi-multi-platform-easier.md) |
+| Building Subpackages                             |  [Up](p5206.md)  | What Does RPM Do To Make Multi-Platform Packaging Easier? |
 
 </div>

@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-basics-outputs.html)
+[Prev](s1-rpm-basics-outputs.md)
 
 Chapter 10. The Basics of Developing With RPM
 
-[Next](ch-rpm-build.html)
+[Next](ch-rpm-build.md)
 
 -----
 
@@ -28,7 +28,7 @@ that, showing how simple it can be to build a package.
 
 |                                    |                          |                                     |
 | :--------------------------------- | :----------------------: | ----------------------------------: |
-| [Prev](s1-rpm-basics-outputs.html) |    [Home](index.html)    |           [Next](ch-rpm-build.html) |
-| The Outputs                        | [Up](ch-rpm-basics.html) | Building Packages: A Simple Example |
+| [Prev](s1-rpm-basics-outputs.md) |    [Home](index.md)    |           [Next](ch-rpm-build.md) |
+| The Outputs                        | [Up](ch-rpm-basics.md) | Building Packages: A Simple Example |
 
 </div>

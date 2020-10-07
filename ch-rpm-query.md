@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-upgrade-nearly-identical.html)
+[Prev](s1-rpm-upgrade-nearly-identical.md)
 
-[Next](s1-rpm-query-parts.html)
+[Next](s1-rpm-query-parts.md)
 
 -----
 
@@ -35,28 +35,28 @@ Page
 Query installed package(s)
 
 [the Section called *The Package
-Label*](s1-rpm-query-parts.html#s3-rpm-query-package-label)
+Label*](s1-rpm-query-parts.md#s3-rpm-query-package-label)
 
 **-p `<file>`**(or "**-**")
 
 Query package file **`<file>`** (URLs OK)
 
 [the Section called ***-p `<file>`** — Query a Specific RPM Package
-File*](s1-rpm-query-parts.html#s3-rpm-query-p-option)
+File*](s1-rpm-query-parts.md#s3-rpm-query-p-option)
 
 **-f `<file>`**
 
 Query package owning **`<file>`**
 
 [the Section called ***-f `<file>`** — Query the Package Owning
-**`<file>`***](s1-rpm-query-parts.html#s3-rpm-query-by-file)
+**`<file>`***](s1-rpm-query-parts.md#s3-rpm-query-by-file)
 
 **-a**
 
 Query all installed packages
 
 [the Section called ***-a** — Query All Installed
-Packages*](s1-rpm-query-parts.html#s3-rpm-query-a-option)
+Packages*](s1-rpm-query-parts.md#s3-rpm-query-a-option)
 
 **--whatprovides `<x>`**
 
@@ -64,14 +64,14 @@ Query packages providing capability **`<x>`**
 
 [the Section called ***--whatprovides `<x>`**: Query the Packages That
 Provide Capability
-**`<x>`***](s1-rpm-query-parts.html#s3-rpm-query-whatprovides-option)
+**`<x>`***](s1-rpm-query-parts.md#s3-rpm-query-whatprovides-option)
 
 **-g `<group>`**
 
 Query packages belonging to group **`<group>`**
 
 [the Section called ***-g `<group>`**: Query Packages Belonging To Group
-**`<group>`***](s1-rpm-query-parts.html#s3-rpm-query-g-option)
+**`<group>`***](s1-rpm-query-parts.md#s3-rpm-query-g-option)
 
 **--whatrequires `<x>`**
 
@@ -79,7 +79,7 @@ Query packages requiring capability **`<x>`**
 
 [the Section called ***--whatrequires `<x>`**: Query the Packages That
 Require Capability
-**`<x>`***](s1-rpm-query-parts.html#s3-rpm-query-whatrequires)
+**`<x>`***](s1-rpm-query-parts.md#s3-rpm-query-whatrequires)
 
 Information Selection Options
 
@@ -90,77 +90,77 @@ Page
 Display full package label
 
 [the Section called *The Package
-Label*](s1-rpm-query-parts.html#s3-rpm-query-package-label)
+Label*](s1-rpm-query-parts.md#s3-rpm-query-package-label)
 
 **-i**
 
 Display summary package information
 
 [the Section called ***-i** — Display Package
-Information*](s1-rpm-query-parts.html#s3-rpm-query-i-option)
+Information*](s1-rpm-query-parts.md#s3-rpm-query-i-option)
 
 **-l**
 
 Display list of files in package
 
 [the Section called ***-l** — Display the Package's File
-List*](s1-rpm-query-parts.html#s3-rpm-query-l-option)
+List*](s1-rpm-query-parts.md#s3-rpm-query-l-option)
 
 **-c**
 
 Display list of configuration files
 
 [the Section called ***-c** — Display the Package's List of
-Configuration Files*](s1-rpm-query-parts.html#s3-rpm-query-c-option)
+Configuration Files*](s1-rpm-query-parts.md#s3-rpm-query-c-option)
 
 **-d**
 
 Display list of documentation files
 
 [the Section called ***-d** — Display a List of the Package's
-Documentation*](s1-rpm-query-parts.html#s3-rpm-query-d-option)
+Documentation*](s1-rpm-query-parts.md#s3-rpm-query-d-option)
 
 **-s**
 
 Display list of files in package, with state
 
 [the Section called ***-s** — Display the State of Each File in the
-Package*](s1-rpm-query-parts.html#s3-rpm-query-s-option)
+Package*](s1-rpm-query-parts.md#s3-rpm-query-s-option)
 
 **--scripts**
 
 Display install, uninstall, verify scripts
 
 [the Section called ***--scripts** — Show Scripts Associated With a
-Package*](s1-rpm-query-parts.html#s3-rpm-query-scripts-option)
+Package*](s1-rpm-query-parts.md#s3-rpm-query-scripts-option)
 
 **--queryformat** (or **--qf**)
 
 Display queried data in custom format
 
 [the Section called ***--queryformat** — Construct a Custom Query
-Response*](s1-rpm-query-parts.html#s3-rpm-query-queryformat-option)
+Response*](s1-rpm-query-parts.md#s3-rpm-query-queryformat-option)
 
 **--dump**
 
 Display all verifiable information for each file
 
 [the Section called ***--dump**: Display All Verifiable Information for
-Each File*](s1-rpm-query-parts.html#s3-rpm-query-dump-option)
+Each File*](s1-rpm-query-parts.md#s3-rpm-query-dump-option)
 
 **--provides**
 
 Display capabilities package provides
 
 [the Section called ***--provides**: Display Capabilities Provided by
-the Package*](s1-rpm-query-parts.html#s3-rpm-query-provides-option)
+the Package*](s1-rpm-query-parts.md#s3-rpm-query-provides-option)
 
 **--requires** (or **-R**)
 
 Display capabilities package requires
 
 [the Section called ***--requires**: Display Capabilities Required by
-the Package*](s1-rpm-query-parts.html#s3-rpm-query-requires-option)
+the Package*](s1-rpm-query-parts.md#s3-rpm-query-requires-option)
 
 General Options
 
@@ -171,21 +171,21 @@ Page
 Display additional information
 
 [the Section called ***-v** — Display Additional
-Information*](s1-rpm-query-parts.html#s4-rpm-query-v-option)
+Information*](s1-rpm-query-parts.md#s4-rpm-query-v-option)
 
 **-vv**
 
 Display debugging information
 
 [the Section called *Getting a *lot* more information with
-**-vv***](s1-rpm-query-parts.html#s2-rpm-query-vv-option)
+**-vv***](s1-rpm-query-parts.md#s2-rpm-query-vv-option)
 
 **--root `<path>`**
 
 Set alternate root to **`<path>`**
 
 [the Section called ***--root `<path>`**: Use **`<path>`** As An
-Alternate Root*](s1-rpm-query-parts.html#s2-rpm-query-root-option)
+Alternate Root*](s1-rpm-query-parts.md#s2-rpm-query-root-option)
 
 **--rcfile `<rcfile>`**
 
@@ -193,14 +193,14 @@ Set alternate `rpmrc` file to **`<rcfile>`**
 
 [the Section called ***--rcfile `<rcfile>`**: Use **`<rcfile>`** As An
 Alternate `rpmrc`
-File*](s1-rpm-query-parts.html#s2-rpm-query-rcfile-option)
+File*](s1-rpm-query-parts.md#s2-rpm-query-rcfile-option)
 
 **--dbpath `<path>`**
 
 Use **`<path>`** to find the RPM database
 
 [the Section called ***--dbpath `<path>`**: Use **`<path>`** To Find RPM
-Database*](s1-rpm-query-parts.html#s2-rpm-query-dbpath-option)
+Database*](s1-rpm-query-parts.md#s2-rpm-query-dbpath-option)
 
 <div class="sect1">
 
@@ -235,7 +235,7 @@ an RPM query, it'll be a piece of cake.
 
 |                                              |                    |                                 |
 | :------------------------------------------- | :----------------: | ------------------------------: |
-| [Prev](s1-rpm-upgrade-nearly-identical.html) | [Home](index.html) | [Next](s1-rpm-query-parts.html) |
-| They're Nearly Identical…                    |  [Up](p108.html)   |       The Parts of an RPM Query |
+| [Prev](s1-rpm-upgrade-nearly-identical.md) | [Home](index.md) | [Next](s1-rpm-query-parts.md) |
+| They're Nearly Identical…                    |  [Up](p108.md)   |       The Parts of an RPM Query |
 
 </div>

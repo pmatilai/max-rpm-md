@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](index.html)
+[Prev](index.md)
 
-[Next](s1-preface-parts.html)
+[Next](s1-preface-parts.md)
 
 -----
 
@@ -96,7 +96,7 @@ you?
 
 |                    |                    |                                        |
 | :----------------- | :----------------: | -------------------------------------: |
-| [Prev](index.html) | [Home](index.html) |          [Next](s1-preface-parts.html) |
+| [Prev](index.md) | [Home](index.md) |          [Next](s1-preface-parts.md) |
 | Maximum RPM        |                    | Parts of the book, and who they're for |
 
 </div>

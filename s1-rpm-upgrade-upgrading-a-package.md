@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-upgrade.html)
+[Prev](ch-rpm-upgrade.md)
 
 Chapter 4. Using RPM to Upgrade Packages
 
-[Next](s1-rpm-upgrade-nearly-identical.html)
+[Next](s1-rpm-upgrade-nearly-identical.md)
 
 -----
 
@@ -61,7 +61,7 @@ for, "Uh, do the right thing"…
 
 |                                                                                        |                                                                                                                                                                                                    |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-upgrade-upgrading-a-package.html#AEN2248) | For more information on RPM's use of URLs, please see [the Section called *URLs — Another Way to Specify Package Files* in Chapter 2](s1-rpm-install-performing-install.html#s2-rpm-install-urls). |
+| [<span class="footnote">\[1\]</span>](s1-rpm-upgrade-upgrading-a-package.md#AEN2248) | For more information on RPM's use of URLs, please see [the Section called *URLs — Another Way to Specify Package Files* in Chapter 2](s1-rpm-install-performing-install.md#s2-rpm-install-urls). |
 
 <div class="NAVFOOTER">
 
@@ -69,7 +69,7 @@ for, "Uh, do the right thing"…
 
 |                               |                           |                                              |
 | :---------------------------- | :-----------------------: | -------------------------------------------: |
-| [Prev](ch-rpm-upgrade.html)   |    [Home](index.html)     | [Next](s1-rpm-upgrade-nearly-identical.html) |
-| Using RPM to Upgrade Packages | [Up](ch-rpm-upgrade.html) |                    They're Nearly Identical… |
+| [Prev](ch-rpm-upgrade.md)   |    [Home](index.md)     | [Next](s1-rpm-upgrade-nearly-identical.md) |
+| Using RPM to Upgrade Packages | [Up](ch-rpm-upgrade.md) |                    They're Nearly Identical… |
 
 </div>

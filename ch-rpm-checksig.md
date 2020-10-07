@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-verify-we-lied.html)
+[Prev](s1-rpm-verify-we-lied.md)
 
-[Next](s1-rpm-checksig-configuring-pgp.html)
+[Next](s1-rpm-checksig-configuring-pgp.md)
 
 -----
 
@@ -41,7 +41,7 @@ Page
 Do not verify PGP signatures
 
 [the Section called ***--nopgp** — Do Not Verify Any PGP
-Signatures*](s1-rpm-checksig-using-rpm-k.html#s2-rpm-checksig-nopgp-option)
+Signatures*](s1-rpm-checksig-using-rpm-k.md#s2-rpm-checksig-nopgp-option)
 
 General Options
 
@@ -52,14 +52,14 @@ Page
 Display additional information
 
 [the Section called ***-v** — Display Additional
-Information*](s1-rpm-checksig-using-rpm-k.html#s2-rpm-checksig-v-option)
+Information*](s1-rpm-checksig-using-rpm-k.md#s2-rpm-checksig-v-option)
 
 **-vv**
 
 Display debugging information
 
 [the Section called ***-vv** — Display Debugging
-Information*](s1-rpm-checksig-using-rpm-k.html#s2-rpm-checksig-vv-option)
+Information*](s1-rpm-checksig-using-rpm-k.md#s2-rpm-checksig-vv-option)
 
 **--rcfile `<rcfile>`**
 
@@ -67,7 +67,7 @@ Set alternate rpmrc file to **`<rcfile>`**
 
 [the Section called ***--rcfile `<rcfile>`**: Use **`<rcfile>`** As An
 Alternate `rpmrc`
-File*](s1-rpm-checksig-using-rpm-k.html#s2-rpm-checksig-rcfile-option)
+File*](s1-rpm-checksig-using-rpm-k.md#s2-rpm-checksig-rcfile-option)
 
 <div class="sect1">
 
@@ -101,7 +101,7 @@ Privacy", or PGP. While all the information on PGP could fill a book (or
 several), we've provided a quick introduction to help you get started.
 
 If PGP is new to you, a quick glance through [Appendix
-G](ch-pgp-intro.html) should get you well on your way to understanding,
+G](ch-pgp-intro.md) should get you well on your way to understanding,
 building, and installing PGP. If, on the other hand, you've got PGP
 already installed and have sent an encrypted message or two, you're
 probably more than ready to continue with this chapter.
@@ -116,7 +116,7 @@ probably more than ready to continue with this chapter.
 
 |                                    |                    |                                              |
 | :--------------------------------- | :----------------: | -------------------------------------------: |
-| [Prev](s1-rpm-verify-we-lied.html) | [Home](index.html) | [Next](s1-rpm-checksig-configuring-pgp.html) |
-| We've Lied to You…                 |  [Up](p108.html)   |               Configuring PGP for **rpm -K** |
+| [Prev](s1-rpm-verify-we-lied.md) | [Home](index.md) | [Next](s1-rpm-checksig-configuring-pgp.md) |
+| We've Lied to You…                 |  [Up](p108.md)   |               Configuring PGP for **rpm -K** |
 
 </div>

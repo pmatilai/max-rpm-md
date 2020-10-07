@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-commands-rebuild-mode.html)
+[Prev](s1-rpm-commands-rebuild-mode.md)
 
 Appendix C. Concise RPM Command Reference
 
-[Next](s1-rpm-commands-resign-mode.html)
+[Next](s1-rpm-commands-resign-mode.md)
 
 -----
 
@@ -39,7 +39,7 @@ Only the global options may be used.
 
 |                                           |                            |                                          |
 | :---------------------------------------- | :------------------------: | ---------------------------------------: |
-| [Prev](s1-rpm-commands-rebuild-mode.html) |     [Home](index.html)     | [Next](s1-rpm-commands-resign-mode.html) |
-| Rebuild Mode                              | [Up](ch-rpm-commands.html) |                              Resign Mode |
+| [Prev](s1-rpm-commands-rebuild-mode.md) |     [Home](index.md)     | [Next](s1-rpm-commands-resign-mode.md) |
+| Rebuild Mode                              | [Up](ch-rpm-commands.md) |                              Resign Mode |
 
 </div>

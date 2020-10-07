@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-rw-build.html)
+[Prev](ch-rpm-rw-build.md)
 
 Chapter 20. Real-World Package Building
 
-[Next](s1-rpm-rw-build-initial-build-with-rpm.html)
+[Next](s1-rpm-rw-build-initial-build-with-rpm.md)
 
 -----
 
@@ -353,7 +353,7 @@ like we've got a good build. Let's start getting RPM involved.
 
 |                                                                                        |                           |
 | -------------------------------------------------------------------------------------- | ------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-rw-build-build-without-rpm.html#AEN11972) | Well, eventually it did\! |
+| [<span class="footnote">\[1\]</span>](s1-rpm-rw-build-build-without-rpm.md#AEN11972) | Well, eventually it did\! |
 
 <div class="NAVFOOTER">
 
@@ -361,7 +361,7 @@ like we've got a good build. Let's start getting RPM involved.
 
 |                              |                            |                                                     |
 | :--------------------------- | :------------------------: | --------------------------------------------------: |
-| [Prev](ch-rpm-rw-build.html) |     [Home](index.html)     | [Next](s1-rpm-rw-build-initial-build-with-rpm.html) |
-| Real-World Package Building  | [Up](ch-rpm-rw-build.html) |                           Initial Building With RPM |
+| [Prev](ch-rpm-rw-build.md) |     [Home](index.md)     | [Next](s1-rpm-rw-build-initial-build-with-rpm.md) |
+| Real-World Package Building  | [Up](ch-rpm-rw-build.md) |                           Initial Building With RPM |
 
 </div>

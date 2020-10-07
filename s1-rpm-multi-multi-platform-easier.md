@@ -4,12 +4,12 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-multi.html)
+[Prev](ch-rpm-multi.md)
 
 Chapter 19. Building Packages for Multiple Architectures and Operating
 Systems
 
-[Next](s1-rpm-multi-build-install-detection.html)
+[Next](s1-rpm-multi-build-install-detection.md)
 
 -----
 
@@ -89,7 +89,7 @@ let's take a more in-depth look at each one.
 
 |                                                                    |                         |                                                   |
 | :----------------------------------------------------------------- | :---------------------: | ------------------------------------------------: |
-| [Prev](ch-rpm-multi.html)                                          |   [Home](index.html)    | [Next](s1-rpm-multi-build-install-detection.html) |
-| Building Packages for Multiple Architectures and Operating Systems | [Up](ch-rpm-multi.html) |              Build and Install Platform Detection |
+| [Prev](ch-rpm-multi.md)                                          |   [Home](index.md)    | [Next](s1-rpm-multi-build-install-detection.md) |
+| Building Packages for Multiple Architectures and Operating Systems | [Up](ch-rpm-multi.md) |              Build and Install Platform Detection |
 
 </div>

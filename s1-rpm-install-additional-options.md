@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-install-handy-options.html)
+[Prev](s1-rpm-install-handy-options.md)
 
 Chapter 2. Using RPM to Install Packages
 
-[Next](ch-rpm-erase.html)
+[Next](ch-rpm-erase.md)
 
 -----
 
@@ -59,7 +59,7 @@ install the package. If the number were non-zero, it would mean that the
 **--test** option was present, and RPM would not actually perform the
 installation. For more information on using **--test** with **rpm -i**,
 see [the Section called ***--test**: Perform Installation Tests
-Only*](s1-rpm-install-additional-options.html#s2-rpm-install-test-option).
+Only*](s1-rpm-install-additional-options.md#s2-rpm-install-test-option).
 
 Continuing with the above example, we see that RPM next executes a
 pre-install script (if there is one), followed by the actual
@@ -70,7 +70,7 @@ packages, the output from **-vv** can get quite lengthy\! Finally, RPM
 runs a post-install script, if one exists for the package. We'll be
 discussing pre- and post-install scripts in more detail in [the Section
 called ***--noscripts**: Do Not Execute Pre- and Post-install
-Scripts*](s1-rpm-install-additional-options.html#s2-rpm-install-noscripts).
+Scripts*](s1-rpm-install-additional-options.md#s2-rpm-install-noscripts).
 
 In the vast majority of cases, it will not be necessary to use **-vv**.
 It is normally used by software engineers working on RPM itself, and the
@@ -363,7 +363,7 @@ different contents. There are two possible reasons for this to happen:
     it's an easy way to show what happens when there are file conflicts.
     However, it is usually a *bad* idea when it comes to doing this as a
     way to upgrade packages. RPM has a special option for this (**rpm
-    -U**) that is discussed in [Chapter 4](ch-rpm-upgrade.html).
+    -U**) that is discussed in [Chapter 4](ch-rpm-upgrade.md).
 
   - Installing two unrelated packages that each install a file with the
     same name. This may happen because of poor package design (hence the
@@ -723,7 +723,7 @@ installs. To do this, simply add the following line to `/etc/rpmrc`,
 `.rpmrc` in your login directory, or the file specified with the
 **--rcfile** (which is discussed in [the Section called ***--rcfile
 `<rcfile>`**: Use **`<rcfile>`** As An Alternate `rpmrc`
-File*](s1-rpm-install-additional-options.html#s2-rpm-install-rcfile))
+File*](s1-rpm-install-additional-options.md#s2-rpm-install-rcfile))
 option:
 
 **excludedocs: 1**
@@ -895,7 +895,7 @@ total 5
 Before we talk about the **--noscripts** option, we need to cover a bit
 of background. In [the Section called *Getting a *lot* more information
 with
-**-vv***](s1-rpm-install-additional-options.html#s2-rpm-install-vv-option),
+**-vv***](s1-rpm-install-additional-options.md#s2-rpm-install-vv-option),
 we saw some output from an install using the **-vv** option. As can be
 seen, there are two lines that mention pre-install and post-install
 scripts. When some packages are installed, they may require that certain
@@ -965,7 +965,7 @@ directory.
 This option would be used if there was a need to switch between several
 sets of RPM defaults. Software developers and package builders will
 normally be the only people using the **--rcfile** option. For more
-information on `rpmrc` files, see [Appendix B](ch-rpmrc-file.html).
+information on `rpmrc` files, see [Appendix B](ch-rpmrc-file.md).
 
 </div>
 
@@ -1011,7 +1011,7 @@ common occurrence, but it's difficult to handle any other way.
 ## <span id="s2-rpm-install-ftpport">**--ftpport `<port>`**: Use **`<port>`** In FTP-based Installs</span>
 
 Back in [the Section called *URLs — Another Way to Specify Package
-Files*](s1-rpm-install-performing-install.html#s2-rpm-install-urls) we
+Files*](s1-rpm-install-performing-install.md#s2-rpm-install-urls) we
 showed how RPM can access package files by the use of a URL. We also
 mentioned that some systems may not use the standard FTP port. In those
 cases, it's necessary to give RPM the proper port number to use. As we
@@ -1107,18 +1107,18 @@ Unless you really know what you're doing, you should *never* use
 
 |                                                                                        |                                                                                                                                                                                                                                                                          |
 | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [<span class="footnote">\[1\]</span>](s1-rpm-install-additional-options.html#AEN970)   | We'll get more into this aspect of RPM in [the Section called ***rpm -V** — What Does it Do?* in Chapter 6](ch-rpm-verify.html#s1-rpm-verify-what-it-does) when we discuss **rpm -V**.                                                                                   |
-| [<span class="footnote">\[2\]</span>](s1-rpm-install-additional-options.html#AEN1054)  | You'll have to do that yourself\!                                                                                                                                                                                                                                        |
-| [<span class="footnote">\[3\]</span>](s1-rpm-install-additional-options.html#AEN1144)  | For more information on erasing packages with **rpm -e**, see [Chapter 3](ch-rpm-erase.html).                                                                                                                                                                            |
-| [<span class="footnote">\[4\]</span>](s1-rpm-install-additional-options.html#AEN1209)  | No pun intended.                                                                                                                                                                                                                                                         |
-| [<span class="footnote">\[5\]</span>](s1-rpm-install-additional-options.html#AEN1261)  | For more information on rpmrc files, refer to [Appendix B](ch-rpmrc-file.html).                                                                                                                                                                                          |
-| [<span class="footnote">\[6\]</span>](s1-rpm-install-additional-options.html#AEN1314)  | We discuss RPM's query commands in [Chapter 5](ch-rpm-query.html).                                                                                                                                                                                                       |
-| [<span class="footnote">\[7\]</span>](s1-rpm-install-additional-options.html#AEN1358)  | It's possible to use RPM's query command to see if a package has pre- or post-install scripts. See [the Section called ***--scripts** — Show Scripts Associated With a Package* in Chapter 5](s1-rpm-query-parts.html#s3-rpm-query-scripts-option) for more information. |
-| [<span class="footnote">\[8\]</span>](s1-rpm-install-additional-options.html#AEN1421)  | For more information on `rpmrc` file entries, see [Appendix B](ch-rpmrc-file.html).                                                                                                                                                                                      |
-| [<span class="footnote">\[9\]</span>](s1-rpm-install-additional-options.html#AEN1462)  | The use of `rpmrc` files is described in [Appendix B](ch-rpmrc-file.html).                                                                                                                                                                                               |
-| [<span class="footnote">\[10\]</span>](s1-rpm-install-additional-options.html#AEN1481) | The use of `rpmrc` files is described in [Appendix B](ch-rpmrc-file.html).                                                                                                                                                                                               |
-| [<span class="footnote">\[11\]</span>](s1-rpm-install-additional-options.html#AEN1495) | If you *are* porting RPM, you'll find more on **arch\_compat** in [the Section called ***`xxx`\_compat** — Define Compatible Architectures* in Chapter 19](s1-rpm-multi-build-install-detection.html#s3-rpm-multi-xxx-compat).                                           |
-| [<span class="footnote">\[12\]</span>](s1-rpm-install-additional-options.html#AEN1514) | If you *are* porting RPM, you'll find more on **os\_compat** in [the Section called ***`xxx`\_compat** — Define Compatible Architectures* in Chapter 19](s1-rpm-multi-build-install-detection.html#s3-rpm-multi-xxx-compat).                                             |
+| [<span class="footnote">\[1\]</span>](s1-rpm-install-additional-options.md#AEN970)   | We'll get more into this aspect of RPM in [the Section called ***rpm -V** — What Does it Do?* in Chapter 6](ch-rpm-verify.md#s1-rpm-verify-what-it-does) when we discuss **rpm -V**.                                                                                   |
+| [<span class="footnote">\[2\]</span>](s1-rpm-install-additional-options.md#AEN1054)  | You'll have to do that yourself\!                                                                                                                                                                                                                                        |
+| [<span class="footnote">\[3\]</span>](s1-rpm-install-additional-options.md#AEN1144)  | For more information on erasing packages with **rpm -e**, see [Chapter 3](ch-rpm-erase.md).                                                                                                                                                                            |
+| [<span class="footnote">\[4\]</span>](s1-rpm-install-additional-options.md#AEN1209)  | No pun intended.                                                                                                                                                                                                                                                         |
+| [<span class="footnote">\[5\]</span>](s1-rpm-install-additional-options.md#AEN1261)  | For more information on rpmrc files, refer to [Appendix B](ch-rpmrc-file.md).                                                                                                                                                                                          |
+| [<span class="footnote">\[6\]</span>](s1-rpm-install-additional-options.md#AEN1314)  | We discuss RPM's query commands in [Chapter 5](ch-rpm-query.md).                                                                                                                                                                                                       |
+| [<span class="footnote">\[7\]</span>](s1-rpm-install-additional-options.md#AEN1358)  | It's possible to use RPM's query command to see if a package has pre- or post-install scripts. See [the Section called ***--scripts** — Show Scripts Associated With a Package* in Chapter 5](s1-rpm-query-parts.md#s3-rpm-query-scripts-option) for more information. |
+| [<span class="footnote">\[8\]</span>](s1-rpm-install-additional-options.md#AEN1421)  | For more information on `rpmrc` file entries, see [Appendix B](ch-rpmrc-file.md).                                                                                                                                                                                      |
+| [<span class="footnote">\[9\]</span>](s1-rpm-install-additional-options.md#AEN1462)  | The use of `rpmrc` files is described in [Appendix B](ch-rpmrc-file.md).                                                                                                                                                                                               |
+| [<span class="footnote">\[10\]</span>](s1-rpm-install-additional-options.md#AEN1481) | The use of `rpmrc` files is described in [Appendix B](ch-rpmrc-file.md).                                                                                                                                                                                               |
+| [<span class="footnote">\[11\]</span>](s1-rpm-install-additional-options.md#AEN1495) | If you *are* porting RPM, you'll find more on **arch\_compat** in [the Section called ***`xxx`\_compat** — Define Compatible Architectures* in Chapter 19](s1-rpm-multi-build-install-detection.md#s3-rpm-multi-xxx-compat).                                           |
+| [<span class="footnote">\[12\]</span>](s1-rpm-install-additional-options.md#AEN1514) | If you *are* porting RPM, you'll find more on **os\_compat** in [the Section called ***`xxx`\_compat** — Define Compatible Architectures* in Chapter 19](s1-rpm-multi-build-install-detection.md#s3-rpm-multi-xxx-compat).                                             |
 
 <div class="NAVFOOTER">
 
@@ -1126,7 +1126,7 @@ Unless you really know what you're doing, you should *never* use
 
 |                                           |                           |                             |
 | :---------------------------------------- | :-----------------------: | --------------------------: |
-| [Prev](s1-rpm-install-handy-options.html) |    [Home](index.html)     |   [Next](ch-rpm-erase.html) |
-| Two handy options                         | [Up](ch-rpm-install.html) | Using RPM to Erase Packages |
+| [Prev](s1-rpm-install-handy-options.md) |    [Home](index.md)     |   [Next](ch-rpm-erase.md) |
+| Two handy options                         | [Up](ch-rpm-install.md) | Using RPM to Erase Packages |
 
 </div>

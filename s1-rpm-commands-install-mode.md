@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-commands-verify-mode.html)
+[Prev](s1-rpm-commands-verify-mode.md)
 
 Appendix C. Concise RPM Command Reference
 
-[Next](s1-rpm-commands-upgrade-mode.html)
+[Next](s1-rpm-commands-upgrade-mode.md)
 
 -----
 
@@ -70,7 +70,7 @@ The following options can be used on any install command:
 
 |                                          |                            |                                           |
 | :--------------------------------------- | :------------------------: | ----------------------------------------: |
-| [Prev](s1-rpm-commands-verify-mode.html) |     [Home](index.html)     | [Next](s1-rpm-commands-upgrade-mode.html) |
-| Verify Mode                              | [Up](ch-rpm-commands.html) |                              Upgrade Mode |
+| [Prev](s1-rpm-commands-verify-mode.md) |     [Home](index.md)     | [Next](s1-rpm-commands-upgrade-mode.md) |
+| Verify Mode                              | [Up](ch-rpm-commands.md) |                              Upgrade Mode |
 
 </div>

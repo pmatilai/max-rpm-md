@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-anywhere-specifying-file-attributes.html)
+[Prev](s1-rpm-anywhere-specifying-file-attributes.md)
 
-[Next](s1-rpm-pgp-getting-ready.html)
+[Next](s1-rpm-pgp-getting-ready.md)
 
 -----
 
@@ -20,7 +20,7 @@ or PGP. If you've used PGP before, you probably know everything you'll
 need to start signing packages in short order.
 
 On the other hand, if you feel you need a bit more information on PGP
-before starting, please refer to [Appendix G](ch-pgp-intro.html) for a
+before starting, please refer to [Appendix G](ch-pgp-intro.md) for a
 brief introduction. Once you feel comfortable with PGP, come on back and
 learn how easy signing packages is…
 
@@ -49,7 +49,7 @@ package, but it's about as sure a thing as humans can make it.
 
 |                                                         |                    |                                       |
 | :------------------------------------------------------ | :----------------: | ------------------------------------: |
-| [Prev](s1-rpm-anywhere-specifying-file-attributes.html) | [Home](index.html) | [Next](s1-rpm-pgp-getting-ready.html) |
-| Specifying File Attributes                              |  [Up](p5206.html)  |                 Getting Ready to Sign |
+| [Prev](s1-rpm-anywhere-specifying-file-attributes.md) | [Home](index.md) | [Next](s1-rpm-pgp-getting-ready.md) |
+| Specifying File Attributes                              |  [Up](p5206.md)  |                 Getting Ready to Sign |
 
 </div>

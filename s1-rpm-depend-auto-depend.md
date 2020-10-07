@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-depend.html)
+[Prev](ch-rpm-depend.md)
 
 Chapter 14. Adding Dependency Information to a Package
 
-[Next](s1-rpm-depend-manual-dependencies.html)
+[Next](s1-rpm-depend-manual-dependencies.md)
 
 -----
 
@@ -280,7 +280,7 @@ processing of requirements or "provides" only, respectively.
 
 |                                            |                          |                                                |
 | :----------------------------------------- | :----------------------: | ---------------------------------------------: |
-| [Prev](ch-rpm-depend.html)                 |    [Home](index.html)    | [Next](s1-rpm-depend-manual-dependencies.html) |
-| Adding Dependency Information to a Package | [Up](ch-rpm-depend.html) |                            Manual Dependencies |
+| [Prev](ch-rpm-depend.md)                 |    [Home](index.md)    | [Next](s1-rpm-depend-manual-dependencies.md) |
+| Adding Dependency Information to a Package | [Up](ch-rpm-depend.md) |                            Manual Dependencies |
 
 </div>

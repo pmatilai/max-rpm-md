@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-reloc.html)
+[Prev](ch-rpm-reloc.md)
 
 Chapter 15. Making a Relocatable Package
 
-[Next](s1-rpm-reloc-wrinkles.html)
+[Next](s1-rpm-reloc-wrinkles.md)
 
 -----
 
@@ -125,7 +125,7 @@ consider before getting on the relocatable package bandwagon.
 
 |                              |                         |                                          |
 | :--------------------------- | :---------------------: | ---------------------------------------: |
-| [Prev](ch-rpm-reloc.html)    |   [Home](index.html)    |       [Next](s1-rpm-reloc-wrinkles.html) |
-| Making a Relocatable Package | [Up](ch-rpm-reloc.html) | Relocatable Wrinkles: Things to Consider |
+| [Prev](ch-rpm-reloc.md)    |   [Home](index.md)    |       [Next](s1-rpm-reloc-wrinkles.md) |
+| Making a Relocatable Package | [Up](ch-rpm-reloc.md) | Relocatable Wrinkles: Things to Consider |
 
 </div>

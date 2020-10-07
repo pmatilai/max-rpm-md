@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-commands-resign-mode.html)
+[Prev](s1-rpm-commands-resign-mode.md)
 
 Appendix C. Concise RPM Command Reference
 
-[Next](s1-rpm-commands-check-signature-mode.html)
+[Next](s1-rpm-commands-check-signature-mode.md)
 
 -----
 
@@ -36,7 +36,7 @@ Only the global options may be used.
 
 |                                          |                            |                                                   |
 | :--------------------------------------- | :------------------------: | ------------------------------------------------: |
-| [Prev](s1-rpm-commands-resign-mode.html) |     [Home](index.html)     | [Next](s1-rpm-commands-check-signature-mode.html) |
-| Resign Mode                              | [Up](ch-rpm-commands.html) |                              Check Signature Mode |
+| [Prev](s1-rpm-commands-resign-mode.md) |     [Home](index.md)     | [Next](s1-rpm-commands-check-signature-mode.md) |
+| Resign Mode                              | [Up](ch-rpm-commands.md) |                              Check Signature Mode |
 
 </div>

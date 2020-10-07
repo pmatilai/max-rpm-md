@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-pgp-signing-packages.html)
+[Prev](s1-rpm-pgp-signing-packages.md)
 
-[Next](s1-rpm-subpack-why.html)
+[Next](s1-rpm-subpack-why.md)
 
 -----
 
@@ -36,7 +36,7 @@ without the main package. It's all up to the package builder.
 
 |                                          |                    |                                 |
 | :--------------------------------------- | :----------------: | ------------------------------: |
-| [Prev](s1-rpm-pgp-signing-packages.html) | [Home](index.html) | [Next](s1-rpm-subpack-why.html) |
-| Signing Packages                         |  [Up](p5206.html)  |            Why Are They Needed? |
+| [Prev](s1-rpm-pgp-signing-packages.md) | [Home](index.md) | [Next](s1-rpm-subpack-why.md) |
+| Signing Packages                         |  [Up](p5206.md)  |            Why Are They Needed? |
 
 </div>

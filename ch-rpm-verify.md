@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-query-handy-queries.html)
+[Prev](s1-rpm-query-handy-queries.md)
 
-[Next](s1-rpm-verify-output.html)
+[Next](s1-rpm-verify-output.md)
 
 -----
 
@@ -36,14 +36,14 @@ Verify named package(s)
 
 [the Section called *The Package Label — Verify an Installed Package
 Against the RPM
-Database*](s1-rpm-verify-what-to-verify.html#s2-rpm-verify-package-label)
+Database*](s1-rpm-verify-what-to-verify.md#s2-rpm-verify-package-label)
 
 **-p `<file>`**
 
 Verify against package file **`<file>`**
 
 [the Section called ***-p `<file>`** — Verify Against a Specific Package
-File*](s1-rpm-verify-what-to-verify.html#s2-rpm-verify-p-option)
+File*](s1-rpm-verify-what-to-verify.md#s2-rpm-verify-p-option)
 
 **-f `<file>`**
 
@@ -51,21 +51,21 @@ Verify package owning **`<file>`**
 
 [the Section called ***-f `<file>`** — Verify the Package Owning
 **`<file>`** Against the RPM
-Database*](s1-rpm-verify-what-to-verify.html#s2-rpm-verify-f-option)
+Database*](s1-rpm-verify-what-to-verify.md#s2-rpm-verify-f-option)
 
 **-a**
 
 Verify all installed packages
 
 [the Section called ***-a** — Verify All Installed Packages Against the
-RPM Database*](s1-rpm-verify-what-to-verify.html#s2-rpm-verify-a-option)
+RPM Database*](s1-rpm-verify-what-to-verify.md#s2-rpm-verify-a-option)
 
 **-g `<group>`**
 
 Verify packages belonging to group **`<group>`**
 
 [the Section called ***-g `<group>`** — Verify Packages Belonging To
-**`<group>`***](s1-rpm-verify-what-to-verify.html#s2-rpm-verify-g-option)
+**`<group>`***](s1-rpm-verify-what-to-verify.md#s2-rpm-verify-g-option)
 
 Verify-specific Options
 
@@ -76,21 +76,21 @@ Page
 Do not execute verification script
 
 [the Section called ***--noscripts**: Do Not Execute Verification
-Script*](s1-rpm-verify-what-to-verify.html#s2-rpm-verify-noscripts-option)
+Script*](s1-rpm-verify-what-to-verify.md#s2-rpm-verify-noscripts-option)
 
 **--nodeps**
 
 Do not verify dependencies
 
 [the Section called ***--nodeps**: Do Not Check Dependencies During
-Verification*](s1-rpm-verify-what-to-verify.html#s2-rpm-verify-nodeps-option)
+Verification*](s1-rpm-verify-what-to-verify.md#s2-rpm-verify-nodeps-option)
 
 **--nofiles**
 
 Do not verify file attributes
 
 [the Section called ***--nofiles**: Do Not Verify File
-Attributes*](s1-rpm-verify-what-to-verify.html#s2-rpm-verify-nofiles-option)
+Attributes*](s1-rpm-verify-what-to-verify.md#s2-rpm-verify-nofiles-option)
 
 General Options
 
@@ -101,21 +101,21 @@ Page
 Display additional information
 
 [the Section called ***-v** — Display Additional
-Information*](s1-rpm-verify-what-to-verify.html#s2-rpm-verify-v-option)
+Information*](s1-rpm-verify-what-to-verify.md#s2-rpm-verify-v-option)
 
 **-vv**
 
 Display debugging information
 
 [the Section called ***-vv** — Display Debugging
-Information*](s1-rpm-verify-what-to-verify.html#s2-rpm-verify-vv-option)
+Information*](s1-rpm-verify-what-to-verify.md#s2-rpm-verify-vv-option)
 
 **--root `<path>`**
 
 Set alternate root to **`<path>`**
 
 [the Section called ***--root `<path>`**: Set Alternate Root to
-**`<path>`***](s1-rpm-verify-what-to-verify.html#s2-rpm-verify-root-option)
+**`<path>`***](s1-rpm-verify-what-to-verify.md#s2-rpm-verify-root-option)
 
 **--rcfile `<rcfile>`**
 
@@ -123,14 +123,14 @@ Set alternate rpmrc file to **`<rcfile>`**
 
 [the Section called ***--rcfile `<rcfile>`**: Set Alternate `rpmrc` file
 to
-**`<rcfile>`***](s1-rpm-verify-what-to-verify.html#s2-rpm-verify-rcfile-option)
+**`<rcfile>`***](s1-rpm-verify-what-to-verify.md#s2-rpm-verify-rcfile-option)
 
 **--dbpath `<path>`**
 
 Use **`<path>`** to find the RPM database
 
 [the Section called ***--dbpath `<path>`**: Use **`<path>`** To Find RPM
-Database*](s1-rpm-verify-what-to-verify.html#s2-rpm-verify-dbpath-option)
+Database*](s1-rpm-verify-what-to-verify.md#s2-rpm-verify-dbpath-option)
 
 <div class="sect1">
 
@@ -343,8 +343,8 @@ times in its database.
 
 |                                                                   |                                                                                                                                                                                                                 |
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](ch-rpm-verify.html#AEN3891) | Actually, the price is fairly low. For a completely RPM-based Linux distribution, it would be unusual to have a database over 5MB in size.                                                                      |
-| [<span class="footnote">\[2\]</span>](ch-rpm-verify.html#AEN3976) | From a strictly theoretical standpoint, this is not entirely true. Using the lingo of cryptologists, it is believed to be "computationally infeasible" to find two messages that produce the same MD5 checksum. |
+| [<span class="footnote">\[1\]</span>](ch-rpm-verify.md#AEN3891) | Actually, the price is fairly low. For a completely RPM-based Linux distribution, it would be unusual to have a database over 5MB in size.                                                                      |
+| [<span class="footnote">\[2\]</span>](ch-rpm-verify.md#AEN3976) | From a strictly theoretical standpoint, this is not entirely true. Using the lingo of cryptologists, it is believed to be "computationally infeasible" to find two messages that produce the same MD5 checksum. |
 
 <div class="NAVFOOTER">
 
@@ -352,7 +352,7 @@ times in its database.
 
 |                                         |                    |                                             |
 | :-------------------------------------- | :----------------: | ------------------------------------------: |
-| [Prev](s1-rpm-query-handy-queries.html) | [Home](index.html) |           [Next](s1-rpm-verify-output.html) |
-| A Few Handy Queries                     |  [Up](p108.html)   | When Verification Fails — **rpm -V** Output |
+| [Prev](s1-rpm-query-handy-queries.md) | [Home](index.md) |           [Next](s1-rpm-verify-output.md) |
+| A Few Handy Queries                     |  [Up](p108.md)   | When Verification Fails — **rpm -V** Output |
 
 </div>

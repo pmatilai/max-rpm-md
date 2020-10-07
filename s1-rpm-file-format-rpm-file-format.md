@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-file-format.html)
+[Prev](ch-rpm-file-format.md)
 
 Appendix A. Format of the RPM File
 
-[Next](s1-rpm-file-format-rpm-tools.html)
+[Next](s1-rpm-file-format-rpm-tools.md)
 
 -----
 
@@ -209,7 +209,7 @@ of defining a C structure to access data in a file just isn't very
 flexible. Let's look at an example.
 
 Flip back to the lead's C structure in [the Section called *The
-Lead*](s1-rpm-file-format-rpm-file-format.html#s2-rpm-file-format-the-lead).
+Lead*](s1-rpm-file-format-rpm-file-format.md#s2-rpm-file-format-the-lead).
 Say, for example, that some software comes along, and it has a long
 name. A *very* long name. A name so long, in fact, that the 66 bytes
 defined in the structure element `name` just couldn't hold it.
@@ -662,7 +662,7 @@ header structure format. Unlike the signature, which has only three
 possible tag types, the header has more than *sixty* different tags. The
 list of currently defined tags appears later in this appendix on [the
 Section called *Header Tag
-Listing*](s1-rpm-file-format-rpm-file-format.html#s3-rpm-file-format-header-tag-listing).
+Listing*](s1-rpm-file-format-rpm-file-format.md#s3-rpm-file-format-header-tag-listing).
 Be aware that the list of tags changes frequently — the definitive list
 appears in the RPM sources in `lib/rpmlib.h`.
 
@@ -1011,9 +1011,9 @@ format with a CRC checksum.
 
 |                                                                                         |                                                                                                                                                                                                              |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [<span class="footnote">\[1\]</span>](s1-rpm-file-format-rpm-file-format.html#AEN14145) | Please refer to [the Section called *Identifying RPM files with the **file(1)** command*](s1-rpm-file-format-file-command.html) for a discussion on identifying RPM package files with the **file** command. |
-| [<span class="footnote">\[2\]</span>](s1-rpm-file-format-rpm-file-format.html#AEN14149) | The header is discussed in [the Section called *The Header*](s1-rpm-file-format-rpm-file-format.html#s2-rpm-file-format-header).                                                                             |
-| [<span class="footnote">\[3\]</span>](s1-rpm-file-format-rpm-file-format.html#AEN14176) | It should be noted that the architecture used internally by RPM is actually stored in the header. This value is strictly for **file(1)**'s use.                                                              |
+| [<span class="footnote">\[1\]</span>](s1-rpm-file-format-rpm-file-format.md#AEN14145) | Please refer to [the Section called *Identifying RPM files with the **file(1)** command*](s1-rpm-file-format-file-command.md) for a discussion on identifying RPM package files with the **file** command. |
+| [<span class="footnote">\[2\]</span>](s1-rpm-file-format-rpm-file-format.md#AEN14149) | The header is discussed in [the Section called *The Header*](s1-rpm-file-format-rpm-file-format.md#s2-rpm-file-format-header).                                                                             |
+| [<span class="footnote">\[3\]</span>](s1-rpm-file-format-rpm-file-format.md#AEN14176) | It should be noted that the architecture used internally by RPM is actually stored in the header. This value is strictly for **file(1)**'s use.                                                              |
 
 <div class="NAVFOOTER">
 
@@ -1021,7 +1021,7 @@ format with a CRC checksum.
 
 |                                 |                               |                                           |
 | :------------------------------ | :---------------------------: | ----------------------------------------: |
-| [Prev](ch-rpm-file-format.html) |      [Home](index.html)       | [Next](s1-rpm-file-format-rpm-tools.html) |
-| Format of the RPM File          | [Up](ch-rpm-file-format.html) |              Tools For Studying RPM Files |
+| [Prev](ch-rpm-file-format.md) |      [Home](index.md)       | [Next](s1-rpm-file-format-rpm-tools.md) |
+| Format of the RPM File          | [Up](ch-rpm-file-format.md) |              Tools For Studying RPM Files |
 
 </div>

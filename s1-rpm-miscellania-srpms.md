@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-miscellania-rpm2cpio.html)
+[Prev](s1-rpm-miscellania-rpm2cpio.md)
 
 Chapter 8. Miscellanea
 
-[Next](p5206.html)
+[Next](p5206.md)
 
 -----
 
@@ -284,7 +284,7 @@ two, you'll probably find RPM's package building a piece of cake.
 
 |                                          |                               |                                                                           |
 | :--------------------------------------- | :---------------------------: | ------------------------------------------------------------------------: |
-| [Prev](s1-rpm-miscellania-rpm2cpio.html) |      [Home](index.html)       |                                                        [Next](p5206.html) |
-| Using **rpm2cpio**                       | [Up](ch-rpm-miscellania.html) | RPM and Developers — How to Distribute Your Software More Easily With RPM |
+| [Prev](s1-rpm-miscellania-rpm2cpio.md) |      [Home](index.md)       |                                                        [Next](p5206.md) |
+| Using **rpm2cpio**                       | [Up](ch-rpm-miscellania.md) | RPM and Developers — How to Distribute Your Software More Easily With RPM |
 
 </div>

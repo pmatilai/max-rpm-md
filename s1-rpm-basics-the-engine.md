@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-basics.html)
+[Prev](ch-rpm-basics.md)
 
 Chapter 10. The Basics of Developing With RPM
 
-[Next](s1-rpm-basics-outputs.html)
+[Next](s1-rpm-basics-outputs.md)
 
 -----
 
@@ -48,7 +48,7 @@ next step.
 
 |                                   |                          |                                    |
 | :-------------------------------- | :----------------------: | ---------------------------------: |
-| [Prev](ch-rpm-basics.html)        |    [Home](index.html)    | [Next](s1-rpm-basics-outputs.html) |
-| The Basics of Developing With RPM | [Up](ch-rpm-basics.html) |                        The Outputs |
+| [Prev](ch-rpm-basics.md)        |    [Home](index.md)    | [Next](s1-rpm-basics-outputs.md) |
+| The Basics of Developing With RPM | [Up](ch-rpm-basics.md) |                        The Outputs |
 
 </div>

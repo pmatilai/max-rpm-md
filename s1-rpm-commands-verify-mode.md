@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-commands-query-mode.html)
+[Prev](s1-rpm-commands-query-mode.md)
 
 Appendix C. Concise RPM Command Reference
 
-[Next](s1-rpm-commands-install-mode.html)
+[Next](s1-rpm-commands-install-mode.md)
 
 -----
 
@@ -51,7 +51,7 @@ The following options can be used on any verify command:
 
 |                                         |                            |                                           |
 | :-------------------------------------- | :------------------------: | ----------------------------------------: |
-| [Prev](s1-rpm-commands-query-mode.html) |     [Home](index.html)     | [Next](s1-rpm-commands-install-mode.html) |
-| Query Mode                              | [Up](ch-rpm-commands.html) |                              Install Mode |
+| [Prev](s1-rpm-commands-query-mode.md) |     [Home](index.md)     | [Next](s1-rpm-commands-install-mode.md) |
+| Query Mode                              | [Up](ch-rpm-commands.md) |                              Install Mode |
 
 </div>

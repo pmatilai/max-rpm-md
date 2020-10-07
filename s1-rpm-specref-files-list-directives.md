@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-specref-files-list.html)
+[Prev](s1-rpm-specref-files-list.md)
 
 Appendix E. Concise Spec File Reference
 
-[Next](s1-rpm-specref-package.html)
+[Next](s1-rpm-specref-package.md)
 
 -----
 
@@ -45,7 +45,7 @@ documentation.
 </table>
 
 See also: [the Section called *The **%doc** Directive* in Chapter
-13](s1-rpm-inside-files-list-directives.html#s3-rpm-inside-flist-doc-directive).
+13](s1-rpm-inside-files-list-directives.md#s3-rpm-inside-flist-doc-directive).
 
 </div>
 
@@ -70,7 +70,7 @@ configuration file.
 </table>
 
 See also: [the Section called *The **%config** Directive* in Chapter
-13](s1-rpm-inside-files-list-directives.html#s3-rpm-inside-flist-config-directive).
+13](s1-rpm-inside-files-list-directives.md#s3-rpm-inside-flist-config-directive).
 
 </div>
 
@@ -112,7 +112,7 @@ not need to be set by **%attr** may be replaced with a dash:
 </table>
 
 See also: [the Section called *The **%attr** Directive* in Chapter
-13](s1-rpm-inside-files-list-directives.html#s3-rpm-inside-flist-attr-directive).
+13](s1-rpm-inside-files-list-directives.md#s3-rpm-inside-flist-attr-directive).
 
 </div>
 
@@ -155,7 +155,7 @@ Directory mode may be ommited:
 </table>
 
 See also: [the Section called *The **%defattr** Directive* in Chapter
-13](s1-rpm-inside-files-list-directives.html#s3-rpm-inside-flist-defattr-directive).
+13](s1-rpm-inside-files-list-directives.md#s3-rpm-inside-flist-defattr-directive).
 
 </div>
 
@@ -201,7 +201,7 @@ listed will be verified.
 </table>
 
 See also: [the Section called *The **%verify** Directive* in Chapter
-13](s1-rpm-inside-files-list-directives.html#s3-rpm-inside-flist-verify-directive).
+13](s1-rpm-inside-files-list-directives.md#s3-rpm-inside-flist-verify-directive).
 
 </div>
 
@@ -221,7 +221,7 @@ directory is added to this list, every file packaged in this directory
 (and any subdirectories) will automatically be marked as documentation.
 
 See also: [the Section called *The **%docdir** Directive* in Chapter
-13](s1-rpm-inside-files-list-directives.html#s3-rpm-inside-docdir-directive).
+13](s1-rpm-inside-files-list-directives.md#s3-rpm-inside-docdir-directive).
 
 </div>
 
@@ -247,7 +247,7 @@ at the time the package is created.
 </table>
 
 See also: [the Section called *The **%dir** Directive* in Chapter
-13](s1-rpm-inside-files-list-directives.html#s3-rpm-inside-dir-directive).
+13](s1-rpm-inside-files-list-directives.md#s3-rpm-inside-dir-directive).
 
 </div>
 
@@ -261,7 +261,7 @@ See also: [the Section called *The **%dir** Directive* in Chapter
 
 |                                        |                           |                                     |
 | :------------------------------------- | :-----------------------: | ----------------------------------: |
-| [Prev](s1-rpm-specref-files-list.html) |    [Home](index.html)     | [Next](s1-rpm-specref-package.html) |
-| The **%files** List                    | [Up](ch-rpm-specref.html) |              **%package** Directive |
+| [Prev](s1-rpm-specref-files-list.md) |    [Home](index.md)     | [Next](s1-rpm-specref-package.md) |
+| The **%files** List                    | [Up](ch-rpm-specref.md) |              **%package** Directive |
 
 </div>

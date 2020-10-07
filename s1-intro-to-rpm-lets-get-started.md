@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-intro-to-rpm-whats-in-package.html)
+[Prev](s1-intro-to-rpm-whats-in-package.md)
 
 Chapter 1. An Introduction to Package Management
 
-[Next](ch-rpm-install.html)
+[Next](ch-rpm-install.md)
 
 -----
 
@@ -45,7 +45,7 @@ they did, and learn how to use RPM\!
 
 |                                               |                            |                               |
 | :-------------------------------------------- | :------------------------: | ----------------------------: |
-| [Prev](s1-intro-to-rpm-whats-in-package.html) |     [Home](index.html)     |   [Next](ch-rpm-install.html) |
-| What's in a package?                          | [Up](ch-intro-to-rpm.html) | Using RPM to Install Packages |
+| [Prev](s1-intro-to-rpm-whats-in-package.md) |     [Home](index.md)     |   [Next](ch-rpm-install.md) |
+| What's in a package?                          | [Up](ch-intro-to-rpm.md) | Using RPM to Install Packages |
 
 </div>

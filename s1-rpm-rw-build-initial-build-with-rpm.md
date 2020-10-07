@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-rw-build-build-without-rpm.html)
+[Prev](s1-rpm-rw-build-build-without-rpm.md)
 
 Chapter 20. Real-World Package Building
 
-[Next](s1-rpm-rw-build-package-building.html)
+[Next](s1-rpm-rw-build-package-building.md)
 
 -----
 
@@ -731,7 +731,7 @@ problems were found. It's time to build some packages\!
 
 |                                                                                             |                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-rw-build-initial-build-with-rpm.html#AEN12213) | Of course, if the process of installing the software changed some necessary config files, they would have to be redone, but in this case it didn't happen. |
+| [<span class="footnote">\[1\]</span>](s1-rpm-rw-build-initial-build-with-rpm.md#AEN12213) | Of course, if the process of installing the software changed some necessary config files, they would have to be redone, but in this case it didn't happen. |
 
 <div class="NAVFOOTER">
 
@@ -739,7 +739,7 @@ problems were found. It's time to build some packages\!
 
 |                                                |                            |                                               |
 | :--------------------------------------------- | :------------------------: | --------------------------------------------: |
-| [Prev](s1-rpm-rw-build-build-without-rpm.html) |     [Home](index.html)     | [Next](s1-rpm-rw-build-package-building.html) |
-| Initial Building Without RPM                   | [Up](ch-rpm-rw-build.html) |                              Package Building |
+| [Prev](s1-rpm-rw-build-build-without-rpm.md) |     [Home](index.md)     | [Next](s1-rpm-rw-build-package-building.md) |
+| Initial Building Without RPM                   | [Up](ch-rpm-rw-build.md) |                              Package Building |
 
 </div>

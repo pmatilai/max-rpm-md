@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-query.html)
+[Prev](ch-rpm-query.md)
 
 Chapter 5. Getting Information About Packages
 
-[Next](s1-rpm-query-handy-queries.html)
+[Next](s1-rpm-query-handy-queries.md)
 
 -----
 
@@ -415,7 +415,7 @@ With one command RPM gives you the answer.
 The **-p** option can also use *Uniform Resource Locators* to specify
 package files. See [the Section called *URLs — Another Way to Specify
 Package Files* in Chapter
-2](s1-rpm-install-performing-install.html#s2-rpm-install-urls) for more
+2](s1-rpm-install-performing-install.md#s2-rpm-install-urls) for more
 information on using URLs.
 
 There's one last trick up **-p**'s sleeve — it can also perform a query
@@ -1803,7 +1803,7 @@ information is not available, RPM will display (none) or (unknown).
 There are also a few tags that, for one reason or another, will not
 produce useful output when using in a format string. For a comprehensive
 list of queryformat tags, please see [Appendix
-D](ch-queryformat-tags.html).
+D](ch-queryformat-tags.md).
 
 </div>
 
@@ -1876,7 +1876,7 @@ directory.
 This option would be used if there was a need to switch between several
 sets of RPM options. Software developer and package builders will be the
 people using **--rcfile**. For more information on `rpmrc` files, see
-[Appendix B](ch-rpmrc-file.html).
+[Appendix B](ch-rpmrc-file.md).
 
 </div>
 
@@ -1904,12 +1904,12 @@ common occurrence, but it's difficult to handle any other way.
 
 |                                                                        |                                                                                                                                                                                                               |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-query-parts.html#AEN2793) | On most Linux systems, the **file** command can be used to obtain similar information. See [Appendix A](ch-rpm-file-format.html) for details on how to add this capability to your system's **file** command. |
-| [<span class="footnote">\[2\]</span>](s1-rpm-query-parts.html#AEN2938) | Note to software packagers: Choose your build machine names wisely\! A silly or offensive name might be embarrassing…                                                                                         |
-| [<span class="footnote">\[3\]</span>](s1-rpm-query-parts.html#AEN3090) | For more information on `rpmrc` file entries, please refer to [Appendix B](ch-rpmrc-file.html).                                                                                                               |
-| [<span class="footnote">\[4\]</span>](s1-rpm-query-parts.html#AEN3279) | For more information on package verification, please see [the Section called ***rpm -V** — What Does it Do?* in Chapter 6](ch-rpm-verify.html#s1-rpm-verify-what-it-does).                                    |
-| [<span class="footnote">\[5\]</span>](s1-rpm-query-parts.html#AEN3375) | RPM uses `printf` to do **--queryformat** formatting. Therefore, you can use any of the `printf` format modifiers discussed in the `printf(3)` man page.                                                      |
-| [<span class="footnote">\[6\]</span>](s1-rpm-query-parts.html#AEN3606) | For more information on `rpmrc` file entries, see [Appendix B](ch-rpmrc-file.html).                                                                                                                           |
+| [<span class="footnote">\[1\]</span>](s1-rpm-query-parts.md#AEN2793) | On most Linux systems, the **file** command can be used to obtain similar information. See [Appendix A](ch-rpm-file-format.md) for details on how to add this capability to your system's **file** command. |
+| [<span class="footnote">\[2\]</span>](s1-rpm-query-parts.md#AEN2938) | Note to software packagers: Choose your build machine names wisely\! A silly or offensive name might be embarrassing…                                                                                         |
+| [<span class="footnote">\[3\]</span>](s1-rpm-query-parts.md#AEN3090) | For more information on `rpmrc` file entries, please refer to [Appendix B](ch-rpmrc-file.md).                                                                                                               |
+| [<span class="footnote">\[4\]</span>](s1-rpm-query-parts.md#AEN3279) | For more information on package verification, please see [the Section called ***rpm -V** — What Does it Do?* in Chapter 6](ch-rpm-verify.md#s1-rpm-verify-what-it-does).                                    |
+| [<span class="footnote">\[5\]</span>](s1-rpm-query-parts.md#AEN3375) | RPM uses `printf` to do **--queryformat** formatting. Therefore, you can use any of the `printf` format modifiers discussed in the `printf(3)` man page.                                                      |
+| [<span class="footnote">\[6\]</span>](s1-rpm-query-parts.md#AEN3606) | For more information on `rpmrc` file entries, see [Appendix B](ch-rpmrc-file.md).                                                                                                                           |
 
 <div class="NAVFOOTER">
 
@@ -1917,7 +1917,7 @@ common occurrence, but it's difficult to handle any other way.
 
 |                                    |                         |                                         |
 | :--------------------------------- | :---------------------: | --------------------------------------: |
-| [Prev](ch-rpm-query.html)          |   [Home](index.html)    | [Next](s1-rpm-query-handy-queries.html) |
-| Getting Information About Packages | [Up](ch-rpm-query.html) |                     A Few Handy Queries |
+| [Prev](ch-rpm-query.md)          |   [Home](index.md)    | [Next](s1-rpm-query-handy-queries.md) |
+| Getting Information About Packages | [Up](ch-rpm-query.md) |                     A Few Handy Queries |
 
 </div>

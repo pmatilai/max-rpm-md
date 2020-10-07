@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpmrc-file-rpmrc-file-syntax.html)
+[Prev](s1-rpmrc-file-rpmrc-file-syntax.md)
 
 Appendix B. The `rpmrc` File
 
-[Next](ch-rpm-commands.html)
+[Next](ch-rpm-commands.md)
 
 -----
 
@@ -250,7 +250,7 @@ The **buildroot** entry defines the path used as the root directory
 during the install phase of a package build. For more information on
 using build roots, please see [the Section called *Using Build Roots in
 a Package* in Chapter
-16](ch-rpm-anywhere.html#s1-rpm-anywhere-using-build-roots).
+16](ch-rpm-anywhere.md#s1-rpm-anywhere-using-build-roots).
 
 </div>
 
@@ -316,7 +316,7 @@ written to disk when a package is installed. By default, documentation
 **--excludedocs** and **--includedocs** options can be added to the RPM
 command line to override the **excludedocs** entry's behavior. For more
 information on the **--excludedocs** and **--includedocs** options,
-please refer to [Chapter 2](ch-rpm-install.html).
+please refer to [Chapter 2](ch-rpm-install.md).
 
 </div>
 
@@ -329,7 +329,7 @@ Default value: (none)
 The **ftpport** entry is used to define the port RPM should use when
 manipulating package files via FTP. See [the Section called ***--ftpport
 `<port>`**: Use **`<port>`** In FTP-based Installs* in Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-ftpport) for
+2](s1-rpm-install-additional-options.md#s2-rpm-install-ftpport) for
 more information on how FTP ports are used by RPM.
 
 </div>
@@ -344,7 +344,7 @@ The **ftpproxy** entry is used to define the hostname of the FTP proxy
 system RPM should use when manipulating package files via FTP. See [the
 Section called ***--ftpproxy `<host>`**: Use **`<host>`** As Proxy In
 FTP-based Installs* in Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-ftpproxy) for
+2](s1-rpm-install-additional-options.md#s2-rpm-install-ftpproxy) for
 more information on how FTP proxy systems are used by RPM.
 
 </div>
@@ -464,7 +464,7 @@ sensitive, but the key name entered here must match the actual key name
 in every other aspect.
 
 For more information on signing packages with PGP, please read [Chapter
-17](ch-rpm-pgp.html).
+17](ch-rpm-pgp.md).
 
 </div>
 
@@ -479,7 +479,7 @@ keyring files. These files will be searched for the public key specified
 by the **pgp\_name** entry.
 
 For more information on signing packages with PGP, please read [Chapter
-17](ch-rpm-pgp.html).
+17](ch-rpm-pgp.md).
 
 </div>
 
@@ -564,7 +564,7 @@ from PGP are supported. Therefore, the only acceptable value is
 "<span class="token">pgp</span>".
 
 For more information on signing packages with PGP, please read [Chapter
-17](ch-rpm-pgp.html).
+17](ch-rpm-pgp.md).
 
 </div>
 
@@ -620,7 +620,7 @@ to apply to the **--timecheck** option when building packages. For more
 information on the **--timecheck** option, please see [the Section
 called ***--timecheck `<secs>`** — Print a warning if files to be
 packaged are over **`<secs>`** old* in Chapter
-12](ch-rpm-b-command.html#s2-rpm-b-command-timecheck-option).
+12](ch-rpm-b-command.md#s2-rpm-b-command-timecheck-option).
 
 </div>
 
@@ -678,7 +678,7 @@ would be the name of a business or other such entity.
 
 |                                                                                       |                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [<span class="footnote">\[1\]</span>](s1-rpmrc-file-rpmrc-file-entries.html#AEN14754) | The **buildostranslate** `rpmrc` file entry is discussed on [the Section called ***buildostranslate***](s1-rpmrc-file-rpmrc-file-entries.html#s2-rpmrc-file-buildostranslate). |
+| [<span class="footnote">\[1\]</span>](s1-rpmrc-file-rpmrc-file-entries.md#AEN14754) | The **buildostranslate** `rpmrc` file entry is discussed on [the Section called ***buildostranslate***](s1-rpmrc-file-rpmrc-file-entries.md#s2-rpmrc-file-buildostranslate). |
 
 <div class="NAVFOOTER">
 
@@ -686,7 +686,7 @@ would be the name of a business or other such entity.
 
 |                                              |                          |                               |
 | :------------------------------------------- | :----------------------: | ----------------------------: |
-| [Prev](s1-rpmrc-file-rpmrc-file-syntax.html) |    [Home](index.html)    |  [Next](ch-rpm-commands.html) |
-| `rpmrc` File Syntax                          | [Up](ch-rpmrc-file.html) | Concise RPM Command Reference |
+| [Prev](s1-rpmrc-file-rpmrc-file-syntax.md) |    [Home](index.md)    |  [Next](ch-rpm-commands.md) |
+| `rpmrc` File Syntax                          | [Up](ch-rpmrc-file.md) | Concise RPM Command Reference |
 
 </div>

@@ -4,12 +4,12 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-multi-optflags.html)
+[Prev](s1-rpm-multi-optflags.md)
 
 Chapter 19. Building Packages for Multiple Architectures and Operating
 Systems
 
-[Next](s1-rpm-multi-platform-dependent-conditional.html)
+[Next](s1-rpm-multi-platform-dependent-conditional.md)
 
 -----
 
@@ -136,7 +136,7 @@ then you should use the **exclude`xxx`** tag.
 
 |                                             |                         |                                                          |
 | :------------------------------------------ | :---------------------: | -------------------------------------------------------: |
-| [Prev](s1-rpm-multi-optflags.html)          |   [Home](index.html)    | [Next](s1-rpm-multi-platform-dependent-conditional.html) |
-| **optflags** — The Other `rpmrc` File Entry | [Up](ch-rpm-multi.html) |                          Platform-Dependent Conditionals |
+| [Prev](s1-rpm-multi-optflags.md)          |   [Home](index.md)    | [Next](s1-rpm-multi-platform-dependent-conditional.md) |
+| **optflags** — The Other `rpmrc` File Entry | [Up](ch-rpm-multi.md) |                          Platform-Dependent Conditionals |
 
 </div>

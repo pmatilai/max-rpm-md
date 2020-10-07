@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-subpack-why.html)
+[Prev](s1-rpm-subpack-why.md)
 
 Chapter 18. Creating Subpackages
 
-[Next](s1-rpm-subpack-spec-file-changes.html)
+[Next](s1-rpm-subpack-spec-file-changes.md)
 
 -----
 
@@ -74,7 +74,7 @@ to add to this spec file to create the subpackages we require.
 
 |                                 |                           |                                               |
 | :------------------------------ | :-----------------------: | --------------------------------------------: |
-| [Prev](s1-rpm-subpack-why.html) |    [Home](index.html)     | [Next](s1-rpm-subpack-spec-file-changes.html) |
-| Why Are They Needed?            | [Up](ch-rpm-subpack.html) |             Spec File Changes For Subpackages |
+| [Prev](s1-rpm-subpack-why.md) |    [Home](index.md)     | [Next](s1-rpm-subpack-spec-file-changes.md) |
+| Why Are They Needed?            | [Up](ch-rpm-subpack.md) |             Spec File Changes For Subpackages |
 
 </div>

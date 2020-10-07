@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-miscellania.html)
+[Prev](ch-rpm-miscellania.md)
 
 Chapter 8. Miscellanea
 
-[Next](s1-rpm-miscellania-srpms.html)
+[Next](s1-rpm-miscellania-srpms.md)
 
 -----
 
@@ -236,7 +236,7 @@ you're doing\!
 
 |                                                                                 |                                                                                                        |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [<span class="footnote">\[1\]</span>](s1-rpm-miscellania-rpm2cpio.html#AEN5057) | Note that the size displayed by **cpio** is the size of the **cpio** archive and not the package file. |
+| [<span class="footnote">\[1\]</span>](s1-rpm-miscellania-rpm2cpio.md#AEN5057) | Note that the size displayed by **cpio** is the size of the **cpio** archive and not the package file. |
 
 <div class="NAVFOOTER">
 
@@ -244,7 +244,7 @@ you're doing\!
 
 |                                 |                               |                                          |
 | :------------------------------ | :---------------------------: | ---------------------------------------: |
-| [Prev](ch-rpm-miscellania.html) |      [Home](index.html)       |    [Next](s1-rpm-miscellania-srpms.html) |
-| Miscellanea                     | [Up](ch-rpm-miscellania.html) | Source Package Files and How To Use Them |
+| [Prev](ch-rpm-miscellania.md) |      [Home](index.md)       |    [Next](s1-rpm-miscellania-srpms.md) |
+| Miscellanea                     | [Up](ch-rpm-miscellania.md) | Source Package Files and How To Use Them |
 
 </div>

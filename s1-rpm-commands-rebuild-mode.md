@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-commands-build-mode.html)
+[Prev](s1-rpm-commands-build-mode.md)
 
 Appendix C. Concise RPM Command Reference
 
-[Next](s1-rpm-commands-recompile-mode.html)
+[Next](s1-rpm-commands-recompile-mode.md)
 
 -----
 
@@ -41,7 +41,7 @@ Only the global options may be used.
 
 |                                         |                            |                                             |
 | :-------------------------------------- | :------------------------: | ------------------------------------------: |
-| [Prev](s1-rpm-commands-build-mode.html) |     [Home](index.html)     | [Next](s1-rpm-commands-recompile-mode.html) |
-| Build Mode                              | [Up](ch-rpm-commands.html) |                              Recompile Mode |
+| [Prev](s1-rpm-commands-build-mode.md) |     [Home](index.md)     | [Next](s1-rpm-commands-recompile-mode.md) |
+| Build Mode                              | [Up](ch-rpm-commands.md) |                              Recompile Mode |
 
 </div>

@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-build-when-things-go-wrong.html)
+[Prev](s1-rpm-build-when-things-go-wrong.md)
 
-[Next](s1-rpm-b-command-other-build-commands.html)
+[Next](s1-rpm-b-command-other-build-commands.md)
 
 -----
 
@@ -35,14 +35,14 @@ Page
 Execute **%prep**
 
 [the Section called ***rpmbuild** **-bp** — Execute
-**%prep***](ch-rpm-b-command.html#s2-rpm-b-command-bp-option)
+**%prep***](ch-rpm-b-command.md#s2-rpm-b-command-bp-option)
 
 **c**
 
 Execute **%prep**, **%build**
 
 [the Section called ***rpmbuild** **-bc** — Execute **%prep**,
-**%build***](ch-rpm-b-command.html#s2-rpm-b-command-bc-option)
+**%build***](ch-rpm-b-command.md#s2-rpm-b-command-bc-option)
 
 **i**
 
@@ -50,7 +50,7 @@ Execute **%prep**, **%build**, **%install**, **%check**
 
 [the Section called ***rpmbuild** **-bi** — Execute **%prep**,
 **%build**, **%install**,
-**%check***](ch-rpm-b-command.html#s2-rpm-b-command-bi-option)
+**%check***](ch-rpm-b-command.md#s2-rpm-b-command-bi-option)
 
 **b**
 
@@ -58,7 +58,7 @@ Execute **%prep**, **%build**, **%install**, **%check**, package (bin)
 
 [the Section called ***rpmbuild** **-bb** — Execute **%prep**,
 **%build**, **%install**, **%check**, package
-(bin)*](ch-rpm-b-command.html#s2-rpm-b-command-bb-option)
+(bin)*](ch-rpm-b-command.md#s2-rpm-b-command-bb-option)
 
 **a**
 
@@ -67,14 +67,14 @@ src)
 
 [the Section called ***rpmbuild** **-ba** — Execute **%prep**,
 **%build**, **%install**, **%check**, package (bin,
-src)*](ch-rpm-b-command.html#s2-rpm-b-command-ba-option)
+src)*](ch-rpm-b-command.md#s2-rpm-b-command-ba-option)
 
 **l**
 
 Check **%files** list
 
 [the Section called ***rpmbuild** **-bl** — Check **%files**
-list*](ch-rpm-b-command.html#s2-rpm-b-command-bl-option)
+list*](ch-rpm-b-command.md#s2-rpm-b-command-bl-option)
 
 Parameters
 
@@ -92,28 +92,28 @@ Force build to start at particular stage (**-bc**, **-bi** only)
 
 [the Section called ***--short-circuit** — Force build to start at
 particular
-stage*](ch-rpm-b-command.html#s2-rpm-b-command-short-circuit-option)
+stage*](ch-rpm-b-command.md#s2-rpm-b-command-short-circuit-option)
 
 **--test**
 
 Create, save build scripts for review
 
 [the Section called ***--test** — Create, Save Build Scripts For
-Review*](ch-rpm-b-command.html#s2-rpm-b-command-test-option)
+Review*](ch-rpm-b-command.md#s2-rpm-b-command-test-option)
 
 **--clean**
 
 Clean up after build
 
 [the Section called ***--clean** — Clean up after
-build*](ch-rpm-b-command.html#s2-rpm-b-command-clean-option)
+build*](ch-rpm-b-command.md#s2-rpm-b-command-clean-option)
 
 **--sign**
 
 Add a digital signature to the package
 
 [the Section called ***--sign** — Add a Digital Signature to the
-Package*](ch-rpm-b-command.html#s2-rpm-b-command-sign-option)
+Package*](ch-rpm-b-command.md#s2-rpm-b-command-sign-option)
 
 **--buildroot `<root>`**
 
@@ -121,7 +121,7 @@ Execute **%install** using **`<root>`** as the root
 
 [the Section called ***--buildroot `<path>`** — Execute **%install**
 using **`<path>`** as the
-root*](ch-rpm-b-command.html#s2-rpm-b-command-buildroot-option)
+root*](ch-rpm-b-command.md#s2-rpm-b-command-buildroot-option)
 
 **--buildarch `<arch>`**
 
@@ -129,7 +129,7 @@ Perform build for the **`<arch>`** architecture
 
 [the Section called ***--buildarch `<arch>`** — Perform Build For the
 **`<arch>`**
-Architecture*](ch-rpm-b-command.html#s2-rpm-b-command-buildarch-option)
+Architecture*](ch-rpm-b-command.md#s2-rpm-b-command-buildarch-option)
 
 **--buildos `<os>`**
 
@@ -137,7 +137,7 @@ Perform build for the **`<os>`** operating system
 
 [the Section called ***--buildos `<os>`** — Perform Build For the
 **`<os>`** Operating
-System*](ch-rpm-b-command.html#s2-rpm-b-command-buildos-option)
+System*](ch-rpm-b-command.md#s2-rpm-b-command-buildos-option)
 
 **--timecheck `<secs>`**
 
@@ -145,7 +145,7 @@ Print a warning if files are over **`<secs>`** old
 
 [the Section called ***--timecheck `<secs>`** — Print a warning if files
 to be packaged are over **`<secs>`**
-old*](ch-rpm-b-command.html#s2-rpm-b-command-timecheck-option)
+old*](ch-rpm-b-command.md#s2-rpm-b-command-timecheck-option)
 
 General Options
 
@@ -156,14 +156,14 @@ Page
 Display debugging information
 
 [the Section called ***-vv** — Display debugging
-information*](ch-rpm-b-command.html#s2-rpm-b-command-vv-option)
+information*](ch-rpm-b-command.md#s2-rpm-b-command-vv-option)
 
 **--quiet**
 
 Produce as little output as possible
 
 [the Section called ***--quiet** — Produce as Little Output as
-Possible*](ch-rpm-b-command.html#s2-rpm-b-command-quiet-option)
+Possible*](ch-rpm-b-command.md#s2-rpm-b-command-quiet-option)
 
 **--rcfile `<rcfile>`**
 
@@ -171,7 +171,7 @@ Set alternate `rpmrc` file to **`<rcfile>`**
 
 [the Section called ***--rcfile `<rcfile>`** — Set alternate `rpmrc`
 file to
-**`<rcfile>`***](ch-rpm-b-command.html#s2-rpm-b-command-rcfile-option)
+**`<rcfile>`***](ch-rpm-b-command.md#s2-rpm-b-command-rcfile-option)
 
 <div class="sect1">
 
@@ -190,7 +190,7 @@ over and above "**rpmbuild**":
 
 2.  The desired stage at which the build is to stop.
 
-As we discussed in [Chapter 10](ch-rpm-basics.html), the spec file is
+As we discussed in [Chapter 10](ch-rpm-basics.md), the spec file is
 one of the inputs to RPM's build process. It contains the information
 necessary for RPM to perform the build and package the software.
 
@@ -210,7 +210,7 @@ step in the build process. In the spec file, this step is labeled
 the **-bp** option is used.
 
 Here's a simple **%prep** section from the spec file we used in [Chapter
-11](ch-rpm-build.html):
+11](ch-rpm-build.md):
 
 <table>
 <colgroup>
@@ -784,7 +784,7 @@ roots. When using the **-bl** option, however, RPM is simply making sure
 the files exist on the build system. If the **--timecheck** option
 (described a bit later, on [the Section called ***--timecheck `<secs>`**
 — Print a warning if files to be packaged are over **`<secs>`**
-old*](ch-rpm-b-command.html#s2-rpm-b-command-timecheck-option)) is
+old*](ch-rpm-b-command.md#s2-rpm-b-command-timecheck-option)) is
 present, the checks required by that option are performed here, as well.
 
 After the list check, the MD5 checksums of each file are calculated and
@@ -1081,7 +1081,7 @@ architecture:
 </table>
 
 For more information on build packages for multiple architectures,
-please see [Chapter 19](ch-rpm-multi.html).
+please see [Chapter 19](ch-rpm-multi.md).
 
 </div>
 
@@ -1135,7 +1135,7 @@ will tell us:
 
 The package was indeed built for the specified operating system. For
 more information on building packages for multiple operating systems,
-please see [Chapter 19](ch-rpm-multi.html).
+please see [Chapter 19](ch-rpm-multi.md).
 
 </div>
 
@@ -1205,7 +1205,7 @@ The fact that there is a **pgp** in **--checksig**'s output indicates
 that the packages have been signed.
 
 For more information on signing packages, please see [Chapter
-17](ch-rpm-pgp.html). Also, [Appendix G](ch-pgp-intro.html) contains
+17](ch-rpm-pgp.md). Also, [Appendix G](ch-pgp-intro.md) contains
 information on obtaining and installing PGP.
 
 </div>
@@ -1446,7 +1446,7 @@ Build failed.
 </tbody>
 </table>
 
-[Chapter 16](ch-rpm-anywhere.html) has complete instructions on the
+[Chapter 16](ch-rpm-anywhere.md) has complete instructions on the
 modifications necessary to configure a package to use an alternate build
 root, as well as methods to permit users to build packages without root
 access. Assuming that the necessary modifications have been made, here
@@ -1668,7 +1668,7 @@ include the following line in your `rpmrc` file:
 
 This value can still be overridden by a value on the command line, if
 desired. For more information on the use of `rpmrc` files, see [Appendix
-B](ch-rpmrc-file.html).
+B](ch-rpmrc-file.md).
 
 </div>
 
@@ -1778,7 +1778,7 @@ directory.
 This option would be used if there was a need to switch between several
 sets of RPM defaults. Software developers and package builders will
 normally be the only people using the **--rcfile** option. For more
-information on `rpmrc` files, see [Appendix B](ch-rpmrc-file.html).
+information on `rpmrc` files, see [Appendix B](ch-rpmrc-file.md).
 
 </div>
 
@@ -1788,9 +1788,9 @@ information on `rpmrc` files, see [Appendix B](ch-rpmrc-file.html).
 
 |                                                                      |                                                                                                                                                                                                                                                                                               |
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](ch-rpm-b-command.html#AEN6552) | As we mentioned in [Chapter 10](ch-rpm-basics.html), if the original sources need to be modified, the modifications should be kept as a separate set of patches. However, during development, it makes more sense to not generate patches every time a change to the original source is made. |
-| [<span class="footnote">\[2\]</span>](ch-rpm-b-command.html#AEN6863) | Or the **%clean** section, it doesn't matter — the end result is the same.                                                                                                                                                                                                                    |
-| [<span class="footnote">\[3\]</span>](ch-rpm-b-command.html#AEN6928) | It should be noted that the package was built *substantially* later than November of 1995\!                                                                                                                                                                                                   |
+| [<span class="footnote">\[1\]</span>](ch-rpm-b-command.md#AEN6552) | As we mentioned in [Chapter 10](ch-rpm-basics.md), if the original sources need to be modified, the modifications should be kept as a separate set of patches. However, during development, it makes more sense to not generate patches every time a change to the original source is made. |
+| [<span class="footnote">\[2\]</span>](ch-rpm-b-command.md#AEN6863) | Or the **%clean** section, it doesn't matter — the end result is the same.                                                                                                                                                                                                                    |
+| [<span class="footnote">\[3\]</span>](ch-rpm-b-command.md#AEN6928) | It should be noted that the package was built *substantially* later than November of 1995\!                                                                                                                                                                                                   |
 
 <div class="NAVFOOTER">
 
@@ -1798,7 +1798,7 @@ information on `rpmrc` files, see [Appendix B](ch-rpmrc-file.html).
 
 |                                                |                    |                                                    |
 | :--------------------------------------------- | :----------------: | -------------------------------------------------: |
-| [Prev](s1-rpm-build-when-things-go-wrong.html) | [Home](index.html) | [Next](s1-rpm-b-command-other-build-commands.html) |
-| When Things Go Wrong                           |  [Up](p5206.html)  |                       Other Build-related Commands |
+| [Prev](s1-rpm-build-when-things-go-wrong.md) | [Home](index.md) | [Next](s1-rpm-b-command-other-build-commands.md) |
+| When Things Go Wrong                           |  [Up](p5206.md)  |                       Other Build-related Commands |
 
 </div>

@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-erase-watch-out.html)
+[Prev](s1-rpm-erase-watch-out.md)
 
-[Next](s1-rpm-upgrade-upgrading-a-package.html)
+[Next](s1-rpm-upgrade-upgrading-a-package.md)
 
 -----
 
@@ -39,78 +39,78 @@ Page
 **-h** (or **--hash**)
 
 Print hash marks ("\#") during
-upgrade[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+upgrade[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called ***-h**: Perfect for the Impatient* in Chapter
-2](s1-rpm-install-handy-options.html#s2-rpm-install-install-h)
+2](s1-rpm-install-handy-options.md#s2-rpm-install-install-h)
 
 **--oldpackage**
 
 Permit "upgrading" to an older package
 
 [the Section called ***--oldpackage**: Upgrade To An Older
-Version*](s1-rpm-upgrade-nearly-identical.html#s2-rpm-upgrade-oldpackage-option)
+Version*](s1-rpm-upgrade-nearly-identical.md#s2-rpm-upgrade-oldpackage-option)
 
 **--test**
 
 Perform upgrade tests
-only[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+only[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called ***--test**: Perform Installation Tests Only* in
 Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-test-option)
+2](s1-rpm-install-additional-options.md#s2-rpm-install-test-option)
 
 **--excludedocs**
 
 Do not install
-documentation[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+documentation[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called ***--excludedocs**: Do Not Install Documentation For
 This Package* in Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-excludedocs-option)
+2](s1-rpm-install-additional-options.md#s2-rpm-install-excludedocs-option)
 
 **--includedocs**
 
 Install
-documentation[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+documentation[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called ***--includedocs**: Install Documentation For This
 Package* in Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-includedocs)
+2](s1-rpm-install-additional-options.md#s2-rpm-install-includedocs)
 
 **--replacepkgs**
 
 Replace a package with a new copy of
-itself[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+itself[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called ***--replacepkgs**: Install the Package Even If
 Already Installed* in Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-replacepkgs)
+2](s1-rpm-install-additional-options.md#s2-rpm-install-replacepkgs)
 
 **--replacefiles**
 
 Replace files owned by another
-package[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+package[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called ***--replacefiles**: Install the Package Even If It
 Replaces Another Package's Files* in Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-replacefiles-option)
+2](s1-rpm-install-additional-options.md#s2-rpm-install-replacefiles-option)
 
 **--force**
 
 Ignore package and file conflicts
 
 [the Section called ***--force**: The Big
-Hammer*](s1-rpm-upgrade-nearly-identical.html#s2-rpm-upgrade-force-option)
+Hammer*](s1-rpm-upgrade-nearly-identical.md#s2-rpm-upgrade-force-option)
 
 **--percent**
 
 Print percentages during
-upgrade[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+upgrade[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called ***--percent**: Not Meant for Human Consumption* in
 Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-percent)
+2](s1-rpm-install-additional-options.md#s2-rpm-install-percent)
 
 **--noscripts**
 
@@ -118,61 +118,61 @@ Do not execute pre- and post-install scripts
 
 [the Section called ***--noscripts**: Do Not Execute Install and
 Uninstall
-Scripts*](s1-rpm-upgrade-nearly-identical.html#s2-rpm-upgrade-noscripts-option)
+Scripts*](s1-rpm-upgrade-nearly-identical.md#s2-rpm-upgrade-noscripts-option)
 
 **--prefix `<path>`**
 
 Relocate package to **`<path>`** if
-possible[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+possible[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called ***--prefix `<path>`**: Relocate the package to
 **`<path>`**, if possible* in Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-prefix)
+2](s1-rpm-install-additional-options.md#s2-rpm-install-prefix)
 
 **--ignorearch**
 
 Do not verify package
-architecture[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+architecture[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called ***--ignorearch**: Do Not Verify Package
 Architecture* in Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-ignorearch)
+2](s1-rpm-install-additional-options.md#s2-rpm-install-ignorearch)
 
 **--ignoreos**
 
 Do not verify package operating
-system[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+system[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called ***--ignoreos**: Do Not Verify Package Operating
 System* in Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-ignoreos)
+2](s1-rpm-install-additional-options.md#s2-rpm-install-ignoreos)
 
 **--nodeps**
 
 Do not check
-dependencies[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+dependencies[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called ***--nodeps**: Do Not Check Dependencies Before
 Installing Package* in Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-nodeps)
+2](s1-rpm-install-additional-options.md#s2-rpm-install-nodeps)
 
 **--ftpproxy `<host>`**
 
 Use **`<host>`** as the FTP
-proxy[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+proxy[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called ***--ftpproxy `<host>`**: Use **`<host>`** As Proxy
 In FTP-based Installs* in Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-ftpproxy)
+2](s1-rpm-install-additional-options.md#s2-rpm-install-ftpproxy)
 
 **--ftpport `<port>`**
 
 Use **`<port>`** as the FTP
-port[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+port[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called ***--ftpport `<port>`**: Use **`<port>`** In
 FTP-based Installs* in Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-ftpport)
+2](s1-rpm-install-additional-options.md#s2-rpm-install-ftpport)
 
 General Options
 
@@ -181,37 +181,37 @@ Page
 **-v**
 
 Display additional
-information[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+information[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called *Getting a bit more feedback with **-v*** in Chapter
-2](s1-rpm-install-handy-options.html#s2-rpm-install-more-feedback)
+2](s1-rpm-install-handy-options.md#s2-rpm-install-more-feedback)
 
 **-vv**
 
 Display debugging
-information[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+information[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called *Getting a *lot* more information with **-vv*** in
 Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-vv-option)
+2](s1-rpm-install-additional-options.md#s2-rpm-install-vv-option)
 
 **--root `<path>`**
 
 Set alternate root to
-**`<path>`**[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+**`<path>`**[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called ***--root `<path>`**: Use **`<path>`** As An
 Alternate Root* in Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-root)
+2](s1-rpm-install-additional-options.md#s2-rpm-install-root)
 
 **--rcfile `<rcfile>`**
 
 Set alternate rpmrc file to
-**`<rcfile>`**[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.html#FTN.fn-rpm-upgrade-tablefoot)
+**`<rcfile>`**[<span class="footnote">\[a\]</span>](ch-rpm-upgrade.md#FTN.fn-rpm-upgrade-tablefoot)
 
 [the Section called ***--rcfile `<rcfile>`**: Use **`<rcfile>`** As An
 Alternate `rpmrc` File* in Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-rcfile)
+2](s1-rpm-install-additional-options.md#s2-rpm-install-rcfile)
 
 **--dbpath `<path>`**
 
@@ -220,12 +220,12 @@ Use **`<path>`** to find the RPM database
 
 [the Section called ***--dbpath `<path>`**: Use **`<path>`** To Find RPM
 Database* in Chapter
-2](s1-rpm-install-additional-options.html#s2-rpm-install-dbpath)
+2](s1-rpm-install-additional-options.md#s2-rpm-install-dbpath)
 
 Notes:  
 <span id="FTN.fn-rpm-upgrade-tablefoot">a.</span> This option behaves
 identically to the same option used with **rpm -i**. Please see [Chapter
-2](ch-rpm-install.html) for more information on this option.  
+2](ch-rpm-install.md) for more information on this option.  
 
 <div class="sect1">
 
@@ -243,9 +243,9 @@ distinct operations:
 2.  Erases all older versions of the package, if any exist.
 
 If it sounds to you like **rpm -U** is nothing more than an **rpm -i**
-command (see [Chapter 2](ch-rpm-install.html)) followed by the
+command (see [Chapter 2](ch-rpm-install.md)) followed by the
 appropriate number of **rpm -e** commands, (see [Chapter
-3](ch-rpm-erase.html)) you'd be exactly right. In fact, we'll be
+3](ch-rpm-erase.md)) you'd be exactly right. In fact, we'll be
 referring back to those chapters as we discuss **rpm -U**, so if you
 haven't skimmed those chapters yet, you might want to do that now.
 
@@ -441,8 +441,8 @@ deleted.
 
 |                                                                    |                                                                                                                                                        |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [<span class="footnote">\[1\]</span>](ch-rpm-upgrade.html#AEN2156) | Actually, there's a one in 2<sup>128</sup> chance a change will go undetected, but for all practical purposes, it's as close to perfect as we can get. |
-| [<span class="footnote">\[2\]</span>](ch-rpm-upgrade.html#AEN2180) | Or, as some sticklers for detail may note, it may have been modified, and subsequently those modifications were undone.                                |
+| [<span class="footnote">\[1\]</span>](ch-rpm-upgrade.md#AEN2156) | Actually, there's a one in 2<sup>128</sup> chance a change will go undetected, but for all practical purposes, it's as close to perfect as we can get. |
+| [<span class="footnote">\[2\]</span>](ch-rpm-upgrade.md#AEN2180) | Or, as some sticklers for detail may note, it may have been modified, and subsequently those modifications were undone.                                |
 
 <div class="NAVFOOTER">
 
@@ -450,7 +450,7 @@ deleted.
 
 |                                     |                    |                                                 |
 | :---------------------------------- | :----------------: | ----------------------------------------------: |
-| [Prev](s1-rpm-erase-watch-out.html) | [Home](index.html) | [Next](s1-rpm-upgrade-upgrading-a-package.html) |
-| Watch Out\!                         |  [Up](p108.html)   |                             Upgrading a Package |
+| [Prev](s1-rpm-erase-watch-out.md) | [Home](index.md) | [Next](s1-rpm-upgrade-upgrading-a-package.md) |
+| Watch Out\!                         |  [Up](p108.md)   |                             Upgrading a Package |
 
 </div>

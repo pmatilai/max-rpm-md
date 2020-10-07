@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-rpm-anywhere.html)
+[Prev](ch-rpm-anywhere.md)
 
 Chapter 16. Making a Package That Can Build Anywhere
 
-[Next](s1-rpm-anywhere-specifying-file-attributes.html)
+[Next](s1-rpm-anywhere-specifying-file-attributes.md)
 
 -----
 
@@ -276,7 +276,7 @@ a non-root user to do?
 
 |                                          |                            |                                                         |
 | :--------------------------------------- | :------------------------: | ------------------------------------------------------: |
-| [Prev](ch-rpm-anywhere.html)             |     [Home](index.html)     | [Next](s1-rpm-anywhere-specifying-file-attributes.html) |
-| Making a Package That Can Build Anywhere | [Up](ch-rpm-anywhere.html) |                              Specifying File Attributes |
+| [Prev](ch-rpm-anywhere.md)             |     [Home](index.md)     | [Next](s1-rpm-anywhere-specifying-file-attributes.md) |
+| Making a Package That Can Build Anywhere | [Up](ch-rpm-anywhere.md) |                              Specifying File Attributes |
 
 </div>

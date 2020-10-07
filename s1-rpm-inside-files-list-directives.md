@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-inside-files-list.html)
+[Prev](s1-rpm-inside-files-list.md)
 
 Chapter 13. Inside the Spec File
 
-[Next](s1-rpm-inside-package-directive.html)
+[Next](s1-rpm-inside-package-directive.md)
 
 -----
 
@@ -97,7 +97,7 @@ copies the `README` file there. The newly created directory and the
 `README` file are marked in the RPM database as being documentation. The
 default documentation directory is `/usr/doc`, and can be changed by
 setting the **defaultdocdir** `rpmrc` file entry. For more information
-on `rpmrc` files, please see [Appendix B](ch-rpmrc-file.html).
+on `rpmrc` files, please see [Appendix B](ch-rpmrc-file.md).
 
 The file `/usr/local/foonly/README` was installed into that directory
 during the build and is included in the package file. When the package
@@ -205,7 +205,7 @@ properly), then that attribute may be replaced with a dash:
 The main reason to use the **%attr** directive is to permit users
 without root access to build packages. The techniques for doing this
 (and a more in-depth discussion of the **%attr** directive) can be found
-in [Chapter 16](ch-rpm-anywhere.html).
+in [Chapter 16](ch-rpm-anywhere.md).
 
 </div>
 
@@ -253,7 +253,7 @@ top of **%files**.
 ### <span id="s3-rpm-inside-flist-ghost-directive">The **%ghost** Directive</span>
 
 As we mentioned in [the Section called *The **%files**
-List*](s1-rpm-inside-files-list.html), if a file is specified in the
+List*](s1-rpm-inside-files-list.md), if a file is specified in the
 **%files** list, that file will automatically be included in the
 package. There are times when a file should be owned by the package but
 not installed - log files and state files are good examples of cases you
@@ -588,7 +588,7 @@ marked as documentation directories, too.
 ### <span id="s3-rpm-inside-dir-directive">The **%dir** Directive</span>
 
 As we mentioned in [the Section called *The **%files**
-List*](s1-rpm-inside-files-list.html), if a directory is specified in
+List*](s1-rpm-inside-files-list.md), if a directory is specified in
 the **%files** list, the contents of that directory, and the contents of
 every directory under it, will automatically be included in the package.
 While this feature can be handy (assuming you are *sure* that every file
@@ -737,7 +737,7 @@ packaged, followed by every filename following the **%files** line.
 
 |                                                                                         |                                                                                                                                                                                                              |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [<span class="footnote">\[1\]</span>](s1-rpm-inside-files-list-directives.html#AEN8936) | RPM will automatically exclude file attributes from verification if it doesn't make sense for the type of file. In our example, getting the MD5 checksum of a device file is an example of such a situation. |
+| [<span class="footnote">\[1\]</span>](s1-rpm-inside-files-list-directives.md#AEN8936) | RPM will automatically exclude file attributes from verification if it doesn't make sense for the type of file. In our example, getting the MD5 checksum of a device file is an example of such a situation. |
 
 <div class="NAVFOOTER">
 
@@ -745,7 +745,7 @@ packaged, followed by every filename following the **%files** line.
 
 |                                       |                          |                                              |
 | :------------------------------------ | :----------------------: | -------------------------------------------: |
-| [Prev](s1-rpm-inside-files-list.html) |    [Home](index.html)    | [Next](s1-rpm-inside-package-directive.html) |
-| The **%files** List                   | [Up](ch-rpm-inside.html) |             The Lone Directive: **%package** |
+| [Prev](s1-rpm-inside-files-list.md) |    [Home](index.md)    | [Next](s1-rpm-inside-package-directive.md) |
+| The **%files** List                   | [Up](ch-rpm-inside.md) |             The Lone Directive: **%package** |
 
 </div>

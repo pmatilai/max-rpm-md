@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-intro-to-rpm-rpm-design-goals.html)
+[Prev](s1-intro-to-rpm-rpm-design-goals.md)
 
 Chapter 1. An Introduction to Package Management
 
-[Next](s1-intro-to-rpm-lets-get-started.html)
+[Next](s1-intro-to-rpm-lets-get-started.md)
 
 -----
 
@@ -96,7 +96,7 @@ does make it easier to keep track of things.
 However, a package file may be renamed, and the new filename won't
 confuse RPM in the least. That's because the package label is contained
 within the file. For a fairly technical view of the inside of a package
-file, refer to [Appendix A](ch-rpm-file-format.html).
+file, refer to [Appendix A](ch-rpm-file-format.md).
 
 </div>
 
@@ -148,9 +148,9 @@ package. The information includes:
 
 |                                                                                     |                                                                                                                                                                                             |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-intro-to-rpm-whats-in-package.html#AEN376) | See [Appendix A](ch-rpm-file-format.html) for complete details on the contents of a .rpm file.                                                                                              |
-| [<span class="footnote">\[2\]</span>](s1-intro-to-rpm-whats-in-package.html#AEN434) | For more information on RPM's signature checking capability, refer to [the Section called ***rpm -K** — What Does it Do?* in Chapter 7](ch-rpm-checksig.html#s1-rpm-checksig-what-it-does). |
-| [<span class="footnote">\[3\]</span>](s1-intro-to-rpm-whats-in-package.html#AEN452) | We'll discuss MD5 checksums in greater detail in [the Section called *MD5 Checksum* in Chapter 6](ch-rpm-verify.html#s3-rpm-verify-md5-checksum).                                           |
+| [<span class="footnote">\[1\]</span>](s1-intro-to-rpm-whats-in-package.md#AEN376) | See [Appendix A](ch-rpm-file-format.md) for complete details on the contents of a .rpm file.                                                                                              |
+| [<span class="footnote">\[2\]</span>](s1-intro-to-rpm-whats-in-package.md#AEN434) | For more information on RPM's signature checking capability, refer to [the Section called ***rpm -K** — What Does it Do?* in Chapter 7](ch-rpm-checksig.md#s1-rpm-checksig-what-it-does). |
+| [<span class="footnote">\[3\]</span>](s1-intro-to-rpm-whats-in-package.md#AEN452) | We'll discuss MD5 checksums in greater detail in [the Section called *MD5 Checksum* in Chapter 6](ch-rpm-verify.md#s3-rpm-verify-md5-checksum).                                           |
 
 <div class="NAVFOOTER">
 
@@ -158,7 +158,7 @@ package. The information includes:
 
 |                                               |                            |                                               |
 | :-------------------------------------------- | :------------------------: | --------------------------------------------: |
-| [Prev](s1-intro-to-rpm-rpm-design-goals.html) |     [Home](index.html)     | [Next](s1-intro-to-rpm-lets-get-started.html) |
-| RPM Design Goals                              | [Up](ch-intro-to-rpm.html) |                             Let's Get Started |
+| [Prev](s1-intro-to-rpm-rpm-design-goals.md) |     [Home](index.md)     | [Next](s1-intro-to-rpm-lets-get-started.md) |
+| RPM Design Goals                              | [Up](ch-intro-to-rpm.md) |                             Let's Get Started |
 
 </div>

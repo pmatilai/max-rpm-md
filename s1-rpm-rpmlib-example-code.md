@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-rpmlib-functions.html)
+[Prev](s1-rpm-rpmlib-functions.md)
 
 Chapter 21. A Guide to the RPM Library API
 
-[Next](p14028.html)
+[Next](p14028.md)
 
 -----
 
@@ -698,7 +698,7 @@ Entry      : 036 (1064)RPMVERSION  STRING_TYPE        0x00000b62 00000001
 
 |                                      |                          |                     |
 | :----------------------------------- | :----------------------: | ------------------: |
-| [Prev](s1-rpm-rpmlib-functions.html) |    [Home](index.html)    | [Next](p14028.html) |
-| rpmlib Functions                     | [Up](ch-rpm-rpmlib.html) |          Appendixes |
+| [Prev](s1-rpm-rpmlib-functions.md) |    [Home](index.md)    | [Next](p14028.md) |
+| rpmlib Functions                     | [Up](ch-rpm-rpmlib.md) |          Appendixes |
 
 </div>

@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-inside-scripts.html)
+[Prev](s1-rpm-inside-scripts.md)
 
 Chapter 13. Inside the Spec File
 
-[Next](s1-rpm-inside-files-list.html)
+[Next](s1-rpm-inside-files-list.md)
 
 -----
 
@@ -186,7 +186,7 @@ the directory specified by the **-n** option. This makes **-n**
 unsuitable as a means of unpacking sources in directories other than the
 top-level build directory. In the upcoming example on [the Section
 called *Using **%setup** in a Multi-source Spec
-File*](s1-rpm-inside-macros.html#s3-rpm-inside-setup-multi-source),
+File*](s1-rpm-inside-macros.md#s3-rpm-inside-setup-multi-source),
 we'll show a way around this restriction.
 
 A quick word of warning: If the name specified with the **-n** option
@@ -1169,7 +1169,7 @@ That's about it for RPM's macros. Next, let's take a look at the
 
 |                                                                          |                                                                        |
 | ------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-inside-macros.html#AEN8439) | Yes, the **source** tags should include a URL pointing to the sources. |
+| [<span class="footnote">\[1\]</span>](s1-rpm-inside-macros.md#AEN8439) | Yes, the **source** tags should include a URL pointing to the sources. |
 
 <div class="NAVFOOTER">
 
@@ -1177,7 +1177,7 @@ That's about it for RPM's macros. Next, let's take a look at the
 
 |                                    |                          |                                       |
 | :--------------------------------- | :----------------------: | ------------------------------------: |
-| [Prev](s1-rpm-inside-scripts.html) |    [Home](index.html)    | [Next](s1-rpm-inside-files-list.html) |
-| Scripts: RPM's Workhorse           | [Up](ch-rpm-inside.html) |                   The **%files** List |
+| [Prev](s1-rpm-inside-scripts.md) |    [Home](index.md)    | [Next](s1-rpm-inside-files-list.md) |
+| Scripts: RPM's Workhorse           | [Up](ch-rpm-inside.md) |                   The **%files** List |
 
 </div>

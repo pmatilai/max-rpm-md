@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-queryformat-tags.html)
+[Prev](ch-queryformat-tags.md)
 
-[Next](s1-rpm-specref-preamble.html)
+[Next](s1-rpm-specref-preamble.md)
 
 -----
 
@@ -53,7 +53,7 @@ have the first line commented also escape the percent (**%**) character:
 </table>
 
 See also: [the Section called *Comments: Notes Ignored by RPM* in
-Chapter 13](ch-rpm-inside.html#s1-rpm-inside-comments).
+Chapter 13](ch-rpm-inside.md#s1-rpm-inside-comments).
 
 </div>
 
@@ -65,7 +65,7 @@ Chapter 13](ch-rpm-inside.html#s1-rpm-inside-comments).
 
 |                                      |                    |                                      |
 | :----------------------------------- | :----------------: | -----------------------------------: |
-| [Prev](ch-queryformat-tags.html)     | [Home](index.html) | [Next](s1-rpm-specref-preamble.html) |
-| Available Tags For **--queryformat** | [Up](p14028.html)  |                         The Preamble |
+| [Prev](ch-queryformat-tags.md)     | [Home](index.md) | [Next](s1-rpm-specref-preamble.md) |
+| Available Tags For **--queryformat** | [Up](p14028.md)  |                         The Preamble |
 
 </div>

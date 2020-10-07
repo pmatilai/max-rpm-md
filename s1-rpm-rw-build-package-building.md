@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-rw-build-initial-build-with-rpm.html)
+[Prev](s1-rpm-rw-build-initial-build-with-rpm.md)
 
 Chapter 20. Real-World Package Building
 
-[Next](ch-rpm-rpmlib.html)
+[Next](ch-rpm-rpmlib.md)
 
 -----
 
@@ -572,7 +572,7 @@ amanda-server       ##################################################
 
 Running some tests, it looks like everything is running well. But back
 in [the Section called *Testing Newly Built Packages* in Chapter
-11](s1-rpm-build-when-things-go-wrong.html#s2-rpm-build-testing-packages),
+11](s1-rpm-build-when-things-go-wrong.md#s2-rpm-build-testing-packages),
 we mentioned that it was possible to install a newly-built package on
 the build system, and not realize that the package was missing files.
 Well, there's another reason why installing the package on the
@@ -1217,7 +1217,7 @@ building for more complex applications.
 
 |                                                     |                            |                                |
 | :-------------------------------------------------- | :------------------------: | -----------------------------: |
-| [Prev](s1-rpm-rw-build-initial-build-with-rpm.html) |     [Home](index.html)     |     [Next](ch-rpm-rpmlib.html) |
-| Initial Building With RPM                           | [Up](ch-rpm-rw-build.html) | A Guide to the RPM Library API |
+| [Prev](s1-rpm-rw-build-initial-build-with-rpm.md) |     [Home](index.md)     |     [Next](ch-rpm-rpmlib.md) |
+| Initial Building With RPM                           | [Up](ch-rpm-rw-build.md) | A Guide to the RPM Library API |
 
 </div>

@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](ch-pgp-intro.html)
+[Prev](ch-pgp-intro.md)
 
 Appendix G. An Introduction to PGP
 
-[Next](i18625.html)
+[Next](i18625.md)
 
 -----
 
@@ -114,7 +114,7 @@ World Wide Web. Point your web browser at:
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><pre class="screen"><code>http://web.mit.edu/network/pgp.html
+<td><pre class="screen"><code>http://web.mit.edu/network/pgp.md
 
           </code></pre></td>
 </tr>
@@ -270,10 +270,10 @@ After making these changes, PGP should build with no problems.
 After building and installing PGP, you're ready to start using RPM's
 package signature capabilities. If your primary interest is in checking
 the signatures on packages built by someone else, [Chapter
-7](ch-rpm-checksig.html) will tell you everything you need to know.
+7](ch-rpm-checksig.md) will tell you everything you need to know.
 
 On the other hand, if you are a package builder and would like to start
-signing packages, [Chapter 17](ch-rpm-pgp.html) will have you signing
+signing packages, [Chapter 17](ch-rpm-pgp.md) will have you signing
 packages in no time.
 
 </div>
@@ -284,7 +284,7 @@ packages in no time.
 
 |                                                                                  |                                                                                                           |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-pgp-intro-installing-pgp.html#AEN18564) | Note that there are no commercial restrictions regarding PGP in countries other than the U.S. and Canada. |
+| [<span class="footnote">\[1\]</span>](s1-pgp-intro-installing-pgp.md#AEN18564) | Note that there are no commercial restrictions regarding PGP in countries other than the U.S. and Canada. |
 
 <div class="NAVFOOTER">
 
@@ -292,7 +292,7 @@ packages in no time.
 
 |                           |                         |                     |
 | :------------------------ | :---------------------: | ------------------: |
-| [Prev](ch-pgp-intro.html) |   [Home](index.html)    | [Next](i18625.html) |
-| An Introduction to PGP    | [Up](ch-pgp-intro.html) |               Index |
+| [Prev](ch-pgp-intro.md) |   [Home](index.md)    | [Next](i18625.md) |
+| An Introduction to PGP    | [Up](ch-pgp-intro.md) |               Index |
 
 </div>

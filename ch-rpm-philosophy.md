@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](p5206.html)
+[Prev](p5206.md)
 
-[Next](s1-rpm-philosophy-easy-builds.html)
+[Next](s1-rpm-philosophy-easy-builds.md)
 
 -----
 
@@ -119,7 +119,7 @@ from them.
 
 |                                                                           |                    |                                            |
 | :------------------------------------------------------------------------ | :----------------: | -----------------------------------------: |
-| [Prev](p5206.html)                                                        | [Home](index.html) | [Next](s1-rpm-philosophy-easy-builds.html) |
-| RPM and Developers — How to Distribute Your Software More Easily With RPM |  [Up](p5206.html)  |                                Easy Builds |
+| [Prev](p5206.md)                                                        | [Home](index.md) | [Next](s1-rpm-philosophy-easy-builds.md) |
+| RPM and Developers — How to Distribute Your Software More Easily With RPM |  [Up](p5206.md)  |                                Easy Builds |
 
 </div>

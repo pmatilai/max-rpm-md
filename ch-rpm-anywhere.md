@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-reloc-building-relocatable.html)
+[Prev](s1-rpm-reloc-building-relocatable.md)
 
-[Next](s1-rpm-anywhere-different-build-area.html)
+[Next](s1-rpm-anywhere-different-build-area.md)
 
 -----
 
@@ -373,7 +373,7 @@ to build the software in a directory other than RPM's default one.
 
 |                                                                      |                                                                                                                                                                                                          |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](ch-rpm-anywhere.html#AEN10138) | Keep in mind that the build root can be overridden at build-time using the **--buildroot** option or the **buildroot** `rpmmacros` file entry. See [Chapter 12](ch-rpm-b-command.html) for more details. |
+| [<span class="footnote">\[1\]</span>](ch-rpm-anywhere.md#AEN10138) | Keep in mind that the build root can be overridden at build-time using the **--buildroot** option or the **buildroot** `rpmmacros` file entry. See [Chapter 12](ch-rpm-b-command.md) for more details. |
 
 <div class="NAVFOOTER">
 
@@ -381,7 +381,7 @@ to build the software in a directory other than RPM's default one.
 
 |                                                |                    |                                                   |
 | :--------------------------------------------- | :----------------: | ------------------------------------------------: |
-| [Prev](s1-rpm-reloc-building-relocatable.html) | [Home](index.html) | [Next](s1-rpm-anywhere-different-build-area.html) |
-| Building a Relocatable Package                 |  [Up](p5206.html)  |             Having RPM Use a Different Build Area |
+| [Prev](s1-rpm-reloc-building-relocatable.md) | [Home](index.md) | [Next](s1-rpm-anywhere-different-build-area.md) |
+| Building a Relocatable Package                 |  [Up](p5206.md)  |             Having RPM Use a Different Build Area |
 
 </div>

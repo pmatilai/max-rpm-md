@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-depend-manual-dependencies.html)
+[Prev](s1-rpm-depend-manual-dependencies.md)
 
 Chapter 14. Adding Dependency Information to a Package
 
-[Next](ch-rpm-reloc.html)
+[Next](ch-rpm-reloc.md)
 
 -----
 
@@ -28,7 +28,7 @@ requirements can come from two places:
 These requirements can be viewed by using RPM's **--requires** query
 option. A specific requirement can be viewed by using the
 **--whatrequires** query option. Both options are fully described in
-[Chapter 5](ch-rpm-query.html).
+[Chapter 5](ch-rpm-query.md).
 
 The capabilities a package provides, can come from three places:
 
@@ -42,7 +42,7 @@ The capabilities a package provides, can come from three places:
 The first two types of information can be viewed by using RPM's
 **--provides** query option. A specific capability can be viewed by
 using the **--whatprovides** query option. Both options are fully
-described in [Chapter 5](ch-rpm-query.html).
+described in [Chapter 5](ch-rpm-query.md).
 
 The package name and version are not considered capabilities that are
 explicitly provided. Therefore, if a search using **--provides** or
@@ -62,7 +62,7 @@ dependency processing can make life easier for your users.
 
 |                                                |                          |                              |
 | :--------------------------------------------- | :----------------------: | ---------------------------: |
-| [Prev](s1-rpm-depend-manual-dependencies.html) |    [Home](index.html)    |    [Next](ch-rpm-reloc.html) |
-| Manual Dependencies                            | [Up](ch-rpm-depend.html) | Making a Relocatable Package |
+| [Prev](s1-rpm-depend-manual-dependencies.md) |    [Home](index.md)    |    [Next](ch-rpm-reloc.md) |
+| Manual Dependencies                            | [Up](ch-rpm-depend.md) | Making a Relocatable Package |
 
 </div>

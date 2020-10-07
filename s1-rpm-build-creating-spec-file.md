@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-build-getting-sources.html)
+[Prev](s1-rpm-build-getting-sources.md)
 
 Chapter 11. Building Packages: A Simple Example
 
-[Next](s1-rpm-build-starting-build.html)
+[Next](s1-rpm-build-starting-build.md)
 
 -----
 
@@ -44,7 +44,7 @@ Release: 1
 License: GPL
 Group: Applications/Sound
 Source: ftp://ftp.gnomovision.com/pub/cdplayer/cdplayer-1.0.tgz
-URL: http://www.gnomovision.com/cdplayer/cdplayer.html
+URL: http://www.gnomovision.com/cdplayer/cdplayer.md
 Distribution: WSS Linux
 Vendor: White Socks Software, Inc.
 Packager: Santa Claus &lt;sclaus@northpole.com&gt;
@@ -261,7 +261,7 @@ Quite often, the sources may require patching in order to build
 properly. The **%prep** section is the appropriate place to patch the
 sources, but in this example, no patching is required. Fear not,
 however, as we'll explore patching in all its glory in [Chapter
-20](ch-rpm-rw-build.html), when we build a more complex package.
+20](ch-rpm-rw-build.md), when we build a more complex package.
 
 <div class="sect3">
 
@@ -298,7 +298,7 @@ That is simpler than our **%prep** section, so let's use the **%setup**
 macro instead. The **%setup** macro has a number of options to handle
 many different situations. For more information on this and other
 macros, please see [the Section called *Macros: Helpful Shorthand for
-Package Builders* in Chapter 13](s1-rpm-inside-macros.html).
+Package Builders* in Chapter 13](s1-rpm-inside-macros.md).
 
 In our example here, the **%prep** section is complete. Next comes the
 actual build.
@@ -402,7 +402,7 @@ a package-specific directory, located in `/usr/doc`, and called
 `cdplayer-1.0-1`. It's also possible to mark files as documentation and
 have them installed in other directories. This is covered in more detail
 in [the Section called *The **%doc** Directive* in Chapter
-13](s1-rpm-inside-files-list-directives.html#s3-rpm-inside-flist-doc-directive).
+13](s1-rpm-inside-files-list-directives.md#s3-rpm-inside-flist-doc-directive).
 
 The rest of the files in the example are shown with complete paths. This
 is necessary as the files will actually be installed in those
@@ -471,7 +471,7 @@ The scripts can be executed:
   - After a package is erased.
 
 We'll see how these scripts are used in [Chapter
-20](ch-rpm-rw-build.html).
+20](ch-rpm-rw-build.md).
 
 </div>
 
@@ -497,7 +497,7 @@ after the binary package is created.
 
 |                                                                                     |                                                                                                                                                                                                                         |
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<span class="footnote">\[1\]</span>](s1-rpm-build-creating-spec-file.html#AEN5679) | For more information on the environment variables used in the build-time scripts, please refer to [the Section called *Build-time Scripts* in Chapter 13](s1-rpm-inside-scripts.html#s2-rpm-inside-build-time-scripts). |
+| [<span class="footnote">\[1\]</span>](s1-rpm-build-creating-spec-file.md#AEN5679) | For more information on the environment variables used in the build-time scripts, please refer to [the Section called *Build-time Scripts* in Chapter 13](s1-rpm-inside-scripts.md#s2-rpm-inside-build-time-scripts). |
 
 <div class="NAVFOOTER">
 
@@ -505,7 +505,7 @@ after the binary package is created.
 
 |                                           |                         |                                          |
 | :---------------------------------------- | :---------------------: | ---------------------------------------: |
-| [Prev](s1-rpm-build-getting-sources.html) |   [Home](index.html)    | [Next](s1-rpm-build-starting-build.html) |
-| Getting the Sources                       | [Up](ch-rpm-build.html) |                       Starting the Build |
+| [Prev](s1-rpm-build-getting-sources.md) |   [Home](index.md)    | [Next](s1-rpm-build-starting-build.md) |
+| Getting the Sources                       | [Up](ch-rpm-build.md) |                       Starting the Build |
 
 </div>

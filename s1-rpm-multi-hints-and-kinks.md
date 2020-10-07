@@ -4,12 +4,12 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-multi-platform-dependent-conditional.html)
+[Prev](s1-rpm-multi-platform-dependent-conditional.md)
 
 Chapter 19. Building Packages for Multiple Architectures and Operating
 Systems
 
-[Next](ch-rpm-rw-build.html)
+[Next](ch-rpm-rw-build.md)
 
 -----
 
@@ -50,7 +50,7 @@ experiment\!
 
 |                                                          |                         |                              |
 | :------------------------------------------------------- | :---------------------: | ---------------------------: |
-| [Prev](s1-rpm-multi-platform-dependent-conditional.html) |   [Home](index.html)    | [Next](ch-rpm-rw-build.html) |
-| Platform-Dependent Conditionals                          | [Up](ch-rpm-multi.html) |  Real-World Package Building |
+| [Prev](s1-rpm-multi-platform-dependent-conditional.md) |   [Home](index.md)    | [Next](ch-rpm-rw-build.md) |
+| Platform-Dependent Conditionals                          | [Up](ch-rpm-multi.md) |  Real-World Package Building |
 
 </div>

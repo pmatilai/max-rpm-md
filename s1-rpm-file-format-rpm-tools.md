@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-file-format-rpm-file-format.html)
+[Prev](s1-rpm-file-format-rpm-file-format.md)
 
 Appendix A. Format of the RPM File
 
-[Next](s1-rpm-file-format-file-command.html)
+[Next](s1-rpm-file-format-file-command.md)
 
 -----
 
@@ -145,7 +145,7 @@ case, however.
 
 |                                                 |                               |                                                    |
 | :---------------------------------------------- | :---------------------------: | -------------------------------------------------: |
-| [Prev](s1-rpm-file-format-rpm-file-format.html) |      [Home](index.html)       |       [Next](s1-rpm-file-format-file-command.html) |
-| RPM File Format                                 | [Up](ch-rpm-file-format.html) | Identifying RPM files with the **file(1)** command |
+| [Prev](s1-rpm-file-format-rpm-file-format.md) |      [Home](index.md)       |       [Next](s1-rpm-file-format-file-command.md) |
+| RPM File Format                                 | [Up](ch-rpm-file-format.md) | Identifying RPM files with the **file(1)** command |
 
 </div>

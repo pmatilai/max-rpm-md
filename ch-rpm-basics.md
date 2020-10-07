@@ -4,9 +4,9 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-philosophy-summary.html)
+[Prev](s1-rpm-philosophy-summary.md)
 
-[Next](s1-rpm-basics-the-engine.html)
+[Next](s1-rpm-basics-the-engine.md)
 
 -----
 
@@ -238,7 +238,7 @@ list is very important — if it is missing, no package will be built.
 
 |                                        |                    |                                       |
 | :------------------------------------- | :----------------: | ------------------------------------: |
-| [Prev](s1-rpm-philosophy-summary.html) | [Home](index.html) | [Next](s1-rpm-basics-the-engine.html) |
-| To Summarize…                          |  [Up](p5206.html)  |                       The Engine: RPM |
+| [Prev](s1-rpm-philosophy-summary.md) | [Home](index.md) | [Next](s1-rpm-basics-the-engine.md) |
+| To Summarize…                          |  [Up](p5206.md)  |                       The Engine: RPM |
 
 </div>

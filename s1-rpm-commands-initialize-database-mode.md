@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-commands-check-signature-mode.html)
+[Prev](s1-rpm-commands-check-signature-mode.md)
 
 Appendix C. Concise RPM Command Reference
 
-[Next](s1-rpm-commands-rebuild-database-mode.html)
+[Next](s1-rpm-commands-rebuild-database-mode.md)
 
 -----
 
@@ -36,7 +36,7 @@ Only the global options may be used.
 
 |                                                   |                            |                                                    |
 | :------------------------------------------------ | :------------------------: | -------------------------------------------------: |
-| [Prev](s1-rpm-commands-check-signature-mode.html) |     [Home](index.html)     | [Next](s1-rpm-commands-rebuild-database-mode.html) |
-| Check Signature Mode                              | [Up](ch-rpm-commands.html) |                              Rebuild Database Mode |
+| [Prev](s1-rpm-commands-check-signature-mode.md) |     [Home](index.md)     | [Next](s1-rpm-commands-rebuild-database-mode.md) |
+| Check Signature Mode                              | [Up](ch-rpm-commands.md) |                              Rebuild Database Mode |
 
 </div>

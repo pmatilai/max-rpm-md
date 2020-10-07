@@ -4,11 +4,11 @@ Maximum RPM: Taking the RPM Package Manager to the Limit
 
 </div>
 
-[Prev](s1-rpm-file-format-rpm-tools.html)
+[Prev](s1-rpm-file-format-rpm-tools.md)
 
 Appendix A. Format of the RPM File
 
-[Next](ch-rpmrc-file.html)
+[Next](ch-rpmrc-file.md)
 
 -----
 
@@ -78,7 +78,7 @@ been built for the Intel x86 architecture.
 
 |                                           |                               |                            |
 | :---------------------------------------- | :---------------------------: | -------------------------: |
-| [Prev](s1-rpm-file-format-rpm-tools.html) |      [Home](index.html)       | [Next](ch-rpmrc-file.html) |
-| Tools For Studying RPM Files              | [Up](ch-rpm-file-format.html) |           The `rpmrc` File |
+| [Prev](s1-rpm-file-format-rpm-tools.md) |      [Home](index.md)       | [Next](ch-rpmrc-file.md) |
+| Tools For Studying RPM Files              | [Up](ch-rpm-file-format.md) |           The `rpmrc` File |
 
 </div>
